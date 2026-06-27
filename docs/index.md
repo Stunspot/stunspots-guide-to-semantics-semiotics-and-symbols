@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/brand/pages-hero.png" alt="Stunspot's Guide to Semantics, Semiotics, and Symbols — The Semantic-Semiotic Intelligence Canon.">
+</p>
+
 # Stunspot's Guide to Semantics, Semiotics, and Symbols
 
 **The Semantic-Semiotic Intelligence Canon**  
