@@ -1,18 +1,64 @@
 {
   "canon": {
     "title": "Stunspot's Guide to Semantics, Semiotics, and Symbols",
+    "short_title": "The Semantic-Semiotic Intelligence Canon",
     "slug": "semantics-semiotics-and-symbols",
     "version": "1.0",
-    "date_released": "2026-06-27"
+    "date_released": "2026-06-27",
+    "author": "Sam \"stunspot\" Walker",
+    "organization": "Collaborative Dynamics",
+    "license": "CC BY-NC-SA 4.0",
+    "description": "A model-facing Semantic-Semiotic Intelligence canon for representation, reference, signs, meaning, symbols, interpretation, grounding, semantic pathology, and assistant governance.",
+    "primary_audience": "AI/RAG systems, long-context workspaces, assistant governance layers, prompt engineers, semantic knowledge-system builders, and human operators using model-facing knowledge corpora."
+  },
+  "repository": {
+    "full_name": "Stunspot/stunspots-guide-to-semantics-semiotics-and-symbols",
+    "github_url": "https://github.com/Stunspot/stunspots-guide-to-semantics-semiotics-and-symbols",
+    "pages_url": "https://stunspot.github.io/stunspots-guide-to-semantics-semiotics-and-symbols/",
+    "copy_context_present": false,
+    "directory_policy": {
+      "docs": "Navigation, GitHub Pages support, and usage guidance only; individual source reports do not live under docs/.",
+      "knowledge-packs/by-report": "Canonical individual source reports.",
+      "knowledge-packs/compiled-packs": "Grouped upload packs for AI/RAG systems.",
+      "knowledge-packs/omnibus": "Whole-corpus bundle."
+    },
+    "top_level_files": [
+      ".gitignore",
+      "README.md",
+      "LICENSE.md",
+      "CITATION.cff",
+      "zenodo.json",
+      "CHANGELOG.md",
+      "STATUS.md",
+      "MANIFEST.md",
+      "manifest.json"
+    ],
+    "docs_files": [
+      "docs/index.md",
+      "docs/canon-map.md",
+      "docs/how-to-use-this-canon.md",
+      "docs/knowledge-packs.md",
+      "docs/_config.yml",
+      "docs/_layouts/default.html",
+      "docs/assets/css/style.css",
+      "docs/assets/brand/coldwire-bg.jpg"
+    ]
   },
   "corpus": {
     "generated_at": "2026-06-27T23:28:52+00:00",
     "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
+    "counts": {
+      "source_reports": 14,
+      "compiled_packs": 4,
+      "omnibus_files": 1,
+      "unclassified_files": 0
+    },
     "reports": [
       {
         "code": "A",
         "title": "Reality, Representation & Abstraction",
         "subtitle": "",
+        "volume": "Volume 1. Foundations of Representation, Meaning, and Evaluation",
         "source_filename": "A. Reality, Representation & Abstraction.md",
         "source_path": "A. Reality, Representation & Abstraction.md",
         "filename": "a-reality-representation-and-abstraction.md",
@@ -23,6 +69,7 @@
         "code": "B",
         "title": "Sign-Relations, Codes & Semiosis",
         "subtitle": "",
+        "volume": "Volume 1. Foundations of Representation, Meaning, and Evaluation",
         "source_filename": "B. Sign-Relations, Codes & Semiosis.md",
         "source_path": "B. Sign-Relations, Codes & Semiosis.md",
         "filename": "b-sign-relations-codes-and-semiosis.md",
@@ -33,6 +80,7 @@
         "code": "C",
         "title": "Linguistic Structure & Compositional Meaning",
         "subtitle": "",
+        "volume": "Volume 1. Foundations of Representation, Meaning, and Evaluation",
         "source_filename": "C. Linguistic Structure & Compositional Meaning.md",
         "source_path": "C. Linguistic Structure & Compositional Meaning.md",
         "filename": "c-linguistic-structure-and-compositional-meaning.md",
@@ -43,6 +91,7 @@
         "code": "D",
         "title": "Concepts, Categories & Frames",
         "subtitle": "",
+        "volume": "Volume 1. Foundations of Representation, Meaning, and Evaluation",
         "source_filename": "D. Concepts, Categories & Frames.md",
         "source_path": "D. Concepts, Categories & Frames.md",
         "filename": "d-concepts-categories-and-frames.md",
@@ -53,6 +102,7 @@
         "code": "E",
         "title": "Reference, Grounding & Epistemic Validity",
         "subtitle": "The Architecture of Warranted Semantic Action",
+        "volume": "Volume 1. Foundations of Representation, Meaning, and Evaluation",
         "source_filename": "E. Reference, Grounding & Epistemic Validity - The Architecture of Warranted Semantic Action.md",
         "source_path": "E. Reference, Grounding & Epistemic Validity - The Architecture of Warranted Semantic Action.md",
         "filename": "e-reference-grounding-and-epistemic-validity.md",
@@ -63,6 +113,7 @@
         "code": "F",
         "title": "Context, Intention & Pragmatic Inference",
         "subtitle": "",
+        "volume": "Volume 2. Operating Domains of Meaning Construction",
         "source_filename": "F. Context, Intention & Pragmatic Inference.md",
         "source_path": "F. Context, Intention & Pragmatic Inference.md",
         "filename": "f-context-intention-and-pragmatic-inference.md",
@@ -73,6 +124,7 @@
         "code": "G",
         "title": "Metaphor, Embodiment & Cognitive Models",
         "subtitle": "",
+        "volume": "Volume 2. Operating Domains of Meaning Construction",
         "source_filename": "G. Metaphor, Embodiment & Cognitive Models.md",
         "source_path": "G. Metaphor, Embodiment & Cognitive Models.md",
         "filename": "g-metaphor-embodiment-and-cognitive-models.md",
@@ -83,6 +135,7 @@
         "code": "H",
         "title": "Discourse, Narrative & Social Reality",
         "subtitle": "",
+        "volume": "Volume 2. Operating Domains of Meaning Construction",
         "source_filename": "H. Discourse, Narrative & Social Reality.md",
         "source_path": "H. Discourse, Narrative & Social Reality.md",
         "filename": "h-discourse-narrative-and-social-reality.md",
@@ -93,6 +146,7 @@
         "code": "I",
         "title": "Symbolic Culture, Myth, Ritual & Memetics",
         "subtitle": "",
+        "volume": "Volume 2. Operating Domains of Meaning Construction",
         "source_filename": "I. Symbolic Culture, Myth, Ritual & Memetics.md",
         "source_path": "I. Symbolic Culture, Myth, Ritual & Memetics.md",
         "filename": "i-symbolic-culture-myth-ritual-and-memetics.md",
@@ -103,6 +157,7 @@
         "code": "J",
         "title": "Multimodal Signs & Interface Symbolics",
         "subtitle": "",
+        "volume": "Volume 2. Operating Domains of Meaning Construction",
         "source_filename": "J. Multimodal Signs & Interface Symbolics.md",
         "source_path": "J. Multimodal Signs & Interface Symbolics.md",
         "filename": "j-multimodal-signs-and-interface-symbolics.md",
@@ -113,6 +168,7 @@
         "code": "K",
         "title": "Ambiguity, Polysemy & Semantic Drift",
         "subtitle": "",
+        "volume": "Volume 3. Constraint, Instability, and Translation Layers",
         "source_filename": "K. Ambiguity, Polysemy & Semantic Drift.md",
         "source_path": "K. Ambiguity, Polysemy & Semantic Drift.md",
         "filename": "k-ambiguity-polysemy-and-semantic-drift.md",
@@ -123,6 +179,7 @@
         "code": "L",
         "title": "Translation, Domain Transfer & Cross-Cultural Variance",
         "subtitle": "",
+        "volume": "Volume 3. Constraint, Instability, and Translation Layers",
         "source_filename": "L. Translation, Domain Transfer & Cross-Cultural Variance.md",
         "source_path": "L. Translation, Domain Transfer & Cross-Cultural Variance.md",
         "filename": "l-translation-domain-transfer-and-cross-cultural-variance.md",
@@ -133,6 +190,7 @@
         "code": "M",
         "title": "Semantic Pathologies, Manipulation & Interpretive Failure",
         "subtitle": "",
+        "volume": "Volume 4. Failure Diagnosis, Manipulation, and Implementation",
         "source_filename": "M. Semantic Pathologies, Manipulation & Interpretive Failure.md",
         "source_path": "M. Semantic Pathologies, Manipulation & Interpretive Failure.md",
         "filename": "m-semantic-pathologies-manipulation-and-interpretive-failure.md",
@@ -143,6 +201,7 @@
         "code": "N",
         "title": "Knowledge Infrastructure, Artifacts & Assistant Governance",
         "subtitle": "The Execution Layer of the Semantic-Semiotic Intelligence Canon",
+        "volume": "Volume 4. Failure Diagnosis, Manipulation, and Implementation",
         "source_filename": "N. Knowledge Infrastructure, Artifacts & Assistant Governance - The Execution Layer of the Semantic-Semiotic Intelligence Canon.md",
         "source_path": "N. Knowledge Infrastructure, Artifacts & Assistant Governance - The Execution Layer of the Semantic-Semiotic Intelligence Canon.md",
         "filename": "n-knowledge-infrastructure-artifacts-and-assistant-governance.md",
@@ -153,6 +212,7 @@
     "compiled_packs": [
       {
         "label": "Semantics, Semiotics, and Symbols Volume 1. A-E Foundations of Representation, Meaning, and Evaluation",
+        "reports_included": ["A", "B", "C", "D", "E"],
         "source_filename": "[KNOWLEDGE] - Semantics, Semiotics, and Symbols Volume 1. A-E Foundations of Representation, Meaning, and Evaluation.md",
         "source_path": "[KNOWLEDGE] - Semantics, Semiotics, and Symbols Volume 1. A-E Foundations of Representation, Meaning, and Evaluation.md",
         "dest_path": "knowledge-packs/compiled-packs/knowledge-semantics-semiotics-and-symbols-volume-1-a-e-foundations-of-representation-meaning-and-evaluation.md",
@@ -160,6 +220,7 @@
       },
       {
         "label": "Semantics, Semiotics, and Symbols Volume 2. F-J Operating Domains of Meaning Construction",
+        "reports_included": ["F", "G", "H", "I", "J"],
         "source_filename": "[KNOWLEDGE] - Semantics, Semiotics, and Symbols Volume 2. F-J Operating Domains of Meaning Construction.md",
         "source_path": "[KNOWLEDGE] - Semantics, Semiotics, and Symbols Volume 2. F-J Operating Domains of Meaning Construction.md",
         "dest_path": "knowledge-packs/compiled-packs/knowledge-semantics-semiotics-and-symbols-volume-2-f-j-operating-domains-of-meaning-construction.md",
@@ -167,6 +228,7 @@
       },
       {
         "label": "Semantics, Semiotics, and Symbols Volume 3. K-L Constraint, Instability, and Translation Layers",
+        "reports_included": ["K", "L"],
         "source_filename": "[KNOWLEDGE] - Semantics, Semiotics, and Symbols Volume 3. K-L Constraint, Instability, and Translation Layers.md",
         "source_path": "[KNOWLEDGE] - Semantics, Semiotics, and Symbols Volume 3. K-L Constraint, Instability, and Translation Layers.md",
         "dest_path": "knowledge-packs/compiled-packs/knowledge-semantics-semiotics-and-symbols-volume-3-k-l-constraint-instability-and-translation-layers.md",
@@ -174,6 +236,7 @@
       },
       {
         "label": "Semantics, Semiotics, and Symbols Volume 4. M-N Failure Diagnosis, Manipulation, and Implementation",
+        "reports_included": ["M", "N"],
         "source_filename": "[KNOWLEDGE] - Semantics, Semiotics, and Symbols Volume 4. M-N Failure Diagnosis, Manipulation, and Implementation.md",
         "source_path": "[KNOWLEDGE] - Semantics, Semiotics, and Symbols Volume 4. M-N Failure Diagnosis, Manipulation, and Implementation.md",
         "dest_path": "knowledge-packs/compiled-packs/knowledge-semantics-semiotics-and-symbols-volume-4-m-n-failure-diagnosis-manipulation-and-implementation.md",
