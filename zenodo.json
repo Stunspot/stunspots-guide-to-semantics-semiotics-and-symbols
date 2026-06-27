@@ -1,8 +1,7 @@
 {
   "title": "Stunspot's Guide to Semantics, Semiotics, and Symbols",
-  "upload_type": "publication",
-  "publication_type": "book",
-  "description": "A model-facing canon for semantics, semiotics, symbols, meaning, reference, and interpretation.",
+  "upload_type": "dataset",
+  "description": "A model-facing Semantic-Semiotic Intelligence canon for representation, reference, signs, meaning, symbols, interpretation, grounding, semantic pathology, and assistant governance.",
   "creators": [
     {
       "name": "Walker, Sam",
@@ -15,8 +14,12 @@
   "access_right": "open",
   "license": "cc-by-nc-sa-4.0",
   "keywords": [
-    "semantics-semiotics-and-symbols",
+    "semantics",
+    "semiotics",
+    "symbols",
+    "semantic-semiotic-intelligence",
     "knowledge-systems",
-    "rag"
+    "rag",
+    "assistant-governance"
   ]
 }
