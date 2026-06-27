@@ -1,0 +1,8 @@
+title: Stunspot's Guide to Semantics, Semiotics, and Symbols
+description: A model-facing canon for semantics, semiotics, symbols, meaning, reference, and interpretation.
+show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

@@ -1,0 +1,22 @@
+{
+  "title": "Stunspot's Guide to Semantics, Semiotics, and Symbols",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "description": "A model-facing canon for semantics, semiotics, symbols, meaning, reference, and interpretation.",
+  "creators": [
+    {
+      "name": "Walker, Sam",
+      "affiliation": "Collaborative Dynamics"
+    }
+  ],
+  "version": "1.0",
+  "publication_date": "2026-06-27",
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-by-nc-sa-4.0",
+  "keywords": [
+    "semantics-semiotics-and-symbols",
+    "knowledge-systems",
+    "rag"
+  ]
+}
