@@ -38,7 +38,6 @@ Source directory: Local build source directory omitted from public release. Sour
 - `README.md`
 - `LICENSE.md`
 - `CITATION.cff`
-- `zenodo.json`
 - `CHANGELOG.md`
 - `STATUS.md`
 - `MANIFEST.md`

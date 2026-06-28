@@ -128,7 +128,6 @@ Read the sequence in order: **A → B → C → D → E**, then jump to **K**, *
 ├── README.md
 ├── LICENSE.md
 ├── CITATION.cff
-├── zenodo.json
 ├── CHANGELOG.md
 ├── STATUS.md
 ├── MANIFEST.md
@@ -156,7 +155,7 @@ Read the sequence in order: **A → B → C → D → E**, then jump to **K**, *
 
 ## Citation and License
 
-Citation metadata is provided in [`CITATION.cff`](./CITATION.cff) and [`zenodo.json`](./zenodo.json).
+Citation metadata is provided in [`CITATION.cff`](./CITATION.cff).
 
 Unless otherwise stated, this repository is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (**CC BY-NC-SA 4.0**). Commercial use requires prior written permission from Sam “stunspot” Walker / Collaborative Dynamics.
 
