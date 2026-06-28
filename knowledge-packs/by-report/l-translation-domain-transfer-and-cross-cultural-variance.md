@@ -102,7 +102,7 @@ Meaning adaptation under cultural constraint is the process of localization. It 
 
 ### **Wierzbicka and Natural Semantic Metalanguage (NSM)**
 
-Anna Wierzbicka developed the Natural Semantic Metalanguage (NSM) to avoid "conceptual artefacts" of Anglo-centric linguistics. The NSM identifies \~65 "semantic primes"—universal concepts like I, YOU, THINK, KNOW, WANT, GOOD, BAD, DO, HAPPEN—that are found in every language. By articulating "cultural scripts" using these primes, we can describe culture-specific norms from an "emic" (insider) perspective without using biased descriptors. For instance, the script for "naked" imperatives in Polish can be explained to an Anglo audience as "I want you to do this; I say it because I know you want to do it," whereas in Anglo culture, the script would involve "Maybe you will do this if I ask you nicely; I don't want to tell you what to do".
+Anna Wierzbicka developed the Natural Semantic Metalanguage (NSM) to avoid "conceptual artefacts" of Anglo-centric linguistics. The NSM identifies ~65 "semantic primes"—universal concepts like I, YOU, THINK, KNOW, WANT, GOOD, BAD, DO, HAPPEN—that are found in every language. By articulating "cultural scripts" using these primes, we can describe culture-specific norms from an "emic" (insider) perspective without using biased descriptors. For instance, the script for "naked" imperatives in Polish can be explained to an Anglo audience as "I want you to do this; I say it because I know you want to do it," whereas in Anglo culture, the script would involve "Maybe you will do this if I ask you nicely; I don't want to tell you what to do".
 
 ### **Pragmatic Force and Interactional Norms**
 
@@ -139,7 +139,7 @@ In RAG systems, meaning transfer is a retrieval problem before it is a generatio
 
 To operationalize Report L, the following artifacts are defined as diagnostic and generative templates for semantic intelligence systems.
 
-### **1\. Translation Equivalence Record**
+### **1. Translation Equivalence Record**
 
 Identifies the mapping strategy and names the untranslatable residue.
 
@@ -151,7 +151,7 @@ Identifies the mapping strategy and names the untranslatable residue.
 * **Untranslatable Residue:** "Consideration" entails a specific historical doctrine of exchange that is not present in the French legal system.  
 * **Risk:** Literal translation as "considération" (respect/regard) would invalidate the contract.
 
-### **2\. Domain Transfer Record**
+### **2. Domain Transfer Record**
 
 Converts expertise-compressed meaning for different stakeholders.
 
@@ -162,18 +162,18 @@ Converts expertise-compressed meaning for different stakeholders.
 * **Target Expression:** "You are having a heart attack. Your blood test shows a chemical that the heart releases when it is injured. We need to act quickly to open your arteries."  
 * **Warrant Check:** Preserve the sense of "acute" (emergency) without the jargon "troponin".
 
-### **3\. Stakeholder Vocabulary Crosswalk**
+### **3. Stakeholder Vocabulary Crosswalk**
 
 Prevents category collision by mapping overlapping institutional terms.
 
 | Stakeholder | Term | Category Definition | SSI Governance Term |
 | :---- | :---- | :---- | :---- |
-| **Legal** | **Client** | Party with contractual rights | Account\_Holder |
-| **Product** | **User** | Interaction actor in software | System\_Actor |
-| **Support** | **Member** | Individual with active subscription | Service\_Beneficiary |
-| **Medical** | **Patient** | Recipient of clinical care | Care\_Recipient |
+| **Legal** | **Client** | Party with contractual rights | Account_Holder |
+| **Product** | **User** | Interaction actor in software | System_Actor |
+| **Support** | **Member** | Individual with active subscription | Service_Beneficiary |
+| **Medical** | **Patient** | Recipient of clinical care | Care_Recipient |
 
-### **4\. Localization Risk Record**
+### **4. Localization Risk Record**
 
 Flags signs that do not travel safely across semiotic borders.
 
@@ -183,7 +183,7 @@ Flags signs that do not travel safely across semiotic borders.
 * **Risk:** Perceived as a vulgar, obscene gesture (Report J/Report I inheritance).  
 * **Repair Move:** Replace with a generic "Checkmark" or "Text Label".
 
-### **5\. Untranslatable Residue Ledger**
+### **5. Untranslatable Residue Ledger**
 
 Documents the "unmarked loss" for high-stakes contexts.
 
@@ -193,7 +193,7 @@ Documents the "unmarked loss" for high-stakes contexts.
 * **Residue:** "Coziness" captures physical comfort but loses the German sense of social solidarity and spiritual peace.  
 * **Status:** Explanatory gloss required for cultural or literary transfer.
 
-### **6\. False-Friend Alert**
+### **6. False-Friend Alert**
 
 Flags structural similarities that hide semantic divergence.
 
@@ -202,7 +202,7 @@ Flags structural similarities that hide semantic divergence.
 * **Alert:** "Actually" means in fact; "Actuellement" means at the moment.  
 * **Risk:** Temporal mismatch in event reporting.
 
-### **7\. Cultural Pragmatics Profile**
+### **7. Cultural Pragmatics Profile**
 
 Profiles interactional force for AI dialogue generation.
 
@@ -212,7 +212,7 @@ Profiles interactional force for AI dialogue generation.
 * **Taboo:** Direct disagreement in group settings (wa).  
 * **Repair:** Phrase disagreement as a "maybe" or "difficult" question.
 
-### **8\. Symbolic Transfer Check**
+### **8. Symbolic Transfer Check**
 
 Analyzes color and icon symbolism from Reports I and J.
 
@@ -221,18 +221,18 @@ Analyzes color and icon symbolism from Reports I and J.
 * **Target Logic (CN):** Luck / Prosperity / Celebration  
 * **Constraint:** Do not use red for "negative" financial alerts in Chinese markets without context.
 
-### **9\. Interoperability Mapping Record**
+### **9. Interoperability Mapping Record**
 
 Aligns disparate data schemas while preserving semantic relationships.
 
-* **Source Schema:** Field "Patient\_Name"  
-* **Target Schema:** Field "Legal\_Name"  
+* **Source Schema:** Field "Patient_Name"  
+* **Target Schema:** Field "Legal_Name"  
 * **Relationship Predicate:** skos:exactMatch  
 * **Source Schema:** Field "Status"  
-* **Target Schema:** Field "Clinical\_State"  
+* **Target Schema:** Field "Clinical_State"  
 * **Relationship Predicate:** skos:closeMatch (Warning: partial mapping).
 
-### **10\. Cross-Lingual Retrieval Check**
+### **10. Cross-Lingual Retrieval Check**
 
 Diagnostic for RAG pipelines.
 
@@ -241,7 +241,7 @@ Diagnostic for RAG pipelines.
 * **Result (Naive):** Retrieves documents about "treatment" (medical).  
 * **Repair Move:** Consult mandatory statistical glossary before embedding; boost "definitional" chunks.
 
-### **11\. Transfer Failure/Repair Table**
+### **11. Transfer Failure/Repair Table**
 
 Summary of common logistical errors and their SSI interventions.
 
@@ -281,7 +281,7 @@ To demonstrate the operational value of Report L, we examine three cases of naiv
 
 **Source:** KFC's slogan "Finger Lickin' Good."
 
-**Naive Interpretation:** (Translated into Mandarin) "Eat your fingers off\!".
+**Naive Interpretation:** (Translated into Mandarin) "Eat your fingers off!".
 
 **Effect:** The brand is perceived as threatening or cannibalistic rather than delicious.
 
@@ -314,10 +314,10 @@ This logistical discipline ensures that semantic intelligence remains interopera
 
 #### **Works cited**
 
-1. SPECIALIZED TRANSLATION WITHIN SKOPOS THEORY \- sc@upt.ro, accessed May 14, 2026, [https://www.sc.upt.ro/attachments/article/944/03\_04\_LAMBRACHE%20RADU.pdf](https://www.sc.upt.ro/attachments/article/944/03_04_LAMBRACHE%20RADU.pdf)  
-2. TRANSLATION THEORY AND PRACTICE: WITH THE EXAMPLE OF IDIOMS \- Western European Studies, accessed May 14, 2026, [https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816](https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816)  
+1. SPECIALIZED TRANSLATION WITHIN SKOPOS THEORY - sc@upt.ro, accessed May 14, 2026, [https://www.sc.upt.ro/attachments/article/944/03_04_LAMBRACHE%20RADU.pdf](https://www.sc.upt.ro/attachments/article/944/03_04_LAMBRACHE%20RADU.pdf)  
+2. TRANSLATION THEORY AND PRACTICE: WITH THE EXAMPLE OF IDIOMS - Western European Studies, accessed May 14, 2026, [https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816](https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816)  
 3. Critical Trajectories in Translation Studies | by Riaz Laghari | Medium, accessed May 14, 2026, [https://medium.com/@riazleghari/critical-trajectories-in-translation-studies-37d5c219ea00](https://medium.com/@riazleghari/critical-trajectories-in-translation-studies-37d5c219ea00)  
-4. Translation studies \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Translation\_studies](https://en.wikipedia.org/wiki/Translation_studies)  
+4. Translation studies - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Translation_studies](https://en.wikipedia.org/wiki/Translation_studies)  
 5. Exploring Translation Theories, accessed May 14, 2026, [https://parhamti.com/wp-content/uploads/2023/08/Exploring-Translation-Theories-2nd-ed.pdf](https://parhamti.com/wp-content/uploads/2023/08/Exploring-Translation-Theories-2nd-ed.pdf)
 
 ---

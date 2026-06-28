@@ -84,7 +84,7 @@ Semantic-Semiotic Intelligence (SSI) is an architectural framework designed to m
 | :---- | :---- | :---- |
 | **Territory** | The sub-microscopic process-reality; the event. | Cannot be fully known; remains the "etc.".7 |
 | **Map** | Any symbol, model, or description of a territory. | Is not the territory; represents only parts.19 |
-| **Referent** | The specific thing a symbol points toward. | Must be indexed and dated (Thing\_1, Time\_A).7 |
+| **Referent** | The specific thing a symbol points toward. | Must be indexed and dated (Thing_1, Time_A).7 |
 | **Sense** | The mode of presentation or "cognitive significance." | Distinguish "Morning Star" from "Evening Star".20 |
 | **Reification** | Treating an abstraction as a concrete reality. | Must be diagnosed and "analyzed away".2 |
 
@@ -102,10 +102,10 @@ The ladder models the necessary loss of detail as we move from reality to narrat
 
 ## **9. Semantic Hygiene Principles**
 
-* **Non-Identity:** The word is not the thing. A \= A is a tautology, but in reality, no two instances are identical.1  
+* **Non-Identity:** The word is not the thing. A = A is a tautology, but in reality, no two instances are identical.1  
 * **Non-Allness:** No map covers the whole territory. Every statement must include an implicit "etc.".7  
-* **Indexing:** Differentiating instances (User\_1 is not User\_2).7  
-* **Dating:** Accounting for change (Policy\_2024 is not Policy\_2023).19  
+* **Indexing:** Differentiating instances (User_1 is not User_2).7  
+* **Dating:** Accounting for change (Policy_2024 is not Policy_2023).19  
 * **Extensional Orientation:** Defining by pointing to facts rather than other words.8
 
 ## **10. Representational Failure Modes**
@@ -121,16 +121,16 @@ The ladder models the necessary loss of detail as we move from reality to narrat
 
 In SSI, RAG is a map-building process. Accuracy requires:
 
-* **Semantic Layers:** Mapping metrics (e.g., net\_revenue) to one governed definition to prevent hallucinated math.  
+* **Semantic Layers:** Mapping metrics (e.g., net_revenue) to one governed definition to prevent hallucinated math.  
 * **Ontological Constraints:** Using Role, Domain, and Interaction ontologies to bound LLM reasoning.  
 * **Provenance:** Tracing claims to specific source-segments to bridge the "grounding gap".  
-* **Statistical Validation:** Evaluating outputs using metrics like p-values (p \< 0.001) or concordance (W \= 0.318) for terminology mapping.3
+* **Statistical Validation:** Evaluating outputs using metrics like p-values (p < 0.001) or concordance (W = 0.318) for terminology mapping.3
 
 ## **12. Operational Doctrine for LLM/RAG Assistants**
 
 1. **Clarify the Territory:** Ask, "Is the user referring to a word, a concept, or a physical entity?"  
 2. **Mark the Rung:** State the abstraction level of the answer (e.g., "This is a summary of the 2024 budget, which omits department-level line items").  
-3. **Apply Indexing:** Use metadata to differentiate entities (e.g., "Customer\_ID\_456").  
+3. **Apply Indexing:** Use metadata to differentiate entities (e.g., "Customer_ID_456").  
 4. **Verification Pauses:** Implement a "neurological delay" to check formal ontologies before generating.7
 
 ## **13. Assistant Imitation Patterns**
@@ -142,7 +142,7 @@ In SSI, RAG is a map-building process. Accuracy requires:
 
 * **Primitive Ledger:** Non-identity, Non-allness, Self-reflexiveness.1  
 * **Boundary List:** Never collapse *Source Statement* into *Settled Truth*.  
-* **Inheritance:** Reports B-N must use SSI Core Ontology (Section 7\) without redefinition.
+* **Inheritance:** Reports B-N must use SSI Core Ontology (Section 7) without redefinition.
 
 ## **15. What Report A Owns vs. What Later Reports Deepen**
 
@@ -160,7 +160,7 @@ In SSI, RAG is a map-building process. Accuracy requires:
 
 ## **17. RAG-Ready Artifacts**
 
-* **Metadata Schema:** Fields for provenance\_id, abstraction\_rung, date\_indexed, and reification\_score.  
+* **Metadata Schema:** Fields for provenance_id, abstraction_rung, date_indexed, and reification_score.  
 * **Synonym Cluster:** (map, model, representation) vs. (territory, referent, fact).19  
 * **Diagnostic Checklist:** Does this claim have an indexed referent? What detail was omitted?.2
 
@@ -189,34 +189,34 @@ Report A provides the **Semantic Constitution**: the mandatory rules for disting
 
 #### **Works cited**
 
-1. General Semantics \-- Korzybski \- The Gestalt Therapy Page, accessed May 14, 2026, [https://gestalt.org/semantic.htm?ya\_src=serp300](https://gestalt.org/semantic.htm?ya_src=serp300)  
-2. The Stupidity Cure v10.1: An LLM Protocol for Detecting When You're Defending Stories Instead of Learning from Reality \- Reddit, accessed May 14, 2026, [https://www.reddit.com/r/StreetEpistemology/comments/1qyvvks/the\_stupidity\_cure\_v101\_an\_llm\_protocol\_for/](https://www.reddit.com/r/StreetEpistemology/comments/1qyvvks/the_stupidity_cure_v101_an_llm_protocol_for/)  
-3. Ontology-Constrained Neural Reasoning in Enterprise Agentic Systems: A Neurosymbolic Architecture for Domain-Grounded AI Agents \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.00555v3](https://arxiv.org/html/2604.00555v3)  
-4. Grounding Generative Planners in Verifiable Logic: A Hybrid Architecture for Trustworthy Embodied AI \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.08373v1](https://arxiv.org/html/2602.08373v1)  
-5. Ontology-Constrained Neural Reasoning in Enterprise Agentic Systems: A Neurosymbolic Architecture for Domain-Grounded AI Agents \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.00555v2](https://arxiv.org/html/2604.00555v2)  
-6. (PDF) Phenomenological and Structural Grounding: A Cognitive Distinction Between Human and Artificial Intelligence \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/400941643\_Phenomenological\_and\_Structural\_Grounding\_A\_Cognitive\_Distinction\_Between\_Human\_and\_Artificial\_Intelligence](https://www.researchgate.net/publication/400941643_Phenomenological_and_Structural_Grounding_A_Cognitive_Distinction_Between_Human_and_Artificial_Intelligence)  
-7. General semantics \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/General\_semantics\#Extensional\_devices](https://en.wikipedia.org/wiki/General_semantics#Extensional_devices)  
+1. General Semantics -- Korzybski - The Gestalt Therapy Page, accessed May 14, 2026, [https://gestalt.org/semantic.htm?ya_src=serp300](https://gestalt.org/semantic.htm?ya_src=serp300)  
+2. The Stupidity Cure v10.1: An LLM Protocol for Detecting When You're Defending Stories Instead of Learning from Reality - Reddit, accessed May 14, 2026, [https://www.reddit.com/r/StreetEpistemology/comments/1qyvvks/the_stupidity_cure_v101_an_llm_protocol_for/](https://www.reddit.com/r/StreetEpistemology/comments/1qyvvks/the_stupidity_cure_v101_an_llm_protocol_for/)  
+3. Ontology-Constrained Neural Reasoning in Enterprise Agentic Systems: A Neurosymbolic Architecture for Domain-Grounded AI Agents - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.00555v3](https://arxiv.org/html/2604.00555v3)  
+4. Grounding Generative Planners in Verifiable Logic: A Hybrid Architecture for Trustworthy Embodied AI - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.08373v1](https://arxiv.org/html/2602.08373v1)  
+5. Ontology-Constrained Neural Reasoning in Enterprise Agentic Systems: A Neurosymbolic Architecture for Domain-Grounded AI Agents - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.00555v2](https://arxiv.org/html/2604.00555v2)  
+6. (PDF) Phenomenological and Structural Grounding: A Cognitive Distinction Between Human and Artificial Intelligence - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/400941643_Phenomenological_and_Structural_Grounding_A_Cognitive_Distinction_Between_Human_and_Artificial_Intelligence](https://www.researchgate.net/publication/400941643_Phenomenological_and_Structural_Grounding_A_Cognitive_Distinction_Between_Human_and_Artificial_Intelligence)  
+7. General semantics - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/General_semantics\#Extensional_devices](https://en.wikipedia.org/wiki/General_semantics#Extensional_devices)  
 8. General Semantics Bill Sharp | REBTraining, accessed May 14, 2026, [https://rebtinfo.com/general-semantics-bill-sharp/](https://rebtinfo.com/general-semantics-bill-sharp/)  
-9. Understanding Ogden and Richards' Triangle | PDF | Idea | Word \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/629081619/Definition-Theory-by-Ogden-and-Richard](https://www.scribd.com/document/629081619/Definition-Theory-by-Ogden-and-Richard)  
-10. The Metaphysics We Train: A Heideggerian Reading of Machine Learning \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.19028v2](https://arxiv.org/html/2602.19028v2)  
-11. Why AI-generated physics papers converge on the same structural mistakes \- Reddit, accessed May 14, 2026, [https://www.reddit.com/r/LLMPhysics/comments/1p44fbp/why\_aigenerated\_physics\_papers\_converge\_on\_the/](https://www.reddit.com/r/LLMPhysics/comments/1p44fbp/why_aigenerated_physics_papers_converge_on_the/)  
+9. Understanding Ogden and Richards' Triangle | PDF | Idea | Word - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/629081619/Definition-Theory-by-Ogden-and-Richard](https://www.scribd.com/document/629081619/Definition-Theory-by-Ogden-and-Richard)  
+10. The Metaphysics We Train: A Heideggerian Reading of Machine Learning - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.19028v2](https://arxiv.org/html/2602.19028v2)  
+11. Why AI-generated physics papers converge on the same structural mistakes - Reddit, accessed May 14, 2026, [https://www.reddit.com/r/LLMPhysics/comments/1p44fbp/why_aigenerated_physics_papers_converge_on_the/](https://www.reddit.com/r/LLMPhysics/comments/1p44fbp/why_aigenerated_physics_papers_converge_on_the/)  
 12. Reference (Stanford Encyclopedia of Philosophy), accessed May 14, 2026, [https://plato.stanford.edu/entries/reference/](https://plato.stanford.edu/entries/reference/)  
 13. Conceptions of Analysis in Analytic Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/archives/win2022/entries/analysis/s6.html](https://plato.stanford.edu/archives/win2022/entries/analysis/s6.html)  
 14. ANGELS FEAR by Gregory Bateson Chapter II, accessed May 14, 2026, [https://cat4chat.narod.ru/angelsmental.htm](https://cat4chat.narod.ru/angelsmental.htm)  
-15. AI Prompt \- Awakening to Reality, accessed May 14, 2026, [https://www.awakeningtoreality.com/search?updated-max=2026-05-01T02:30:00%2B08:00\&max-results=7](https://www.awakeningtoreality.com/search?updated-max=2026-05-01T02:30:00%2B08:00&max-results=7)  
-16. Ladder of Abstraction \- Atlas of Public Management, accessed May 14, 2026, [https://www.atlas101.ca/pm/concepts/ladder-of-abstraction/](https://www.atlas101.ca/pm/concepts/ladder-of-abstraction/)  
+15. AI Prompt - Awakening to Reality, accessed May 14, 2026, [https://www.awakeningtoreality.com/search?updated-max=2026-05-01T02:30:00%2B08:00&max-results=7](https://www.awakeningtoreality.com/search?updated-max=2026-05-01T02:30:00%2B08:00&max-results=7)  
+16. Ladder of Abstraction - Atlas of Public Management, accessed May 14, 2026, [https://www.atlas101.ca/pm/concepts/ladder-of-abstraction/](https://www.atlas101.ca/pm/concepts/ladder-of-abstraction/)  
 17. Context Layer for AI Agents: Enterprise Guide 2026 | Atlan, accessed May 14, 2026, [https://atlan.com/know/context-layer-for-ai-agents/](https://atlan.com/know/context-layer-for-ai-agents/)  
 18. The Impossibility of Non-identity Languages by Ralph E. Kenyon, Jr., accessed May 14, 2026, [https://www.xenodochy.org/gs/ah/imposs.html](https://www.xenodochy.org/gs/ah/imposs.html)  
-19. Extensional Devices \- ChangingMinds.org, accessed May 14, 2026, [http://changingminds.org/techniques/language/modifying\_meaning/extensional\_devices.htm](http://changingminds.org/techniques/language/modifying_meaning/extensional_devices.htm)  
+19. Extensional Devices - ChangingMinds.org, accessed May 14, 2026, [http://changingminds.org/techniques/language/modifying_meaning/extensional_devices.htm](http://changingminds.org/techniques/language/modifying_meaning/extensional_devices.htm)  
 20. Names (Stanford Encyclopedia of Philosophy/Fall 2016 Edition), accessed May 14, 2026, [https://plato.stanford.edu/archives/fall2016/entries/names/](https://plato.stanford.edu/archives/fall2016/entries/names/)  
 21. Process epistemology in the COVID-19 era: rethinking the research ..., accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC8900089/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8900089/)  
-22. Ladder of Abstraction | Concept & Examples \- Lesson \- Study.com, accessed May 14, 2026, [https://study.com/learn/lesson/ladder-abstraction-concept-examples.html](https://study.com/learn/lesson/ladder-abstraction-concept-examples.html)  
+22. Ladder of Abstraction | Concept & Examples - Lesson - Study.com, accessed May 14, 2026, [https://study.com/learn/lesson/ladder-abstraction-concept-examples.html](https://study.com/learn/lesson/ladder-abstraction-concept-examples.html)  
 23. The Abstraction Ladder | W.J. Warren, accessed May 14, 2026, [http://blog.ansuz.nl/index.php/2023/02/21/the-abstraction-ladder/](http://blog.ansuz.nl/index.php/2023/02/21/the-abstraction-ladder/)  
-24. 3.4 Improving Verbal Communication – Exploring Relationship Dynamics (2023) \- Maricopa Open Digital Press, accessed May 14, 2026, [https://open.maricopa.edu/com110r2023/chapter/3-3-using-words-well/](https://open.maricopa.edu/com110r2023/chapter/3-3-using-words-well/)  
+24. 3.4 Improving Verbal Communication – Exploring Relationship Dynamics (2023) - Maricopa Open Digital Press, accessed May 14, 2026, [https://open.maricopa.edu/com110r2023/chapter/3-3-using-words-well/](https://open.maricopa.edu/com110r2023/chapter/3-3-using-words-well/)  
 25. 3.3 Using Words Well – Interpersonal Communication (Dutton), accessed May 14, 2026, [https://textbooks.whatcom.edu/dutton210/chapter/3-3/](https://textbooks.whatcom.edu/dutton210/chapter/3-3/)  
-26. Knowledge Representation and the Semantics of Natural Language \- CSE, IIT Bombay, accessed May 14, 2026, [https://www.cse.iitb.ac.in/\~pb/cs626-449-2009/prev-years-other-things-nlp/Helbig200-semantic-role-book.pdf](https://www.cse.iitb.ac.in/~pb/cs626-449-2009/prev-years-other-things-nlp/Helbig200-semantic-role-book.pdf)  
+26. Knowledge Representation and the Semantics of Natural Language - CSE, IIT Bombay, accessed May 14, 2026, [https://www.cse.iitb.ac.in/~pb/cs626-449-2009/prev-years-other-things-nlp/Helbig200-semantic-role-book.pdf](https://www.cse.iitb.ac.in/~pb/cs626-449-2009/prev-years-other-things-nlp/Helbig200-semantic-role-book.pdf)  
 27. DOTTORATO DI RICERCA IN PATRIMONIO CULTURALE NELL'ECOSISTEMA DIGITALE, accessed May 14, 2026, [https://amsdottorato.unibo.it/id/eprint/13084/1/ThesisSchimmenti.pdf](https://amsdottorato.unibo.it/id/eprint/13084/1/ThesisSchimmenti.pdf)  
-28. The Noospheric AFEI Manifold ⇔ Foundational ... \- Answer Overflow, accessed May 14, 2026, [https://cdn.answeroverflow.com/1502696997059166360/Post\_368\_\_The\_Noospheric\_AFEI\_Manifold\_Foundational\_Axiomatic\_Lexicon\_Irk\_Operationalized\_Qualia\_293\_Pages.pdf](https://cdn.answeroverflow.com/1502696997059166360/Post_368__The_Noospheric_AFEI_Manifold_Foundational_Axiomatic_Lexicon_Irk_Operationalized_Qualia_293_Pages.pdf)
+28. The Noospheric AFEI Manifold ⇔ Foundational ... - Answer Overflow, accessed May 14, 2026, [https://cdn.answeroverflow.com/1502696997059166360/Post_368__The_Noospheric_AFEI_Manifold_Foundational_Axiomatic_Lexicon_Irk_Operationalized_Qualia_293_Pages.pdf](https://cdn.answeroverflow.com/1502696997059166360/Post_368__The_Noospheric_AFEI_Manifold_Foundational_Axiomatic_Lexicon_Irk_Operationalized_Qualia_293_Pages.pdf)
 
 ---
 
@@ -319,7 +319,7 @@ The Peircean model is essential for RAG because it accounts for the Object (grou
 
 | Feature | Saussurean Model (Dyadic) | Peircean Model (Triadic) | SSI Synthesis Recommendation |
 | :---- | :---- | :---- | :---- |
-| **Structure** | Signifier \+ Signified. 2 | Representamen \+ Object \+ Interpretant. 1 | Use Triadic for grounding/RAG; Dyadic for lexicons. |
+| **Structure** | Signifier + Signified. 2 | Representamen + Object + Interpretant. 1 | Use Triadic for grounding/RAG; Dyadic for lexicons. |
 | **Meaning** | Differential (this vs. that). 12 | Relational (this for that). 2 | Combine for comprehensive semantic mapping. |
 | **Referent** | Brackets/Excludes the referent. 4 | Includes the object as central. 2 | Peircean Object is the "ground truth" target. |
 | **Process** | Static (Synchronic). 12 | Dynamic (Semiosis). 2 | Conversation is modeled as Peircean semiosis. |
@@ -504,13 +504,13 @@ To enable future retrieval and operational use, this report provides structured 
 
 | Field | Purpose | AI Benefit |
 | :---- | :---- | :---- |
-| sign\_vehicle\_type | Identify form (text, image, audio). | Select correct processing model. |
-| primary\_semiotic\_mode | Icon, Index, or Symbol. | Determine if truth is by likeness, connection, or rule. |
-| code\_system\_tag | e.g., legal\_US, medical\_ICD10. | Use appropriate translation logic. |
-| interpretive\_community | Target audience of the source. | Align connotation and register. |
-| indexical\_coordinates | Page, line, or timestamp. | Enable verifiable citations. 8 |
-| connotation\_warnings | Flag loaded sign-vehicles. | Avoid ideological bias. |
-| semiosis\_step | Index in the conversation loop. | Track recursive drift. |
+| sign_vehicle_type | Identify form (text, image, audio). | Select correct processing model. |
+| primary_semiotic_mode | Icon, Index, or Symbol. | Determine if truth is by likeness, connection, or rule. |
+| code_system_tag | e.g., legal_US, medical_ICD10. | Use appropriate translation logic. |
+| interpretive_community | Target audience of the source. | Align connotation and register. |
+| indexical_coordinates | Page, line, or timestamp. | Enable verifiable citations. 8 |
+| connotation_warnings | Flag loaded sign-vehicles. | Avoid ideological bias. |
+| semiosis_step | Index in the conversation loop. | Track recursive drift. |
 
 ### **Retrieval Tags and Chunking Guidance**
 
@@ -571,53 +571,53 @@ This report contributes the essential semiotic ontology and operational machiner
 
 #### **Works cited**
 
-1. How does Charles Sanders Peirce's triadic model of the sign differ from Saussure's dyadic one? What new dimensions does it introduce to meaning-making? \- Atlas, accessed May 14, 2026, [https://www.atlas.org/solution/80256bd8-a87e-4435-99fe-5c1779b4e5c5/how-does-charles-sanders-peirces-triadic-model-of-the-sign-differ-from-saussures-dyadic-one-what-new-dimensions-does-it-introduce-to-meaning-making](https://www.atlas.org/solution/80256bd8-a87e-4435-99fe-5c1779b4e5c5/how-does-charles-sanders-peirces-triadic-model-of-the-sign-differ-from-saussures-dyadic-one-what-new-dimensions-does-it-introduce-to-meaning-making)  
-2. Sign (semiotics) \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Sign\_(semiotics)](https://en.wikipedia.org/wiki/Sign_\(semiotics\))  
-3. Charles Morris's Semiotics Explained | PDF \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/969538701/Charles-William-Morris](https://www.scribd.com/document/969538701/Charles-William-Morris)  
-4. Semiotics for Beginners: Signs \- cs.Princeton, accessed May 14, 2026, [https://www.cs.princeton.edu/\~chazelle/courses/BIB/semio2.htm](https://www.cs.princeton.edu/~chazelle/courses/BIB/semio2.htm)  
-5. Saussurean Semiotics, accessed May 14, 2026, [https://cseweb.ucsd.edu/\~ddahlstr/cse271/saussure.php](https://cseweb.ucsd.edu/~ddahlstr/cse271/saussure.php)  
+1. How does Charles Sanders Peirce's triadic model of the sign differ from Saussure's dyadic one? What new dimensions does it introduce to meaning-making? - Atlas, accessed May 14, 2026, [https://www.atlas.org/solution/80256bd8-a87e-4435-99fe-5c1779b4e5c5/how-does-charles-sanders-peirces-triadic-model-of-the-sign-differ-from-saussures-dyadic-one-what-new-dimensions-does-it-introduce-to-meaning-making](https://www.atlas.org/solution/80256bd8-a87e-4435-99fe-5c1779b4e5c5/how-does-charles-sanders-peirces-triadic-model-of-the-sign-differ-from-saussures-dyadic-one-what-new-dimensions-does-it-introduce-to-meaning-making)  
+2. Sign (semiotics) - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Sign_(semiotics)](https://en.wikipedia.org/wiki/Sign_\(semiotics))  
+3. Charles Morris's Semiotics Explained | PDF - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/969538701/Charles-William-Morris](https://www.scribd.com/document/969538701/Charles-William-Morris)  
+4. Semiotics for Beginners: Signs - cs.Princeton, accessed May 14, 2026, [https://www.cs.princeton.edu/~chazelle/courses/BIB/semio2.htm](https://www.cs.princeton.edu/~chazelle/courses/BIB/semio2.htm)  
+5. Saussurean Semiotics, accessed May 14, 2026, [https://cseweb.ucsd.edu/~ddahlstr/cse271/saussure.php](https://cseweb.ucsd.edu/~ddahlstr/cse271/saussure.php)  
 6. Umberto Eco and the Semiotics – Literary Theory and Criticism, accessed May 14, 2026, [https://literariness.org/2016/12/02/umberto-eco-and-the-semiotics/](https://literariness.org/2016/12/02/umberto-eco-and-the-semiotics/)  
-7. UMBERTO ECO \- marywood university | school of architecture, accessed May 14, 2026, [https://marywoodarchtheory.files.wordpress.com/2013/10/function-and-the-sign-the-semiotics-of-arch\_u-eco.pdf](https://marywoodarchtheory.files.wordpress.com/2013/10/function-and-the-sign-the-semiotics-of-arch_u-eco.pdf)  
+7. UMBERTO ECO - marywood university | school of architecture, accessed May 14, 2026, [https://marywoodarchtheory.files.wordpress.com/2013/10/function-and-the-sign-the-semiotics-of-arch_u-eco.pdf](https://marywoodarchtheory.files.wordpress.com/2013/10/function-and-the-sign-the-semiotics-of-arch_u-eco.pdf)  
 8. Index-RAG: Citation-first approach to RAG | by Praneeth Vadlapati ..., accessed May 14, 2026, [https://medium.com/@praneeth.v/index-rag-citation-first-approach-to-rag-0e948b9e12c1](https://medium.com/@praneeth.v/index-rag-citation-first-approach-to-rag-0e948b9e12c1)  
 9. Jakobson's Linguistic Model of Communication: Beyond the ..., accessed May 14, 2026, [https://journalism.university/fundamentals-of-development-and-communication/jakobsons-linguistic-model-communication-analysis/](https://journalism.university/fundamentals-of-development-and-communication/jakobsons-linguistic-model-communication-analysis/)  
-10. Semiotics according to Umberto Eco: Signs, Meaning and Culture \- Allensbach Hochschule, accessed May 14, 2026, [https://www.allensbach-hochschule.de/en/semiotics-according-to-umberto-eco-signs-meaning-and-culture/](https://www.allensbach-hochschule.de/en/semiotics-according-to-umberto-eco-signs-meaning-and-culture/)  
+10. Semiotics according to Umberto Eco: Signs, Meaning and Culture - Allensbach Hochschule, accessed May 14, 2026, [https://www.allensbach-hochschule.de/en/semiotics-according-to-umberto-eco-signs-meaning-and-culture/](https://www.allensbach-hochschule.de/en/semiotics-according-to-umberto-eco-signs-meaning-and-culture/)  
 11. Jakobson's Functions of Language | Lucidchart Blog, accessed May 14, 2026, [https://www.lucidchart.com/blog/jakobsons-functions-of-language](https://www.lucidchart.com/blog/jakobsons-functions-of-language)  
-12. The Fulfillment of Meaning: Peirce vs. Derrida | by The Dangerous Maybe \- Medium, accessed May 14, 2026, [https://thedangerousmaybe.medium.com/the-fulfillment-of-meaning-peirce-vs-derrida-c6fc4801da13](https://thedangerousmaybe.medium.com/the-fulfillment-of-meaning-peirce-vs-derrida-c6fc4801da13)  
+12. The Fulfillment of Meaning: Peirce vs. Derrida | by The Dangerous Maybe - Medium, accessed May 14, 2026, [https://thedangerousmaybe.medium.com/the-fulfillment-of-meaning-peirce-vs-derrida-c6fc4801da13](https://thedangerousmaybe.medium.com/the-fulfillment-of-meaning-peirce-vs-derrida-c6fc4801da13)  
 13. Retrieval augmented generation (RAG) and indexes in Microsoft Foundry, accessed May 14, 2026, [https://learn.microsoft.com/en-us/azure/foundry/concepts/retrieval-augmented-generation](https://learn.microsoft.com/en-us/azure/foundry/concepts/retrieval-augmented-generation)  
 14. How AI Systems Decide What to Cite: The Technical Mechanics of LLM Content Retrieval, accessed May 14, 2026, [https://discoveredlabs.com/blog/how-ai-systems-decide-what-to-cite-the-technical-mechanics-of-llm-content-retrieval](https://discoveredlabs.com/blog/how-ai-systems-decide-what-to-cite-the-technical-mechanics-of-llm-content-retrieval)  
-15. The sense of the interface: Applying semiotics to HCI research \- e-Repositori UPF, accessed May 14, 2026, [https://repositori.upf.edu/bitstreams/705c1497-8248-413a-bd32-f45e1286df8a/download](https://repositori.upf.edu/bitstreams/705c1497-8248-413a-bd32-f45e1286df8a/download)  
+15. The sense of the interface: Applying semiotics to HCI research - e-Repositori UPF, accessed May 14, 2026, [https://repositori.upf.edu/bitstreams/705c1497-8248-413a-bd32-f45e1286df8a/download](https://repositori.upf.edu/bitstreams/705c1497-8248-413a-bd32-f45e1286df8a/download)  
 16. Biosemiotics, accessed May 14, 2026, [https://www.cspeirce.com/menu/library/aboutcsp/brier/biosemiotics.doc](https://www.cspeirce.com/menu/library/aboutcsp/brier/biosemiotics.doc)  
-17. Introduction \- CDN, accessed May 14, 2026, [https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/1148/files/2015/10/Introduction-to-Semantics-vs.-Pragmatics-25oqjtk.pdf](https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/1148/files/2015/10/Introduction-to-Semantics-vs.-Pragmatics-25oqjtk.pdf)  
+17. Introduction - CDN, accessed May 14, 2026, [https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/1148/files/2015/10/Introduction-to-Semantics-vs.-Pragmatics-25oqjtk.pdf](https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/1148/files/2015/10/Introduction-to-Semantics-vs.-Pragmatics-25oqjtk.pdf)  
 18. Morris « Research Pragmatism Cybrary, accessed May 14, 2026, [http://www.pragmatism.org/research/morris.htm](http://www.pragmatism.org/research/morris.htm)  
-19. Jakobson's Six Functions of Language | PDF \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/829563994/Roman-Jakobsons-Functions-of-Language](https://www.scribd.com/document/829563994/Roman-Jakobsons-Functions-of-Language)  
-20. Roman Jakobson : The Functions of Language / Signo \- Applied Semiotics Theories, accessed May 14, 2026, [https://www.signosemio.com/pages/jakobson/functions-of-language.php](https://www.signosemio.com/pages/jakobson/functions-of-language.php)  
-21. Jakobson's functions of language \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Jakobson%27s\_functions\_of\_language](https://en.wikipedia.org/wiki/Jakobson%27s_functions_of_language)  
-22. A Study of the Yori Lotman's Semiosphere Cultural Theory and Its Application in the Field of Analysis of Relations between Religion and Cinema, accessed May 14, 2026, [http://www.jsfc.ir/article\_57085\_en.html](http://www.jsfc.ir/article_57085_en.html)  
-23. On the semiosphere \- CEEOL \- Article Detail, accessed May 14, 2026, [https://www.ceeol.com/search/article-detail?id=14996](https://www.ceeol.com/search/article-detail?id=14996)  
-24. Yuri Lotman, from The Semiosphere \- FTP Directory Listing, accessed May 14, 2026, [https://ftp.columbia.edu/itc/architecture/ockman/pdfs/Lotman.pdf](https://ftp.columbia.edu/itc/architecture/ockman/pdfs/Lotman.pdf)  
+19. Jakobson's Six Functions of Language | PDF - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/829563994/Roman-Jakobsons-Functions-of-Language](https://www.scribd.com/document/829563994/Roman-Jakobsons-Functions-of-Language)  
+20. Roman Jakobson : The Functions of Language / Signo - Applied Semiotics Theories, accessed May 14, 2026, [https://www.signosemio.com/pages/jakobson/functions-of-language.php](https://www.signosemio.com/pages/jakobson/functions-of-language.php)  
+21. Jakobson's functions of language - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Jakobson%27s_functions_of_language](https://en.wikipedia.org/wiki/Jakobson%27s_functions_of_language)  
+22. A Study of the Yori Lotman's Semiosphere Cultural Theory and Its Application in the Field of Analysis of Relations between Religion and Cinema, accessed May 14, 2026, [http://www.jsfc.ir/article_57085_en.html](http://www.jsfc.ir/article_57085_en.html)  
+23. On the semiosphere - CEEOL - Article Detail, accessed May 14, 2026, [https://www.ceeol.com/search/article-detail?id=14996](https://www.ceeol.com/search/article-detail?id=14996)  
+24. Yuri Lotman, from The Semiosphere - FTP Directory Listing, accessed May 14, 2026, [https://ftp.columbia.edu/itc/architecture/ockman/pdfs/Lotman.pdf](https://ftp.columbia.edu/itc/architecture/ockman/pdfs/Lotman.pdf)  
 25. A, THEORY OF SEMIOTICS | Ragged University, accessed May 14, 2026, [https://raggeduniversity.co.uk/wp-content/uploads/2025/01/A-Theory-of-Semiotics-Umberto-Eco-1979.pdf](https://raggeduniversity.co.uk/wp-content/uploads/2025/01/A-Theory-of-Semiotics-Umberto-Eco-1979.pdf)  
-26. Deconstructing WhatsApp Emojis and Emotions through Semiotic Principles' Prisms \- MSI Publishers, accessed May 14, 2026, [https://msipublishers.com/wp-content/uploads/2025/10/MSIJALJ1792025-GS.pdf](https://msipublishers.com/wp-content/uploads/2025/10/MSIJALJ1792025-GS.pdf)  
-27. Introduction to the Semiotics of Emoji and Digital Stickers \- media/rep, accessed May 14, 2026, [https://mediarep.org/server/api/core/bitstreams/a995e749-9239-46c8-9b2a-29518fa06301/content](https://mediarep.org/server/api/core/bitstreams/a995e749-9239-46c8-9b2a-29518fa06301/content)  
+26. Deconstructing WhatsApp Emojis and Emotions through Semiotic Principles' Prisms - MSI Publishers, accessed May 14, 2026, [https://msipublishers.com/wp-content/uploads/2025/10/MSIJALJ1792025-GS.pdf](https://msipublishers.com/wp-content/uploads/2025/10/MSIJALJ1792025-GS.pdf)  
+27. Introduction to the Semiotics of Emoji and Digital Stickers - media/rep, accessed May 14, 2026, [https://mediarep.org/server/api/core/bitstreams/a995e749-9239-46c8-9b2a-29518fa06301/content](https://mediarep.org/server/api/core/bitstreams/a995e749-9239-46c8-9b2a-29518fa06301/content)  
 28. Cognition and Behavior | Basic Theory of UI Design: Affordance and Signifier, accessed May 14, 2026, [https://www.cosmicengine.co.jp/en/Knowledge/Basic-theory-of-UI-design/](https://www.cosmicengine.co.jp/en/Knowledge/Basic-theory-of-UI-design/)  
-29. What Are Affordances in Design? 2026 Guide & UI Examples \- ParallelHQ, accessed May 14, 2026, [https://www.parallelhq.com/blog/what-are-affordances-in-design](https://www.parallelhq.com/blog/what-are-affordances-in-design)  
-30. Umberto Eco's Semiotics: Theory, Methodology and Poetics \- Cambridge Scholars Publishing, accessed May 14, 2026, [https://www.cambridgescholars.com/resources/pdfs/978-1-5275-7746-6-sample.pdf](https://www.cambridgescholars.com/resources/pdfs/978-1-5275-7746-6-sample.pdf)  
-31. Journal of Media and Communication Studies \- reinterpreting some key concepts in barthesâ€™ theory, accessed May 14, 2026, [https://academicjournals.org/journal/JMCS/article-full-text/ABC767050719](https://academicjournals.org/journal/JMCS/article-full-text/ABC767050719)  
-32. Connotation and Denotation \- Literary Theory and Criticism, accessed May 14, 2026, [https://literariness.org/2016/03/18/connotation-and-denotation/](https://literariness.org/2016/03/18/connotation-and-denotation/)  
-33. Roland Barthes: Myth \- Critical Legal Thinking, accessed May 14, 2026, [https://criticallegalthinking.com/2020/06/12/roland-barthes-myth/](https://criticallegalthinking.com/2020/06/12/roland-barthes-myth/)  
-34. Deconstructing Internet Memes through Semiotic Analysis: Unveiling Myths and Ideologies in Visual and Verbal Signs \- Jurnal Arbitrer, accessed May 14, 2026, [https://arbitrer.fib.unand.ac.id/index.php/arbitrer/article/download/385/212/1430](https://arbitrer.fib.unand.ac.id/index.php/arbitrer/article/download/385/212/1430)  
+29. What Are Affordances in Design? 2026 Guide & UI Examples - ParallelHQ, accessed May 14, 2026, [https://www.parallelhq.com/blog/what-are-affordances-in-design](https://www.parallelhq.com/blog/what-are-affordances-in-design)  
+30. Umberto Eco's Semiotics: Theory, Methodology and Poetics - Cambridge Scholars Publishing, accessed May 14, 2026, [https://www.cambridgescholars.com/resources/pdfs/978-1-5275-7746-6-sample.pdf](https://www.cambridgescholars.com/resources/pdfs/978-1-5275-7746-6-sample.pdf)  
+31. Journal of Media and Communication Studies - reinterpreting some key concepts in barthesâ€™ theory, accessed May 14, 2026, [https://academicjournals.org/journal/JMCS/article-full-text/ABC767050719](https://academicjournals.org/journal/JMCS/article-full-text/ABC767050719)  
+32. Connotation and Denotation - Literary Theory and Criticism, accessed May 14, 2026, [https://literariness.org/2016/03/18/connotation-and-denotation/](https://literariness.org/2016/03/18/connotation-and-denotation/)  
+33. Roland Barthes: Myth - Critical Legal Thinking, accessed May 14, 2026, [https://criticallegalthinking.com/2020/06/12/roland-barthes-myth/](https://criticallegalthinking.com/2020/06/12/roland-barthes-myth/)  
+34. Deconstructing Internet Memes through Semiotic Analysis: Unveiling Myths and Ideologies in Visual and Verbal Signs - Jurnal Arbitrer, accessed May 14, 2026, [https://arbitrer.fib.unand.ac.id/index.php/arbitrer/article/download/385/212/1430](https://arbitrer.fib.unand.ac.id/index.php/arbitrer/article/download/385/212/1430)  
 35. An Analysis of Logo's as Found in Social Media Application: a Semiotics Study, accessed May 14, 2026, [https://lpppipublishing.com/index.php/ijessm/article/download/537/431/1537](https://lpppipublishing.com/index.php/ijessm/article/download/537/431/1537)  
-36. Definitions of Semiotic Terms, accessed May 14, 2026, [https://www.uvm.edu/\~tstreete/semiotics\_and\_ads/terminology.html](https://www.uvm.edu/~tstreete/semiotics_and_ads/terminology.html)  
+36. Definitions of Semiotic Terms, accessed May 14, 2026, [https://www.uvm.edu/~tstreete/semiotics_and_ads/terminology.html](https://www.uvm.edu/~tstreete/semiotics_and_ads/terminology.html)  
 37. Semiotics for Beginners: Denotation, Connotation and Myth, accessed May 14, 2026, [https://bgsp.edu/app/uploads/2014/12/Semiotics-for-Beginners.pdf](https://bgsp.edu/app/uploads/2014/12/Semiotics-for-Beginners.pdf)  
-38. Roland Barthes' Concept of Mythologies \- Literary Theory and Criticism, accessed May 14, 2026, [https://literariness.org/2016/03/21/roland-barthes-concept-of-mythologies/](https://literariness.org/2016/03/21/roland-barthes-concept-of-mythologies/)  
-39. ROLAND BARTHES' DENOTATION, CONNOTATION, AND MYTH IN THE CHANGE OF FOUR STARBUCKS LOGOS: A STUDY OF SEMIOTICS TERM PAPER RIFA \- repository, accessed May 14, 2026, [http://repository.unsada.ac.id/550/7/References.pdf](http://repository.unsada.ac.id/550/7/References.pdf)  
-40. Semiotics for Branding – How to Tell a Story \- KPU WordPress, accessed May 14, 2026, [https://wordpress.kpu.ca/depd3530/2023/11/19/semiotics-for-branding-how-to-tell-a-story/](https://wordpress.kpu.ca/depd3530/2023/11/19/semiotics-for-branding-how-to-tell-a-story/)  
-41. (PDF) The Semiotics of User Interfaces \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/226728579\_The\_Semiotics\_of\_User\_Interfaces](https://www.researchgate.net/publication/226728579_The_Semiotics_of_User_Interfaces)  
+38. Roland Barthes' Concept of Mythologies - Literary Theory and Criticism, accessed May 14, 2026, [https://literariness.org/2016/03/21/roland-barthes-concept-of-mythologies/](https://literariness.org/2016/03/21/roland-barthes-concept-of-mythologies/)  
+39. ROLAND BARTHES' DENOTATION, CONNOTATION, AND MYTH IN THE CHANGE OF FOUR STARBUCKS LOGOS: A STUDY OF SEMIOTICS TERM PAPER RIFA - repository, accessed May 14, 2026, [http://repository.unsada.ac.id/550/7/References.pdf](http://repository.unsada.ac.id/550/7/References.pdf)  
+40. Semiotics for Branding – How to Tell a Story - KPU WordPress, accessed May 14, 2026, [https://wordpress.kpu.ca/depd3530/2023/11/19/semiotics-for-branding-how-to-tell-a-story/](https://wordpress.kpu.ca/depd3530/2023/11/19/semiotics-for-branding-how-to-tell-a-story/)  
+41. (PDF) The Semiotics of User Interfaces - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/226728579_The_Semiotics_of_User_Interfaces](https://www.researchgate.net/publication/226728579_The_Semiotics_of_User_Interfaces)  
 42. SEMIOTIC ANALYSIS OF MEMES ON IMGUR APP, accessed May 14, 2026, [https://repositori.buddhidharma.ac.id/2583/1/COVER-BAB%20III.pdf](https://repositori.buddhidharma.ac.id/2583/1/COVER-BAB%20III.pdf)  
-43. Understanding Where LLMs Go Wrong and Why It Matters \- Threat.Digital, accessed May 14, 2026, [https://blog.threat.digital/how-llms-get-things-wrong/](https://blog.threat.digital/how-llms-get-things-wrong/)  
+43. Understanding Where LLMs Go Wrong and Why It Matters - Threat.Digital, accessed May 14, 2026, [https://blog.threat.digital/how-llms-get-things-wrong/](https://blog.threat.digital/how-llms-get-things-wrong/)  
 44. Researchers discover a shortcoming that makes LLMs less reliable, accessed May 14, 2026, [https://computing.mit.edu/news/researchers-discover-a-shortcoming-that-makes-llms-less-reliable/](https://computing.mit.edu/news/researchers-discover-a-shortcoming-that-makes-llms-less-reliable/)  
-45. Thomas Sebeok And The Biosemiotic Legacy, accessed May 14, 2026, [https://creditosocial2023.patos.pb.gov.br/Resources/7rTGM9/4OK086/thomas-sebeok-and-the\_\_biosemiotic-legacy.pdf](https://creditosocial2023.patos.pb.gov.br/Resources/7rTGM9/4OK086/thomas-sebeok-and-the__biosemiotic-legacy.pdf)  
-46. How to Debug LLM Failures: A Comprehensive Guide for AI Engineers \- DEV Community, accessed May 14, 2026, [https://dev.to/kuldeep\_paul/how-to-debug-llm-failures-a-comprehensive-guide-for-ai-engineers-3bej](https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-comprehensive-guide-for-ai-engineers-3bej)  
-47. Understanding Information and Its Role as a Tool: From Data to ..., accessed May 14, 2026, [https://www.worldscientific.com/doi/pdf/10.1142/9789811294921\_0002?download=true](https://www.worldscientific.com/doi/pdf/10.1142/9789811294921_0002?download=true)
+45. Thomas Sebeok And The Biosemiotic Legacy, accessed May 14, 2026, [https://creditosocial2023.patos.pb.gov.br/Resources/7rTGM9/4OK086/thomas-sebeok-and-the__biosemiotic-legacy.pdf](https://creditosocial2023.patos.pb.gov.br/Resources/7rTGM9/4OK086/thomas-sebeok-and-the__biosemiotic-legacy.pdf)  
+46. How to Debug LLM Failures: A Comprehensive Guide for AI Engineers - DEV Community, accessed May 14, 2026, [https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-comprehensive-guide-for-ai-engineers-3bej](https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-comprehensive-guide-for-ai-engineers-3bej)  
+47. Understanding Information and Its Role as a Tool: From Data to ..., accessed May 14, 2026, [https://www.worldscientific.com/doi/pdf/10.1142/9789811294921_0002?download=true](https://www.worldscientific.com/doi/pdf/10.1142/9789811294921_0002?download=true)
 
 ---
 
@@ -659,7 +659,7 @@ To facilitate operational intelligence, the SSI canon adopts a standardized onto
 
 | Term | Definition | Contrast | Assistant-Use Note | Downstream Report |
 | :---- | :---- | :---- | :---- | :---- |
-| **Morpheme** | Smallest unit of meaning (e.g., *un-*, *break*, *\-able*). | **Lexeme**: The abstract dictionary entry. | Critical for detecting negation or tense markers at the word level. 1 | Report D |
+| **Morpheme** | Smallest unit of meaning (e.g., *un-*, *break*, *-able*). | **Lexeme**: The abstract dictionary entry. | Critical for detecting negation or tense markers at the word level. 1 | Report D |
 | **Lexeme** | The abstract unit of the lexicon (e.g., *RUN*). | **Wordform**: The specific instance (*running*, *ran*). | Essential for normalizing events and tracking entities across inflections. 1 | Report D |
 | **Phrase** | A group of words acting as a single unit (e.g., "the large car"). | **Clause**: A group containing a subject and a predicate. | Use to preserve modifier boundaries; avoid "bag-of-words" drift. 24 | Report K |
 | **Predicate** | The part of a clause that expresses an action or state. | **Argument**: The entities involved in the predicate. | The core "anchor" of a claim; usually a verb or adjective. 14 | Report E |
@@ -674,7 +674,7 @@ The transition from raw text to an answerable reasoning object follows a rigorou
 
 ### **1. The Sub-Lexical and Lexical Layer**
 
-Meaning begins at the **Morpheme** level. Inflectional morphology (e.g., *\-s* for plural, *\-ed* for past) and derivational morphology (e.g., *un-* for negation) provide the initial constraints on the lexeme. AI assistants must be "morphologically competent" to recognize that "un-helmeted" is a negative state, whereas a naive model might focus on the "helmet" token and infer the presence of safety gear. 3 The **Lexeme** and **Wordform** layers stabilize the identity of the sign, ensuring that different forms of the same word are linked to a single concept. 1
+Meaning begins at the **Morpheme** level. Inflectional morphology (e.g., *-s* for plural, *-ed* for past) and derivational morphology (e.g., *un-* for negation) provide the initial constraints on the lexeme. AI assistants must be "morphologically competent" to recognize that "un-helmeted" is a negative state, whereas a naive model might focus on the "helmet" token and infer the presence of safety gear. 3 The **Lexeme** and **Wordform** layers stabilize the identity of the sign, ensuring that different forms of the same word are linked to a single concept. 1
 
 ### **2. The Phrasal and Clausal Layer**
 
@@ -802,7 +802,7 @@ Linguistic structure determines what an assistant is *licensed* to infer. This i
 To avoid "keyword mush," extracted claims must be normalized into a predicate-argument frame while preserving **Attribution** and **Modality**.
 
 * **Original**: "Studies suggest the drug might be associated with reduced risk."  
-* **Normalized**: Attribution: Studies; Modal: might; Predicate: associated\_with(Drug, ReducedRisk).  
+* **Normalized**: Attribution: Studies; Modal: might; Predicate: associated_with(Drug, ReducedRisk).  
 * **False Entailment to Avoid**: Cause(Drug, ReducedRisk). 7
 
 ## **Morphology and Cross-Linguistic Structure**
@@ -834,22 +834,22 @@ To support these doctrines, retrieved data must be enriched with structural meta
 
 | Field | Description | Example |
 | :---- | :---- | :---- |
-| claim\_id | Unique identifier for the atomic claim. | C-1024 |
+| claim_id | Unique identifier for the atomic claim. | C-1024 |
 | predicate | The central action/relation. | eligibility |
 | agent | The entity performing the action. | User |
 | patient | The entity receiving the action. | Refund |
-| modality | Degree of certainty/obligation. | not\_eligible |
-| condition | Exceptions or requirements. | unless\_defective |
-| attribution | The source of the claim. | RefundPolicy\_V2 |
-| scope\_flag | Warning for potential scope ambiguity. | True |
-| logical\_form | Normalized proposition. | NOT(Eligible(User, Refund)) IF NOT(Defective(Item)) |
+| modality | Degree of certainty/obligation. | not_eligible |
+| condition | Exceptions or requirements. | unless_defective |
+| attribution | The source of the claim. | RefundPolicy_V2 |
+| scope_flag | Warning for potential scope ambiguity. | True |
+| logical_form | Normalized proposition. | NOT(Eligible(User, Refund)) IF NOT(Defective(Item)) |
 
 ### **Claim Extraction Templates**
 
 | Original Sentence | Normalized Claim | What Can Be Inferred | False Entailment to Avoid |
 | :---- | :---- | :---- | :---- |
-| "The system must not delete data unless consent is recorded." | MUST\_NOT(Delete(Data)) UNLESS(Recorded(Consent)) | Data deletion requires recorded consent. | "The system deletes data." 48 |
-| "The drug is associated with reduced risk in adults over 65." | Associated\_With(Drug, ReducedRisk) FILTER(Age \> 65\) | There is a correlation for seniors. | "The drug *causes* reduced risk in everyone." 45 |
+| "The system must not delete data unless consent is recorded." | MUST_NOT(Delete(Data)) UNLESS(Recorded(Consent)) | Data deletion requires recorded consent. | "The system deletes data." 48 |
+| "The drug is associated with reduced risk in adults over 65." | Associated_With(Drug, ReducedRisk) FILTER(Age > 65) | There is a correlation for seniors. | "The drug *causes* reduced risk in everyone." 45 |
 | "The contractor denied that the report proved negligence." | Attribution(Contractor, DENY(Prove(Report, Negligence))) | The contractor rejects the report's conclusion. | "The report proved negligence." 6 |
 
 ### **Structural Crosswalk Tables**
@@ -938,60 +938,60 @@ Report C contributes the canon's **Linguistic-Structural Ontology**, the **Morph
 
 #### **Works cited**
 
-1. (PDF) The Principle of Semantic Compositionality \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/225899934\_The\_Principle\_of\_Semantic\_Compositionality](https://www.researchgate.net/publication/225899934_The_Principle_of_Semantic_Compositionality)  
-2. Lecture 1: Introduction to Formal Semantics and Compositionality, accessed May 14, 2026, [http://people.umass.edu/partee/NZ\_2006/NZ1.pdf](http://people.umass.edu/partee/NZ_2006/NZ1.pdf)  
-3. Negation: A Pink Elephant in the Large Language Models' Room? \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2503.22395v2](https://arxiv.org/html/2503.22395v2)  
-4. Formal semantics (natural language) \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Formal\_semantics\_(natural\_language)](https://en.wikipedia.org/wiki/Formal_semantics_\(natural_language\))  
-5. Bridging Thought and Reality: Frege's Enduring Impact on Philosophy of Language \- DergiPark, accessed May 14, 2026, [https://dergipark.org.tr/en/download/article-file/4476991](https://dergipark.org.tr/en/download/article-file/4476991)  
+1. (PDF) The Principle of Semantic Compositionality - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/225899934_The_Principle_of_Semantic_Compositionality](https://www.researchgate.net/publication/225899934_The_Principle_of_Semantic_Compositionality)  
+2. Lecture 1: Introduction to Formal Semantics and Compositionality, accessed May 14, 2026, [http://people.umass.edu/partee/NZ_2006/NZ1.pdf](http://people.umass.edu/partee/NZ_2006/NZ1.pdf)  
+3. Negation: A Pink Elephant in the Large Language Models' Room? - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2503.22395v2](https://arxiv.org/html/2503.22395v2)  
+4. Formal semantics (natural language) - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Formal_semantics_(natural_language)](https://en.wikipedia.org/wiki/Formal_semantics_\(natural_language))  
+5. Bridging Thought and Reality: Frege's Enduring Impact on Philosophy of Language - DergiPark, accessed May 14, 2026, [https://dergipark.org.tr/en/download/article-file/4476991](https://dergipark.org.tr/en/download/article-file/4476991)  
 6. Add claim extraction and alignment substrate for qualitative deep ..., accessed May 14, 2026, [https://github.com/monarch-initiative/deep-research-client/issues/43](https://github.com/monarch-initiative/deep-research-client/issues/43)  
-7. The Detection of Contradictory Claims in Biomedical Abstracts \- White Rose eTheses Online, accessed May 14, 2026, [https://etheses.whiterose.ac.uk/id/eprint/15893/1/FinalThesis-Alamri.pdf](https://etheses.whiterose.ac.uk/id/eprint/15893/1/FinalThesis-Alamri.pdf)  
-8. Compositionality \- Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/compositionality/](https://plato.stanford.edu/entries/compositionality/)  
-9. How to shrink your contracts — so that your business booms \- Write ..., accessed May 14, 2026, [https://writegroup.io/shrink-contracts-business-booms/](https://writegroup.io/shrink-contracts-business-booms/)  
-10. Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.19759v1](https://arxiv.org/html/2604.19759v1)  
-11. 3.2.1: MEDICAL RECORDS – Documentation, Electronic Health Records, Access, and Retention \- NC Medical Board, accessed May 14, 2026, [https://www.ncmedboard.org/resources-information/professional-resources/laws-rules-position-statements/position-statements/medical-records-documentation-electronic-health-records-access-and-retentio](https://www.ncmedboard.org/resources-information/professional-resources/laws-rules-position-statements/position-statements/medical-records-documentation-electronic-health-records-access-and-retentio)  
-12. Qatary Legal Portal | Legislations | Law no (22) of 2004 Regarding Promulgating the Civil Code \- Al Meezan, accessed May 14, 2026, [https://www.almeezan.qa/LawArticles.aspx?LawTreeSectionID=2158\&LawID=2559\&language=en](https://www.almeezan.qa/LawArticles.aspx?LawTreeSectionID=2158&LawID=2559&language=en)  
-13. Language models are not naysayers: an analysis of language models on negation benchmarks \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2023.starsem-1.10/](https://aclanthology.org/2023.starsem-1.10/)  
-14. Semantic Role Labeling \- Stanford University, accessed May 14, 2026, [https://web.stanford.edu/\~jurafsky/slp3/21.pdf](https://web.stanford.edu/~jurafsky/slp3/21.pdf)  
-15. Evaluating Universal Dependency Parser Recovery of Predicate Argument Structure via CompChain Analysis \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2021.starsem-1.11.pdf](https://aclanthology.org/2021.starsem-1.11.pdf)  
-16. Semantic Bridge: Universal Multi-Hop Question Generation via AMR-Driven Graph Synthesis \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2508.10013v1](https://arxiv.org/html/2508.10013v1)  
-17. Montague semantics \- Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/montague-semantics/](https://plato.stanford.edu/entries/montague-semantics/)  
+7. The Detection of Contradictory Claims in Biomedical Abstracts - White Rose eTheses Online, accessed May 14, 2026, [https://etheses.whiterose.ac.uk/id/eprint/15893/1/FinalThesis-Alamri.pdf](https://etheses.whiterose.ac.uk/id/eprint/15893/1/FinalThesis-Alamri.pdf)  
+8. Compositionality - Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/compositionality/](https://plato.stanford.edu/entries/compositionality/)  
+9. How to shrink your contracts — so that your business booms - Write ..., accessed May 14, 2026, [https://writegroup.io/shrink-contracts-business-booms/](https://writegroup.io/shrink-contracts-business-booms/)  
+10. Automated Detection of Dosing Errors in Clinical Trial Narratives: A Multi-Modal Feature Engineering Approach with LightGBM - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.19759v1](https://arxiv.org/html/2604.19759v1)  
+11. 3.2.1: MEDICAL RECORDS – Documentation, Electronic Health Records, Access, and Retention - NC Medical Board, accessed May 14, 2026, [https://www.ncmedboard.org/resources-information/professional-resources/laws-rules-position-statements/position-statements/medical-records-documentation-electronic-health-records-access-and-retentio](https://www.ncmedboard.org/resources-information/professional-resources/laws-rules-position-statements/position-statements/medical-records-documentation-electronic-health-records-access-and-retentio)  
+12. Qatary Legal Portal | Legislations | Law no (22) of 2004 Regarding Promulgating the Civil Code - Al Meezan, accessed May 14, 2026, [https://www.almeezan.qa/LawArticles.aspx?LawTreeSectionID=2158&LawID=2559&language=en](https://www.almeezan.qa/LawArticles.aspx?LawTreeSectionID=2158&LawID=2559&language=en)  
+13. Language models are not naysayers: an analysis of language models on negation benchmarks - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2023.starsem-1.10/](https://aclanthology.org/2023.starsem-1.10/)  
+14. Semantic Role Labeling - Stanford University, accessed May 14, 2026, [https://web.stanford.edu/~jurafsky/slp3/21.pdf](https://web.stanford.edu/~jurafsky/slp3/21.pdf)  
+15. Evaluating Universal Dependency Parser Recovery of Predicate Argument Structure via CompChain Analysis - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2021.starsem-1.11.pdf](https://aclanthology.org/2021.starsem-1.11.pdf)  
+16. Semantic Bridge: Universal Multi-Hop Question Generation via AMR-Driven Graph Synthesis - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2508.10013v1](https://arxiv.org/html/2508.10013v1)  
+17. Montague semantics - Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/montague-semantics/](https://plato.stanford.edu/entries/montague-semantics/)  
 18. On the history of the question of whether natural language is “illogical”, accessed May 14, 2026, [https://hiphilangsci.net/2013/05/01/on-the-history-of-the-question-of-whether-natural-language-is-illogical/](https://hiphilangsci.net/2013/05/01/on-the-history-of-the-question-of-whether-natural-language-is-illogical/)  
 19. EVENT-BASED SEMANTICS Peter N. Lasersohn University of Illinois Department of Linguistics Urbana, Illinois 61801, U.S.A. Abstrac, accessed May 14, 2026, [https://semanticsarchive.net/Archive/jFhNWM2M/eventbasedsemantics.pdf](https://semanticsarchive.net/Archive/jFhNWM2M/eventbasedsemantics.pdf)  
 20. 34. Event semantics, accessed May 14, 2026, [https://d-nb.info/1161944222/34](https://d-nb.info/1161944222/34)  
-21. NEO-DAVIDSONIAN EVENT SEMANTICS "Strange goings on\! Jones did it slowly, deliberately, in the bath, accessed May 14, 2026, [https://www.tau.ac.il/\~landman/Online%20Class%20Notes/2%20ADVANCED%20SEMANTICS/8%20Neo-davidsonian%20event%20semantics.pdf](https://www.tau.ac.il/~landman/Online%20Class%20Notes/2%20ADVANCED%20SEMANTICS/8%20Neo-davidsonian%20event%20semantics.pdf)  
-22. Neo-Davidsonian Event Semantics \- Emergent Mind, accessed May 14, 2026, [https://www.emergentmind.com/topics/neo-davidsonian-event-semantics](https://www.emergentmind.com/topics/neo-davidsonian-event-semantics)  
-23. Abstract Meaning Representation Parsing \- Michtom School of Computer Science, accessed May 14, 2026, [https://www.cs.brandeis.edu/\~cwang24/files/thesis-wang.pdf](https://www.cs.brandeis.edu/~cwang24/files/thesis-wang.pdf)  
-24. Processing Coordination Ambiguity | Ferreira Lab, accessed May 14, 2026, [https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Engelhardt-Ferreira-2010\_CoordinationAmbiguity\_Lang-Speech.pdf](https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Engelhardt-Ferreira-2010_CoordinationAmbiguity_Lang-Speech.pdf)  
+21. NEO-DAVIDSONIAN EVENT SEMANTICS "Strange goings on\! Jones did it slowly, deliberately, in the bath, accessed May 14, 2026, [https://www.tau.ac.il/~landman/Online%20Class%20Notes/2%20ADVANCED%20SEMANTICS/8%20Neo-davidsonian%20event%20semantics.pdf](https://www.tau.ac.il/~landman/Online%20Class%20Notes/2%20ADVANCED%20SEMANTICS/8%20Neo-davidsonian%20event%20semantics.pdf)  
+22. Neo-Davidsonian Event Semantics - Emergent Mind, accessed May 14, 2026, [https://www.emergentmind.com/topics/neo-davidsonian-event-semantics](https://www.emergentmind.com/topics/neo-davidsonian-event-semantics)  
+23. Abstract Meaning Representation Parsing - Michtom School of Computer Science, accessed May 14, 2026, [https://www.cs.brandeis.edu/~cwang24/files/thesis-wang.pdf](https://www.cs.brandeis.edu/~cwang24/files/thesis-wang.pdf)  
+24. Processing Coordination Ambiguity | Ferreira Lab, accessed May 14, 2026, [https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Engelhardt-Ferreira-2010_CoordinationAmbiguity_Lang-Speech.pdf](https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Engelhardt-Ferreira-2010_CoordinationAmbiguity_Lang-Speech.pdf)  
 25. Processing ambiguities in attachment and pronominal reference | Glossa, accessed May 14, 2026, [https://www.glossa-journal.org/article/id/5325/](https://www.glossa-journal.org/article/id/5325/)  
-26. EP0413132A2 \- A computer method for identifying predicate-argument structures in natural language text \- Google Patents, accessed May 14, 2026, [https://patents.google.com/patent/EP0413132A2/en](https://patents.google.com/patent/EP0413132A2/en)  
+26. EP0413132A2 - A computer method for identifying predicate-argument structures in natural language text - Google Patents, accessed May 14, 2026, [https://patents.google.com/patent/EP0413132A2/en](https://patents.google.com/patent/EP0413132A2/en)  
 27. Deep Learning Approach for Negation and Speculation Detection ..., accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC10170361/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10170361/)  
-28. Quantifier Scope Interpretation in Language Learners and LLMs \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/395527573\_Quantifier\_Scope\_Interpretation\_in\_Language\_Learners\_and\_LLMs](https://www.researchgate.net/publication/395527573_Quantifier_Scope_Interpretation_in_Language_Learners_and_LLMs)  
-29. Scope Ambiguities in Large Language Models \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2404.04332v1](https://arxiv.org/html/2404.04332v1)  
-30. Semantic Role Labeling, accessed May 14, 2026, [https://people.engr.tamu.edu/huangrh/Fall18-638/l15\_srl.pdf](https://people.engr.tamu.edu/huangrh/Fall18-638/l15_srl.pdf)  
+28. Quantifier Scope Interpretation in Language Learners and LLMs - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/395527573_Quantifier_Scope_Interpretation_in_Language_Learners_and_LLMs](https://www.researchgate.net/publication/395527573_Quantifier_Scope_Interpretation_in_Language_Learners_and_LLMs)  
+29. Scope Ambiguities in Large Language Models - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2404.04332v1](https://arxiv.org/html/2404.04332v1)  
+30. Semantic Role Labeling, accessed May 14, 2026, [https://people.engr.tamu.edu/huangrh/Fall18-638/l15_srl.pdf](https://people.engr.tamu.edu/huangrh/Fall18-638/l15_srl.pdf)  
 31. Artificial Intelligence Can Not Yet Reliably Read and Extract Information from Clinical Notes in Medical Records, accessed May 14, 2026, [https://www.publichealth.columbia.edu/news/artificial-intelligence-can-not-yet-reliably-read-extract-information-clinical-notes-medical-records](https://www.publichealth.columbia.edu/news/artificial-intelligence-can-not-yet-reliably-read-extract-information-clinical-notes-medical-records)  
-32. Morphological competence in neural natural language processing \- Apollo, accessed May 14, 2026, [https://www.repository.cam.ac.uk/items/d8bfc0c7-09e9-4144-a0a6-b3bf9299b3c0](https://www.repository.cam.ac.uk/items/d8bfc0c7-09e9-4144-a0a6-b3bf9299b3c0)  
-33. Cross-Lingual Morphological Tagging for Low-Resource Languages \- Google Research, accessed May 14, 2026, [https://research.google.com/pubs/archive/45387.pdf](https://research.google.com/pubs/archive/45387.pdf)  
-34. Evaluating the Cross-Lingual Syntactic Capabilities of Language Models \- Suchir Salhan, accessed May 14, 2026, [https://suchirsalhan.github.io/assets/tripos/L95/L95\_Salhan\_xBLiMP\_25\_26.pdf](https://suchirsalhan.github.io/assets/tripos/L95/L95_Salhan_xBLiMP_25_26.pdf)  
-35. The Semantics of Evidentials in Questions | Request PDF \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/344609448\_The\_Semantics\_of\_Evidentials\_in\_Questions](https://www.researchgate.net/publication/344609448_The_Semantics_of_Evidentials_in_Questions)  
+32. Morphological competence in neural natural language processing - Apollo, accessed May 14, 2026, [https://www.repository.cam.ac.uk/items/d8bfc0c7-09e9-4144-a0a6-b3bf9299b3c0](https://www.repository.cam.ac.uk/items/d8bfc0c7-09e9-4144-a0a6-b3bf9299b3c0)  
+33. Cross-Lingual Morphological Tagging for Low-Resource Languages - Google Research, accessed May 14, 2026, [https://research.google.com/pubs/archive/45387.pdf](https://research.google.com/pubs/archive/45387.pdf)  
+34. Evaluating the Cross-Lingual Syntactic Capabilities of Language Models - Suchir Salhan, accessed May 14, 2026, [https://suchirsalhan.github.io/assets/tripos/L95/L95_Salhan_xBLiMP_25_26.pdf](https://suchirsalhan.github.io/assets/tripos/L95/L95_Salhan_xBLiMP_25_26.pdf)  
+35. The Semantics of Evidentials in Questions | Request PDF - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/344609448_The_Semantics_of_Evidentials_in_Questions](https://www.researchgate.net/publication/344609448_The_Semantics_of_Evidentials_in_Questions)  
 36. Linguistics Today: Facing A Greater Challenge, accessed May 14, 2026, [https://coehuman.uodiyala.edu.iq/uploads/Coehuman%20library%20pdf/English%20library%D9%83%D8%AA%D8%A8%20%D8%A7%D9%84%D8%A7%D9%86%D9%83%D9%84%D9%8A%D8%B2%D9%8A/linguistics/Linguistics%20Today%20Facing%20A%20Greater%20Challenge.pdf](https://coehuman.uodiyala.edu.iq/uploads/Coehuman%20library%20pdf/English%20library%D9%83%D8%AA%D8%A8%20%D8%A7%D9%84%D8%A7%D9%86%D9%83%D9%84%D9%8A%D8%B2%D9%8A/linguistics/Linguistics%20Today%20Facing%20A%20Greater%20Challenge.pdf)  
-37. Quantifier Scope Interpretation in Language Learners and LLMs \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2509.10860v1](https://arxiv.org/html/2509.10860v1)  
+37. Quantifier Scope Interpretation in Language Learners and LLMs - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2509.10860v1](https://arxiv.org/html/2509.10860v1)  
 38. OCR-Mediated Modality Dominance in Vision-Language Models ..., accessed May 14, 2026, [https://www.medrxiv.org/content/10.64898/2026.02.22.26346828v1.full-text](https://www.medrxiv.org/content/10.64898/2026.02.22.26346828v1.full-text)  
 39. MARCH: Evaluating the Intersection of Ambiguity Interpretation and Multi-hop Inference, accessed May 14, 2026, [https://arxiv.org/html/2509.22750v4](https://arxiv.org/html/2509.22750v4)  
-40. Examining the Application of Artificial Intelligence Techniques in Enabling Syntactic Ambiguity such as Attachment Ambiguity amo \- Journal of Information Systems Engineering and Management, accessed May 14, 2026, [https://jisem-journal.com/index.php/journal/article/download/8312/3777/13824](https://jisem-journal.com/index.php/journal/article/download/8312/3777/13824)  
-41. ARTIFICIAL INTELLIGENCE-ENABLED AUTOMATION FOR AMBIGUITY HANDLING AND QUESTION ANSWERING IN NATURAL- LANGUAGE REQUIREMENTS \- ORBilu, accessed May 14, 2026, [https://orbilu.uni.lu/bitstream/10993/52045/1/Saad\_Ezzini\_PhD\_Thesis.pdf](https://orbilu.uni.lu/bitstream/10993/52045/1/Saad_Ezzini_PhD_Thesis.pdf)  
-42. Can LLMs handle ambiguity in language? \- Milvus, accessed May 14, 2026, [https://milvus.io/ai-quick-reference/can-llms-handle-ambiguity-in-language](https://milvus.io/ai-quick-reference/can-llms-handle-ambiguity-in-language)  
-43. Extending Nocuous Ambiguity Analysis for Anaphora in Natural Language Requirements, accessed May 14, 2026, [https://www.researchgate.net/publication/224195450\_Extending\_Nocuous\_Ambiguity\_Analysis\_for\_Anaphora\_in\_Natural\_Language\_Requirements](https://www.researchgate.net/publication/224195450_Extending_Nocuous_Ambiguity_Analysis_for_Anaphora_in_Natural_Language_Requirements)  
-44. Detecting Ambiguities to Guide Query Rewrite for Robust Conversations in Enterprise AI Assistants \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2502.00537v1](https://arxiv.org/html/2502.00537v1)  
-45. CIP: A Plug-and-Play Causal Prompting Framework for Mitigating Hallucinations under Long-Context Noise \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2512.11282v1](https://arxiv.org/html/2512.11282v1)  
-46. \[2503.22395\] Negation: A Pink Elephant in the Large Language Models' Room? \- arXiv, accessed May 14, 2026, [https://arxiv.org/abs/2503.22395](https://arxiv.org/abs/2503.22395)  
+40. Examining the Application of Artificial Intelligence Techniques in Enabling Syntactic Ambiguity such as Attachment Ambiguity amo - Journal of Information Systems Engineering and Management, accessed May 14, 2026, [https://jisem-journal.com/index.php/journal/article/download/8312/3777/13824](https://jisem-journal.com/index.php/journal/article/download/8312/3777/13824)  
+41. ARTIFICIAL INTELLIGENCE-ENABLED AUTOMATION FOR AMBIGUITY HANDLING AND QUESTION ANSWERING IN NATURAL- LANGUAGE REQUIREMENTS - ORBilu, accessed May 14, 2026, [https://orbilu.uni.lu/bitstream/10993/52045/1/Saad_Ezzini_PhD_Thesis.pdf](https://orbilu.uni.lu/bitstream/10993/52045/1/Saad_Ezzini_PhD_Thesis.pdf)  
+42. Can LLMs handle ambiguity in language? - Milvus, accessed May 14, 2026, [https://milvus.io/ai-quick-reference/can-llms-handle-ambiguity-in-language](https://milvus.io/ai-quick-reference/can-llms-handle-ambiguity-in-language)  
+43. Extending Nocuous Ambiguity Analysis for Anaphora in Natural Language Requirements, accessed May 14, 2026, [https://www.researchgate.net/publication/224195450_Extending_Nocuous_Ambiguity_Analysis_for_Anaphora_in_Natural_Language_Requirements](https://www.researchgate.net/publication/224195450_Extending_Nocuous_Ambiguity_Analysis_for_Anaphora_in_Natural_Language_Requirements)  
+44. Detecting Ambiguities to Guide Query Rewrite for Robust Conversations in Enterprise AI Assistants - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2502.00537v1](https://arxiv.org/html/2502.00537v1)  
+45. CIP: A Plug-and-Play Causal Prompting Framework for Mitigating Hallucinations under Long-Context Noise - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2512.11282v1](https://arxiv.org/html/2512.11282v1)  
+46. [2503.22395] Negation: A Pink Elephant in the Large Language Models' Room? - arXiv, accessed May 14, 2026, [https://arxiv.org/abs/2503.22395](https://arxiv.org/abs/2503.22395)  
 47. Anaphora Ambiguity Detection Method Based on Cross-domain Pronoun Substitution, accessed May 14, 2026, [https://pure.ecnu.edu.cn/en/publications/anaphora-ambiguity-detection-method-based-on-cross-domain-pronoun/](https://pure.ecnu.edu.cn/en/publications/anaphora-ambiguity-detection-method-based-on-cross-domain-pronoun/)  
-48. CONTRACT SUMMARY SHEET \- City of Los Angeles, accessed May 14, 2026, [https://cityclerk.lacity.org/onlinecontracts/2022/C-137261\_c\_10-14-22.pdf](https://cityclerk.lacity.org/onlinecontracts/2022/C-137261_c_10-14-22.pdf)  
-49. Contract Law in the Age of Agentic AI: Who's Really Clicking “Accept”? \- Insights \- Proskauer, accessed May 14, 2026, [https://www.proskauer.com/blog/contract-law-in-the-age-of-agentic-ai-whos-really-clicking-accept](https://www.proskauer.com/blog/contract-law-in-the-age-of-agentic-ai-whos-really-clicking-accept)  
-50. Large Language Model Reasoning Failures \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.06176v1](https://arxiv.org/html/2602.06176v1)  
-51. (PDF) Large Language Model Reasoning Failures \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/400583007\_Large\_Language\_Model\_Reasoning\_Failures](https://www.researchgate.net/publication/400583007_Large_Language_Model_Reasoning_Failures)  
+48. CONTRACT SUMMARY SHEET - City of Los Angeles, accessed May 14, 2026, [https://cityclerk.lacity.org/onlinecontracts/2022/C-137261_c_10-14-22.pdf](https://cityclerk.lacity.org/onlinecontracts/2022/C-137261_c_10-14-22.pdf)  
+49. Contract Law in the Age of Agentic AI: Who's Really Clicking “Accept”? - Insights - Proskauer, accessed May 14, 2026, [https://www.proskauer.com/blog/contract-law-in-the-age-of-agentic-ai-whos-really-clicking-accept](https://www.proskauer.com/blog/contract-law-in-the-age-of-agentic-ai-whos-really-clicking-accept)  
+50. Large Language Model Reasoning Failures - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.06176v1](https://arxiv.org/html/2602.06176v1)  
+51. (PDF) Large Language Model Reasoning Failures - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/400583007_Large_Language_Model_Reasoning_Failures](https://www.researchgate.net/publication/400583007_Large_Language_Model_Reasoning_Failures)  
 52. From Frege to chatGPT: Compositionality in language, cognition, and deep neural networks, accessed May 14, 2026, [https://arxiv.org/html/2405.15164v1](https://arxiv.org/html/2405.15164v1)  
-53. 8 Advanced RAG Techniques & How to Implement Them in Production \- Intuz, accessed May 14, 2026, [https://www.intuz.com/blog/advanced-rag-techniques](https://www.intuz.com/blog/advanced-rag-techniques)  
-54. Entropic Claim Resolution: Uncertainty-Driven Evidence Selection for RAG \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2603.28444v1](https://arxiv.org/html/2603.28444v1)
+53. 8 Advanced RAG Techniques & How to Implement Them in Production - Intuz, accessed May 14, 2026, [https://www.intuz.com/blog/advanced-rag-techniques](https://www.intuz.com/blog/advanced-rag-techniques)  
+54. Entropic Claim Resolution: Uncertainty-Driven Evidence Selection for RAG - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2603.28444v1](https://arxiv.org/html/2603.28444v1)
 
 ---
 
@@ -1027,7 +1027,7 @@ The basic level is characterized by high cue validity, where the presence of cer
 
 While prototype theory relies on an abstract "average" of a category, exemplar theory suggests that humans store specific instances of category members in memory. When a new entity is encountered, it is categorized by its similarity to these stored exemplars rather than a single idealized prototype.4 This approach allows for greater cognitive flexibility, as the system can adapt to new experiences by adding new exemplars to its "neighborhood".4
 
-Research in computational modeling, such as the Generalized Context Model (GCM), formalizes this by calculating weighted distances in a multidimensional feature space.5 The similarity between a stimulus i and an exemplar j is often expressed as an exponential decay function of their distance: eta\_ij \= e^(-d\_ij) where d\_ij \= C \* \[ sum over k=1 to N of w\_k \* |x\_ik \- x\_jk| \] represents the weighted distance across N dimensions.5 For an AI, this mathematical substrate explains why a system might switch between prototype-based heuristics during early learning and exemplar-based precision as it matures into an expert domain.5
+Research in computational modeling, such as the Generalized Context Model (GCM), formalizes this by calculating weighted distances in a multidimensional feature space.5 The similarity between a stimulus i and an exemplar j is often expressed as an exponential decay function of their distance: eta_ij = e^(-d_ij) where d_ij = C * [ sum over k=1 to N of w_k * |x_ik - x_jk| ] represents the weighted distance across N dimensions.5 For an AI, this mathematical substrate explains why a system might switch between prototype-based heuristics during early learning and exemplar-based precision as it matures into an expert domain.5
 
 ## **Frame Semantics: The Scaffolding of Expectation and Role-Binding**
 
@@ -1176,32 +1176,32 @@ Navigating this landscape requires an AI to manage the "fog" of semantic similar
 
 #### **Works cited**
 
-1. Ordinary Meaning and Plain Meaning \- Virginia Law Review, accessed May 14, 2026, [https://virginialawreview.org/articles/ordinary-meaning-and-plain-meaning/](https://virginialawreview.org/articles/ordinary-meaning-and-plain-meaning/)  
-2. Testing Ordinary Meaning \- Harvard Law Review, accessed May 14, 2026, [https://harvardlawreview.org/print/vol-134/testing-ordinary-meaning/](https://harvardlawreview.org/print/vol-134/testing-ordinary-meaning/)  
-3. Cognition and Categorization \- Rice Computer Science, accessed May 14, 2026, [https://www.cs.rice.edu/\~vo9/recognition/2016/slides/lecture07/CognitionAndCategorization.pdf](https://www.cs.rice.edu/~vo9/recognition/2016/slides/lecture07/CognitionAndCategorization.pdf)  
-4. Frame (artificial intelligence) \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Frame\_(artificial\_intelligence)](https://en.wikipedia.org/wiki/Frame_\(artificial_intelligence\))  
-5. Frame Semantics, accessed May 14, 2026, [https://www.flf.vu.lt/dokumentai/Gawron\_new\_frames\_intro.pdf](https://www.flf.vu.lt/dokumentai/Gawron_new_frames_intro.pdf)  
-6. Bridging Text and Knowledge with Frames \- Google Research, accessed May 14, 2026, [https://research.google.com/pubs/archive/43016.pdf](https://research.google.com/pubs/archive/43016.pdf)  
-7. Charles J. Fillmore | Computational Linguistics \- MIT Press Direct, accessed May 14, 2026, [https://direct.mit.edu/coli/article/40/3/725/1472/Charles-J-Fillmore](https://direct.mit.edu/coli/article/40/3/725/1472/Charles-J-Fillmore)  
+1. Ordinary Meaning and Plain Meaning - Virginia Law Review, accessed May 14, 2026, [https://virginialawreview.org/articles/ordinary-meaning-and-plain-meaning/](https://virginialawreview.org/articles/ordinary-meaning-and-plain-meaning/)  
+2. Testing Ordinary Meaning - Harvard Law Review, accessed May 14, 2026, [https://harvardlawreview.org/print/vol-134/testing-ordinary-meaning/](https://harvardlawreview.org/print/vol-134/testing-ordinary-meaning/)  
+3. Cognition and Categorization - Rice Computer Science, accessed May 14, 2026, [https://www.cs.rice.edu/~vo9/recognition/2016/slides/lecture07/CognitionAndCategorization.pdf](https://www.cs.rice.edu/~vo9/recognition/2016/slides/lecture07/CognitionAndCategorization.pdf)  
+4. Frame (artificial intelligence) - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Frame_(artificial_intelligence)](https://en.wikipedia.org/wiki/Frame_\(artificial_intelligence))  
+5. Frame Semantics, accessed May 14, 2026, [https://www.flf.vu.lt/dokumentai/Gawron_new_frames_intro.pdf](https://www.flf.vu.lt/dokumentai/Gawron_new_frames_intro.pdf)  
+6. Bridging Text and Knowledge with Frames - Google Research, accessed May 14, 2026, [https://research.google.com/pubs/archive/43016.pdf](https://research.google.com/pubs/archive/43016.pdf)  
+7. Charles J. Fillmore | Computational Linguistics - MIT Press Direct, accessed May 14, 2026, [https://direct.mit.edu/coli/article/40/3/725/1472/Charles-J-Fillmore](https://direct.mit.edu/coli/article/40/3/725/1472/Charles-J-Fillmore)  
 8. Untitled, accessed May 14, 2026, [http://web.vu.lt/flf/g.judzentyte/files/2014/01/freimu-semantika.pdf](http://web.vu.lt/flf/g.judzentyte/files/2014/01/freimu-semantika.pdf)  
-9. 2.2 Lexical relations: synonymy, antonymy, hyponymy, and meronymy \- Fiveable, accessed May 14, 2026, [https://fiveable.me/introduction-semantics-pragmatics/unit-2/lexical-relations-synonymy-antonymy-hyponymy-meronymy/study-guide/AoGPGe3OVV1wOIPF](https://fiveable.me/introduction-semantics-pragmatics/unit-2/lexical-relations-synonymy-antonymy-hyponymy-meronymy/study-guide/AoGPGe3OVV1wOIPF)  
-10. Lexical semantics \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Lexical\_semantics](https://en.wikipedia.org/wiki/Lexical_semantics)  
-11. 6 Lexical and semantic relations \- Cambridge University Press & Assessment, accessed May 14, 2026, [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/502A933E8B05B7686DA6C4DB944E3A14/9780511780684c6\_p108-132\_CBO.pdf/lexical-and-semantic-relations.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/502A933E8B05B7686DA6C4DB944E3A14/9780511780684c6_p108-132_CBO.pdf/lexical-and-semantic-relations.pdf)  
-12. Lexical relations \- Brandeis Users' Home Pages, accessed May 14, 2026, [https://people.brandeis.edu/\~smalamud/ling130/lex\_rel.pdf](https://people.brandeis.edu/~smalamud/ling130/lex_rel.pdf)  
-13. The Price of Meaning: Why Every Semantic Memory System Forgets \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2603.27116v1](https://arxiv.org/html/2603.27116v1)  
-14. Is Your LLM Really Mastering the Concept? A Multi-agent Benchmark \- OpenReview, accessed May 14, 2026, [https://openreview.net/forum?id=WNHNfkulYA](https://openreview.net/forum?id=WNHNfkulYA)  
-15. 20 CFR § 416.913 \- Categories of evidence. \- Cornell Law School, accessed May 14, 2026, [https://www.law.cornell.edu/cfr/text/20/416.913](https://www.law.cornell.edu/cfr/text/20/416.913)  
+9. 2.2 Lexical relations: synonymy, antonymy, hyponymy, and meronymy - Fiveable, accessed May 14, 2026, [https://fiveable.me/introduction-semantics-pragmatics/unit-2/lexical-relations-synonymy-antonymy-hyponymy-meronymy/study-guide/AoGPGe3OVV1wOIPF](https://fiveable.me/introduction-semantics-pragmatics/unit-2/lexical-relations-synonymy-antonymy-hyponymy-meronymy/study-guide/AoGPGe3OVV1wOIPF)  
+10. Lexical semantics - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Lexical_semantics](https://en.wikipedia.org/wiki/Lexical_semantics)  
+11. 6 Lexical and semantic relations - Cambridge University Press & Assessment, accessed May 14, 2026, [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/502A933E8B05B7686DA6C4DB944E3A14/9780511780684c6_p108-132_CBO.pdf/lexical-and-semantic-relations.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/502A933E8B05B7686DA6C4DB944E3A14/9780511780684c6_p108-132_CBO.pdf/lexical-and-semantic-relations.pdf)  
+12. Lexical relations - Brandeis Users' Home Pages, accessed May 14, 2026, [https://people.brandeis.edu/~smalamud/ling130/lex_rel.pdf](https://people.brandeis.edu/~smalamud/ling130/lex_rel.pdf)  
+13. The Price of Meaning: Why Every Semantic Memory System Forgets - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2603.27116v1](https://arxiv.org/html/2603.27116v1)  
+14. Is Your LLM Really Mastering the Concept? A Multi-agent Benchmark - OpenReview, accessed May 14, 2026, [https://openreview.net/forum?id=WNHNfkulYA](https://openreview.net/forum?id=WNHNfkulYA)  
+15. 20 CFR § 416.913 - Categories of evidence. - Cornell Law School, accessed May 14, 2026, [https://www.law.cornell.edu/cfr/text/20/416.913](https://www.law.cornell.edu/cfr/text/20/416.913)  
 16. Is a hot dog a sandwich? The world may never know.: 2018-2019: Archive, accessed May 14, 2026, [https://iujur.iu.edu/features/archives/2018-2019/hot-dog.html](https://iujur.iu.edu/features/archives/2018-2019/hot-dog.html)  
-17. What is the Cube Rule of Food Identification Theory? \- wikiHow, accessed May 14, 2026, [https://www.wikihow.com/Cube-Rule-of-Food](https://www.wikihow.com/Cube-Rule-of-Food)  
+17. What is the Cube Rule of Food Identification Theory? - wikiHow, accessed May 14, 2026, [https://www.wikihow.com/Cube-Rule-of-Food](https://www.wikihow.com/Cube-Rule-of-Food)  
 18. Is a hot dog a sandwich? An extended meditation on the nature of America | Jeb Lund, accessed May 14, 2026, [https://www.theguardian.com/commentisfree/2014/jul/03/is-a-hot-dog-a-sandwich-nature-america](https://www.theguardian.com/commentisfree/2014/jul/03/is-a-hot-dog-a-sandwich-nature-america)  
-19. Words and Distinctions for the Common Good: Practical Reason in the Logic of Social Science \- Chapter 1 \- Imgix, accessed May 14, 2026, [https://pup-assets.imgix.net/onix/images/9780691247069/9780691247069.pdf?fm=pdf](https://pup-assets.imgix.net/onix/images/9780691247069/9780691247069.pdf?fm=pdf)  
+19. Words and Distinctions for the Common Good: Practical Reason in the Logic of Social Science - Chapter 1 - Imgix, accessed May 14, 2026, [https://pup-assets.imgix.net/onix/images/9780691247069/9780691247069.pdf?fm=pdf](https://pup-assets.imgix.net/onix/images/9780691247069/9780691247069.pdf?fm=pdf)  
 20. Extended Abstract Out of the Ordinary: Common Use Arguments in Legislative Classification, accessed May 14, 2026, [https://journals.lib.washington.edu/index.php/nasko/article/view/15881](https://journals.lib.washington.edu/index.php/nasko/article/view/15881)  
-21. Semantic drift evaluation in language and data-specific digital twin ..., accessed May 14, 2026, [https://orbilu.uni.lu/bitstream/10993/66954/1/\_fgcs-drift-evaluation.pdf](https://orbilu.uni.lu/bitstream/10993/66954/1/_fgcs-drift-evaluation.pdf)  
+21. Semantic drift evaluation in language and data-specific digital twin ..., accessed May 14, 2026, [https://orbilu.uni.lu/bitstream/10993/66954/1/_fgcs-drift-evaluation.pdf](https://orbilu.uni.lu/bitstream/10993/66954/1/_fgcs-drift-evaluation.pdf)  
 22. Ontology Engineering as the Semantic Operating System of the AI-First Enterprise | by Gaurav Agarwaal | Apr, 2026, accessed May 14, 2026, [https://gauravagg2016.medium.com/ontology-engineering-as-the-semantic-operating-system-of-the-ai-first-enterprise-e8db15bc0957](https://gauravagg2016.medium.com/ontology-engineering-as-the-semantic-operating-system-of-the-ai-first-enterprise-e8db15bc0957)  
-23. Context Graph vs. Ontology: Differences, Roles & Use Cases \- Atlan, accessed May 14, 2026, [https://atlan.com/know/context-graph-vs-ontology/](https://atlan.com/know/context-graph-vs-ontology/)  
-24. Top 5 Tips for Managing and Versioning an Ontology \- Enterprise Knowledge, accessed May 14, 2026, [https://enterprise-knowledge.com/top-5-tips-for-managing-and-versioning-an-ontology/](https://enterprise-knowledge.com/top-5-tips-for-managing-and-versioning-an-ontology/)  
-25. (PDF) Is AI Intelligent? Wrong Question? \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/398870396\_Is\_AI\_Intelligent\_Wrong\_Question](https://www.researchgate.net/publication/398870396_Is_AI_Intelligent_Wrong_Question)  
-26. From intelligence to autopoiesis: rethinking artificial intelligence through systems theory, accessed May 14, 2026, [https://www.researchgate.net/publication/391863323\_From\_intelligence\_to\_autopoiesis\_rethinking\_artificial\_intelligence\_through\_systems\_theory](https://www.researchgate.net/publication/391863323_From_intelligence_to_autopoiesis_rethinking_artificial_intelligence_through_systems_theory)  
+23. Context Graph vs. Ontology: Differences, Roles & Use Cases - Atlan, accessed May 14, 2026, [https://atlan.com/know/context-graph-vs-ontology/](https://atlan.com/know/context-graph-vs-ontology/)  
+24. Top 5 Tips for Managing and Versioning an Ontology - Enterprise Knowledge, accessed May 14, 2026, [https://enterprise-knowledge.com/top-5-tips-for-managing-and-versioning-an-ontology/](https://enterprise-knowledge.com/top-5-tips-for-managing-and-versioning-an-ontology/)  
+25. (PDF) Is AI Intelligent? Wrong Question? - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/398870396_Is_AI_Intelligent_Wrong_Question](https://www.researchgate.net/publication/398870396_Is_AI_Intelligent_Wrong_Question)  
+26. From intelligence to autopoiesis: rethinking artificial intelligence through systems theory, accessed May 14, 2026, [https://www.researchgate.net/publication/391863323_From_intelligence_to_autopoiesis_rethinking_artificial_intelligence_through_systems_theory](https://www.researchgate.net/publication/391863323_From_intelligence_to_autopoiesis_rethinking_artificial_intelligence_through_systems_theory)  
 27. AI Exploitation in Social-Media Against Public Figure: Indonesian Legal Perspectives, accessed May 14, 2026, [https://lenkasia.com/ejustice/article/download/9/2/64](https://lenkasia.com/ejustice/article/download/9/2/64)
 
 ---
@@ -1258,7 +1258,7 @@ Grounding converts meaning into warranted belief. The canon recognizes eleven pr
 
 ### **Evidence Ecology**
 
-There is no universal hierarchy. Clinical trials (Level 1\) ground medical efficacy 41, while statutes and court rulings ground legal claims.32 Software traces and formal proofs (EAL7) ground security claims.42 Expert opinion (Level 5\) is useful for rare cases but remains the weakest grounding for empirical facts.41
+There is no universal hierarchy. Clinical trials (Level 1) ground medical efficacy 41, while statutes and court rulings ground legal claims.32 Software traces and formal proofs (EAL7) ground security claims.42 Expert opinion (Level 5) is useful for rare cases but remains the weakest grounding for empirical facts.41
 
 ## **4. Claim-Type / Warrant-Standard Matrix**
 
@@ -1268,9 +1268,9 @@ There is no universal hierarchy. Clinical trials (Level 1\) ground medical effic
 | Causal | Level 1 RCT / Meta-analysis | "Causes" based on association | Mark as association 34 |
 | Legal | Statute / Binding Precedent | Allegation as settled truth | Attribute to source 32 |
 | Medical | Peer-reviewed systematic review | Generalizing from case report | Note scope limits 41 |
-| Software | Formal proof / V\&V artifacts | "Secure" based on unit test | Identify test gaps 37 |
+| Software | Formal proof / V&V artifacts | "Secure" based on unit test | Identify test gaps 37 |
 | Forecast | Model-based probabilistic data | "Will happen" (certainty) | Use WEP terms 16 |
-| Evaluative | Expert consensus (Level 4\) | Opinion as empirical finding | Label as judgment 43 |
+| Evaluative | Expert consensus (Level 4) | Opinion as empirical finding | Label as judgment 43 |
 
 ## **5. Source Relation and the Citation Support Test**
 
@@ -1287,7 +1287,7 @@ A source’s proximity to the referent (primary vs. secondary) and its incentive
 
 ### **Claim-Warrant Record (CWR)**
 
-A structured log for chaque critical claim: | | \[Grounding Mode\] | | | \[Confidence\] | \[Permissible Use\].
+A structured log for chaque critical claim: | | [Grounding Mode] | | | [Confidence] | [Permissible Use].
 
 ### **RAG Answer-Support Taxonomy**
 
@@ -1342,57 +1342,57 @@ By integrating Reports A–D, Report E provides the **Warrant Discipline** neces
 #### **Works cited**
 
 1. Defeaters in Epistemology | Internet Encyclopedia of Philosophy, accessed May 14, 2026, [https://iep.utm.edu/defeaters-in-epistemology/](https://iep.utm.edu/defeaters-in-epistemology/)  
-2. Gettier problem \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Gettier\_problem](https://en.wikipedia.org/wiki/Gettier_problem)  
+2. Gettier problem - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Gettier_problem](https://en.wikipedia.org/wiki/Gettier_problem)  
 3. Reference (Stanford Encyclopedia of Philosophy), accessed May 14, 2026, [https://plato.stanford.edu/entries/reference/](https://plato.stanford.edu/entries/reference/)  
 4. Reference (Stanford Encyclopedia of Philosophy/Fall 2018 Edition), accessed May 14, 2026, [https://plato.stanford.edu/archives/fall2018/entries/reference/](https://plato.stanford.edu/archives/fall2018/entries/reference/)  
-5. Truth-conditional semantics \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Truth-conditional\_semantics](https://en.wikipedia.org/wiki/Truth-conditional_semantics)  
-6. 7. Model-theoretic semantics | Request PDF \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/331226825\_7\_Model-theoretic\_semantics](https://www.researchgate.net/publication/331226825_7_Model-theoretic_semantics)  
-7. Carston: Truth-conditional semantics \- John Benjamins Publishing Company, accessed May 14, 2026, [https://benjamins.com/online/hop/articles/tru1](https://benjamins.com/online/hop/articles/tru1)  
-8. Evaluating Answer Quality in RAG Systems: Precision, Recall, and Faithfulness \- Cobbai, accessed May 14, 2026, [https://cobbai.com/blog/evaluate-rag-answers](https://cobbai.com/blog/evaluate-rag-answers)  
-9. RAG evaluation metrics: How to evaluate your RAG pipeline with Braintrust \- Articles, accessed May 14, 2026, [https://www.braintrust.dev/articles/rag-evaluation-metrics](https://www.braintrust.dev/articles/rag-evaluation-metrics)  
+5. Truth-conditional semantics - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Truth-conditional_semantics](https://en.wikipedia.org/wiki/Truth-conditional_semantics)  
+6. 7. Model-theoretic semantics | Request PDF - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/331226825_7_Model-theoretic_semantics](https://www.researchgate.net/publication/331226825_7_Model-theoretic_semantics)  
+7. Carston: Truth-conditional semantics - John Benjamins Publishing Company, accessed May 14, 2026, [https://benjamins.com/online/hop/articles/tru1](https://benjamins.com/online/hop/articles/tru1)  
+8. Evaluating Answer Quality in RAG Systems: Precision, Recall, and Faithfulness - Cobbai, accessed May 14, 2026, [https://cobbai.com/blog/evaluate-rag-answers](https://cobbai.com/blog/evaluate-rag-answers)  
+9. RAG evaluation metrics: How to evaluate your RAG pipeline with Braintrust - Articles, accessed May 14, 2026, [https://www.braintrust.dev/articles/rag-evaluation-metrics](https://www.braintrust.dev/articles/rag-evaluation-metrics)  
 10. Epistemology of Testimony | Internet Encyclopedia of Philosophy, accessed May 14, 2026, [https://iep.utm.edu/ep-testi/](https://iep.utm.edu/ep-testi/)  
-11. Impacts of Adversarial Use of Generative AI on Homeland Security, accessed May 14, 2026, [https://www.dhs.gov/sites/default/files/2025-01/25\_0110\_st\_impacts\_of\_adversarial\_generative\_aI\_on\_homeland\_security\_0.pdf](https://www.dhs.gov/sites/default/files/2025-01/25_0110_st_impacts_of_adversarial_generative_aI_on_homeland_security_0.pdf)  
+11. Impacts of Adversarial Use of Generative AI on Homeland Security, accessed May 14, 2026, [https://www.dhs.gov/sites/default/files/2025-01/25_0110_st_impacts_of_adversarial_generative_aI_on_homeland_security_0.pdf](https://www.dhs.gov/sites/default/files/2025-01/25_0110_st_impacts_of_adversarial_generative_aI_on_homeland_security_0.pdf)  
 12. Words of Estimative Probability, Analytic Confidences, and Structured Analytic Techniques, accessed May 14, 2026, [https://www.cisecurity.org/ms-isac/services/words-of-estimative-probability-analytic-confidences-and-structured-analytic-techniques](https://www.cisecurity.org/ms-isac/services/words-of-estimative-probability-analytic-confidences-and-structured-analytic-techniques)  
-13. RAG Evaluation in Practice: Faithfulness, Context Recall & Answer Relevancy \- Kinde, accessed May 14, 2026, [https://kinde.com/learn/ai-for-software-engineering/best-practice/rag-evaluation-in-practice-faithfulness-context-recall-answer-relevancy/](https://kinde.com/learn/ai-for-software-engineering/best-practice/rag-evaluation-in-practice-faithfulness-context-recall-answer-relevancy/)  
-14. A complete guide to RAG evaluation: metrics, testing and best practices \- Evidently AI, accessed May 14, 2026, [https://www.evidentlyai.com/llm-guide/rag-evaluation](https://www.evidentlyai.com/llm-guide/rag-evaluation)  
-15. Defeasible reasoning with variable degrees of justification \- John Horty, accessed May 14, 2026, [http://www.horty.umiacs.io/courses/readings/pollock-2001-var-deg-just.pdf](http://www.horty.umiacs.io/courses/readings/pollock-2001-var-deg-just.pdf)  
-16. Words of estimative probability \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Words\_of\_estimative\_probability](https://en.wikipedia.org/wiki/Words_of_estimative_probability)  
-17. Analytic Standards \- ODNI, accessed May 14, 2026, [https://www.dni.gov/files/documents/ICD/ICD-203.pdf](https://www.dni.gov/files/documents/ICD/ICD-203.pdf)  
-18. The Generative AI Paradox: GenAI and the Erosion of Trust, the Corrosion of Information Verification, and the Demise of Truth \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.00306v1](https://arxiv.org/html/2601.00306v1)  
-19. What is ISO 27001 Labelling of Information? \- High Table, accessed May 14, 2026, [https://hightable.io/iso-27001-glossary-of-terms/labelling-of-information/](https://hightable.io/iso-27001-glossary-of-terms/labelling-of-information/)  
-20. ISO 27001 Data Labeling Guidelines \- Cycore Secure, accessed May 14, 2026, [https://www.cycoresecure.com/blogs/iso-27001-data-labeling-guidelines](https://www.cycoresecure.com/blogs/iso-27001-data-labeling-guidelines)  
-21. Grounding Theory in Digital Data: A Methodological Approach for a Reflective Procedural Framework \- Cultural Analytics, accessed May 14, 2026, [https://culturalanalytics.org/article/1296/galley/664/download/](https://culturalanalytics.org/article/1296/galley/664/download/)  
-22. Indexicals \- Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/indexicals/](https://plato.stanford.edu/entries/indexicals/)  
+13. RAG Evaluation in Practice: Faithfulness, Context Recall & Answer Relevancy - Kinde, accessed May 14, 2026, [https://kinde.com/learn/ai-for-software-engineering/best-practice/rag-evaluation-in-practice-faithfulness-context-recall-answer-relevancy/](https://kinde.com/learn/ai-for-software-engineering/best-practice/rag-evaluation-in-practice-faithfulness-context-recall-answer-relevancy/)  
+14. A complete guide to RAG evaluation: metrics, testing and best practices - Evidently AI, accessed May 14, 2026, [https://www.evidentlyai.com/llm-guide/rag-evaluation](https://www.evidentlyai.com/llm-guide/rag-evaluation)  
+15. Defeasible reasoning with variable degrees of justification - John Horty, accessed May 14, 2026, [http://www.horty.umiacs.io/courses/readings/pollock-2001-var-deg-just.pdf](http://www.horty.umiacs.io/courses/readings/pollock-2001-var-deg-just.pdf)  
+16. Words of estimative probability - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Words_of_estimative_probability](https://en.wikipedia.org/wiki/Words_of_estimative_probability)  
+17. Analytic Standards - ODNI, accessed May 14, 2026, [https://www.dni.gov/files/documents/ICD/ICD-203.pdf](https://www.dni.gov/files/documents/ICD/ICD-203.pdf)  
+18. The Generative AI Paradox: GenAI and the Erosion of Trust, the Corrosion of Information Verification, and the Demise of Truth - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.00306v1](https://arxiv.org/html/2601.00306v1)  
+19. What is ISO 27001 Labelling of Information? - High Table, accessed May 14, 2026, [https://hightable.io/iso-27001-glossary-of-terms/labelling-of-information/](https://hightable.io/iso-27001-glossary-of-terms/labelling-of-information/)  
+20. ISO 27001 Data Labeling Guidelines - Cycore Secure, accessed May 14, 2026, [https://www.cycoresecure.com/blogs/iso-27001-data-labeling-guidelines](https://www.cycoresecure.com/blogs/iso-27001-data-labeling-guidelines)  
+21. Grounding Theory in Digital Data: A Methodological Approach for a Reflective Procedural Framework - Cultural Analytics, accessed May 14, 2026, [https://culturalanalytics.org/article/1296/galley/664/download/](https://culturalanalytics.org/article/1296/galley/664/download/)  
+22. Indexicals - Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/indexicals/](https://plato.stanford.edu/entries/indexicals/)  
 23. Demonstratives and Indexicals | Internet Encyclopedia of Philosophy, accessed May 14, 2026, [https://iep.utm.edu/demonstratives-and-indexicals/](https://iep.utm.edu/demonstratives-and-indexicals/)  
-24. Detecting Hallucinations in Retrieval-Augmented Generation via Semantic-level Internal Reasoning Graph \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.03052v1](https://arxiv.org/html/2601.03052v1)  
-25. Truth-Conditional Semantics Overview | PDF \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/948022332/Truth-Conditional-Theory](https://www.scribd.com/document/948022332/Truth-Conditional-Theory)  
-26. Formal Methods \- Electrical and Computer Engineering, accessed May 14, 2026, [https://users.ece.cmu.edu/\~koopman/des\_s99/formal\_methods/](https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/)  
-27. Computational Grounded Cognition: a new alliance between grounded cognition and computational modeling \- PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC3551279/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3551279/)  
-28. Types of Measurement Validity \- Research Methods Knowledge Base \- Conjointly, accessed May 14, 2026, [https://conjointly.com/kb/measurement-validity-types/](https://conjointly.com/kb/measurement-validity-types/)  
+24. Detecting Hallucinations in Retrieval-Augmented Generation via Semantic-level Internal Reasoning Graph - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.03052v1](https://arxiv.org/html/2601.03052v1)  
+25. Truth-Conditional Semantics Overview | PDF - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/948022332/Truth-Conditional-Theory](https://www.scribd.com/document/948022332/Truth-Conditional-Theory)  
+26. Formal Methods - Electrical and Computer Engineering, accessed May 14, 2026, [https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/](https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/)  
+27. Computational Grounded Cognition: a new alliance between grounded cognition and computational modeling - PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC3551279/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3551279/)  
+28. Types of Measurement Validity - Research Methods Knowledge Base - Conjointly, accessed May 14, 2026, [https://conjointly.com/kb/measurement-validity-types/](https://conjointly.com/kb/measurement-validity-types/)  
 29. Chapter 3 Operational Definitions & Measurement | Research Methods Course Pack, accessed May 14, 2026, [https://www.davidschuster.info/books/methods/operational-definitions-measurement.html](https://www.davidschuster.info/books/methods/operational-definitions-measurement.html)  
-30. RAG Evaluation Metrics: Assessing Answer Relevancy, Faithfulness, Contextual Relevancy, And More \- Confident AI, accessed May 14, 2026, [https://www.confident-ai.com/blog/rag-evaluation-metrics-answer-relevancy-faithfulness-and-more](https://www.confident-ai.com/blog/rag-evaluation-metrics-answer-relevancy-faithfulness-and-more)  
-31. “Indirect” Information: The Debate on Testimony in Social Epistemology and Its Role in the Game of “Giving and Asking for Reasons” \- MDPI, accessed May 14, 2026, [https://www.mdpi.com/2078-2489/10/3/101](https://www.mdpi.com/2078-2489/10/3/101)  
-32. Understanding Legal Standards of Proof \- Nolo, accessed May 14, 2026, [https://www.nolo.com/legal-encyclopedia/legal-standards-proof.html](https://www.nolo.com/legal-encyclopedia/legal-standards-proof.html)  
-33. Legal vs. Quantified Definitions of Standards of Proof \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/226790981\_Legal\_vs\_Quantified\_Definitions\_of\_Standards\_of\_Proof](https://www.researchgate.net/publication/226790981_Legal_vs_Quantified_Definitions_of_Standards_of_Proof)  
-34. What Should I Cite? A RAG Benchmark for Academic Citation Prediction \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.14949v2](https://arxiv.org/html/2601.14949v2)  
-35. Levels of Scientific Evidence Guide \- Michigan OPEN, accessed May 14, 2026, [https://michigan-open.org/resource/levels-of-scientific-evidence-guide/](https://michigan-open.org/resource/levels-of-scientific-evidence-guide/)  
-36. Facet-Level Tracing of Evidence Uncertainty and Hallucination in RAG \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.09174v1](https://arxiv.org/html/2604.09174v1)  
-37. Software verification and validation \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Software\_verification\_and\_validation](https://en.wikipedia.org/wiki/Software_verification_and_validation)  
-38. Software Testing Methodologies Guide: A High-Level Overview \- Parasoft, accessed May 14, 2026, [https://www.parasoft.com/blog/software-testing-methodologies-guide-a-high-level-overview/](https://www.parasoft.com/blog/software-testing-methodologies-guide-a-high-level-overview/)  
-39. Social Epistemology \- Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/epistemology-social/](https://plato.stanford.edu/entries/epistemology-social/)  
-40. Computational Grounding: An Overview of Common Ground Applications in Conversational Agents \- OpenEdition Journals, accessed May 14, 2026, [https://journals.openedition.org/ijcol/890](https://journals.openedition.org/ijcol/890)  
-41. Understanding the Levels of Evidence in Medical Research \- PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/)  
-42. Formal verification \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Formal\_verification](https://en.wikipedia.org/wiki/Formal_verification)  
+30. RAG Evaluation Metrics: Assessing Answer Relevancy, Faithfulness, Contextual Relevancy, And More - Confident AI, accessed May 14, 2026, [https://www.confident-ai.com/blog/rag-evaluation-metrics-answer-relevancy-faithfulness-and-more](https://www.confident-ai.com/blog/rag-evaluation-metrics-answer-relevancy-faithfulness-and-more)  
+31. “Indirect” Information: The Debate on Testimony in Social Epistemology and Its Role in the Game of “Giving and Asking for Reasons” - MDPI, accessed May 14, 2026, [https://www.mdpi.com/2078-2489/10/3/101](https://www.mdpi.com/2078-2489/10/3/101)  
+32. Understanding Legal Standards of Proof - Nolo, accessed May 14, 2026, [https://www.nolo.com/legal-encyclopedia/legal-standards-proof.html](https://www.nolo.com/legal-encyclopedia/legal-standards-proof.html)  
+33. Legal vs. Quantified Definitions of Standards of Proof - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/226790981_Legal_vs_Quantified_Definitions_of_Standards_of_Proof](https://www.researchgate.net/publication/226790981_Legal_vs_Quantified_Definitions_of_Standards_of_Proof)  
+34. What Should I Cite? A RAG Benchmark for Academic Citation Prediction - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.14949v2](https://arxiv.org/html/2601.14949v2)  
+35. Levels of Scientific Evidence Guide - Michigan OPEN, accessed May 14, 2026, [https://michigan-open.org/resource/levels-of-scientific-evidence-guide/](https://michigan-open.org/resource/levels-of-scientific-evidence-guide/)  
+36. Facet-Level Tracing of Evidence Uncertainty and Hallucination in RAG - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.09174v1](https://arxiv.org/html/2604.09174v1)  
+37. Software verification and validation - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Software_verification_and_validation](https://en.wikipedia.org/wiki/Software_verification_and_validation)  
+38. Software Testing Methodologies Guide: A High-Level Overview - Parasoft, accessed May 14, 2026, [https://www.parasoft.com/blog/software-testing-methodologies-guide-a-high-level-overview/](https://www.parasoft.com/blog/software-testing-methodologies-guide-a-high-level-overview/)  
+39. Social Epistemology - Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/epistemology-social/](https://plato.stanford.edu/entries/epistemology-social/)  
+40. Computational Grounding: An Overview of Common Ground Applications in Conversational Agents - OpenEdition Journals, accessed May 14, 2026, [https://journals.openedition.org/ijcol/890](https://journals.openedition.org/ijcol/890)  
+41. Understanding the Levels of Evidence in Medical Research - PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/)  
+42. Formal verification - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Formal_verification](https://en.wikipedia.org/wiki/Formal_verification)  
 43. R25-1161 The Hierarchy of Health Research Evidence, accessed May 14, 2026, [https://content.leg.colorado.gov/sites/default/files/r25-1161-the-hierarchy-of-health-research-evidence-accessible.pdf](https://content.leg.colorado.gov/sites/default/files/r25-1161-the-hierarchy-of-health-research-evidence-accessible.pdf)  
-44. Benchmarking LLM Faithfulness in RAG with Evolving Leaderboards \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2505.04847v2](https://arxiv.org/html/2505.04847v2)  
-45. Prediction Laundering: The Illusion of Neutrality, Transparency, and Governance in Polymarket \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.05181v1](https://arxiv.org/html/2602.05181v1)  
-46. Benchmarking LLM Hallucinations : r/datascience \- Reddit, accessed May 14, 2026, [https://www.reddit.com/r/datascience/comments/1sy6tzq/benchmarking\_llm\_hallucinations/](https://www.reddit.com/r/datascience/comments/1sy6tzq/benchmarking_llm_hallucinations/)  
-47. \[2603.10143\] Reason and Verify: A Framework for Faithful Retrieval-Augmented Generation, accessed May 14, 2026, [https://arxiv.org/abs/2603.10143](https://arxiv.org/abs/2603.10143)  
-48. Grounding for a Computational Model of Place \- MIT Media Lab, accessed May 14, 2026, [https://www.media.mit.edu/publications/grounding-for-a-computational-model-of-place/](https://www.media.mit.edu/publications/grounding-for-a-computational-model-of-place/)  
-49. The Evolution of Defeaters: A Taxonomy \- ScholarWorks@UARK, accessed May 14, 2026, [https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=5871\&context=etd](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=5871&context=etd)  
-50. Evaluating Faithfulness in Agentic RAG Systems for e-Governance Applications Using LLM-Based Judging Frameworks \- MDPI, accessed May 14, 2026, [https://www.mdpi.com/2504-2289/9/12/309](https://www.mdpi.com/2504-2289/9/12/309)  
-51. Laundering AI Authority with Adversarial Examples \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2605.04261v1](https://arxiv.org/html/2605.04261v1)  
-52. Formal verification of software, as the article acknowledges, relies heavily on ... \- Hacker News, accessed May 14, 2026, [https://news.ycombinator.com/item?id=42656639](https://news.ycombinator.com/item?id=42656639)  
+44. Benchmarking LLM Faithfulness in RAG with Evolving Leaderboards - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2505.04847v2](https://arxiv.org/html/2505.04847v2)  
+45. Prediction Laundering: The Illusion of Neutrality, Transparency, and Governance in Polymarket - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.05181v1](https://arxiv.org/html/2602.05181v1)  
+46. Benchmarking LLM Hallucinations : r/datascience - Reddit, accessed May 14, 2026, [https://www.reddit.com/r/datascience/comments/1sy6tzq/benchmarking_llm_hallucinations/](https://www.reddit.com/r/datascience/comments/1sy6tzq/benchmarking_llm_hallucinations/)  
+47. [2603.10143] Reason and Verify: A Framework for Faithful Retrieval-Augmented Generation, accessed May 14, 2026, [https://arxiv.org/abs/2603.10143](https://arxiv.org/abs/2603.10143)  
+48. Grounding for a Computational Model of Place - MIT Media Lab, accessed May 14, 2026, [https://www.media.mit.edu/publications/grounding-for-a-computational-model-of-place/](https://www.media.mit.edu/publications/grounding-for-a-computational-model-of-place/)  
+49. The Evolution of Defeaters: A Taxonomy - ScholarWorks@UARK, accessed May 14, 2026, [https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=5871&context=etd](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=5871&context=etd)  
+50. Evaluating Faithfulness in Agentic RAG Systems for e-Governance Applications Using LLM-Based Judging Frameworks - MDPI, accessed May 14, 2026, [https://www.mdpi.com/2504-2289/9/12/309](https://www.mdpi.com/2504-2289/9/12/309)  
+51. Laundering AI Authority with Adversarial Examples - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2605.04261v1](https://arxiv.org/html/2605.04261v1)  
+52. Formal verification of software, as the article acknowledges, relies heavily on ... - Hacker News, accessed May 14, 2026, [https://news.ycombinator.com/item?id=42656639](https://news.ycombinator.com/item?id=42656639)  
 53. RAG Evaluation Metrics: Answer Relevancy, Faithfulness, and Real-World Accuracy, accessed May 14, 2026, [https://deepchecks.com/rag-evaluation-metrics-answer-relevancy-faithfulness-accuracy/](https://deepchecks.com/rag-evaluation-metrics-answer-relevancy-faithfulness-accuracy/)
 
 ---
@@ -1431,7 +1431,7 @@ A critical distinction for the SSI canon is between generalized conversational i
 
 Sperber and Wilson’s Relevance Theory offers a more cognitively grounded alternative to Gricean maxims. It suggests that human communication is governed by the Principle of Relevance: every act of ostensive communication carries a presumption of its own optimal relevance.20 Relevance is a function of the ratio between positive cognitive effects (the revision or addition of assumptions) and the processing effort required to achieve them.20
 
-Relevance \= Cognitive Effects / Processing Effort
+Relevance = Cognitive Effects / Processing Effort
 
 In this framework, the "first interpretation to satisfy the hearer’s expectation of relevance" is the one the speaker intended. Interactionally competent intelligence must therefore optimize its outputs to minimize user processing effort while maximizing information gain.15 For RAG systems, this means prioritizing "explicature"—the pragmatic enrichment of retrieved snippets—so the user does not have to manually resolve references or disambiguate terms.20
 
@@ -1541,8 +1541,8 @@ The DRR prevents "context collapse" by re-anchoring indexicals in retrieved snip
 
 | Indexical | Character | Resolved Content | Source Warrant | Confidence |
 | :---- | :---- | :---- | :---- | :---- |
-| **"Yesterday"** | time of utterance \- 1 day | Oct 12, 2024 | Doc Metadata: PubDate: 2024-10-13 | High |
-| **"Attached"** | Object in Channel | Vulnerability\_Log\_v2.csv | Sequential turn 4: File Upload event. | High |
+| **"Yesterday"** | time of utterance - 1 day | Oct 12, 2024 | Doc Metadata: PubDate: 2024-10-13 | High |
+| **"Attached"** | Object in Channel | Vulnerability_Log_v2.csv | Sequential turn 4: File Upload event. | High |
 | **"This policy"** | Active Policy (Speaker) | ACME Infosec Policy v3 | Retrieval context: Document title. | High |
 | **"Here"** | Location (Speaker) | Server Cluster B | Document location tag: DC-West-B. | Medium |
 
@@ -1555,7 +1555,7 @@ The UFP identifies the communicative move, distinguishing what is *said* from wh
 | "Can you send that today?" | Ability/Possibility inquiry. | **Directive** (Request). | User sends object X by deadline. | Request (Likely) |
 | "Nice job." | Evaluation of action. | **Expressive** (Praise/Sarcasm). | Social rapport vs. Face threat. | Sarcasm? (Check history) |
 | "I'm cold." | Sensory report. | **Directive** (Indirect Request). | Addressee closes window. | Indirect Request (Low) |
-| "Policy update is live." | Status report. | **Assertive** \+ **Declaration**. | Users update local configurations. | Assertion (High) |
+| "Policy update is live." | Status report. | **Assertive** + **Declaration**. | Users update local configurations. | Assertion (High) |
 
 ### **Presupposition Ledger (PL)**
 
@@ -1602,7 +1602,7 @@ Interactionally competent agents must identify their own failure points and depl
 Theoretical frameworks often disagree on the nature of intention, convention, and cultural variance. The SSI canon resolves these by mapping them to specific interpretive tasks.
 
 1. **Intention vs. Convention:** Gricean accounts prioritize speaker intention, while Speech Act Theory emphasizes conventional procedures (felicity conditions).4 SSI doctrine uses convention for institutional documents (policies, disclaimers) and intention for live user dialogue.15  
-2. **Rationality vs. Affect:** Gricean maxims assume a "Rational Agent," while Politeness Theory (Goffman, B\&L) prioritizes social risk and face.2 SSI doctrine requires a "Social-Cognitive" hybrid that assumes users are cooperative but also face-sensitive.53  
+2. **Rationality vs. Affect:** Gricean maxims assume a "Rational Agent," while Politeness Theory (Goffman, B&L) prioritizes social risk and face.2 SSI doctrine requires a "Social-Cognitive" hybrid that assumes users are cooperative but also face-sensitive.53  
 3. **Universal vs. Cultural Variance:** While Brown and Levinson claim "face" is universal, sociolinguistic critiques highlight that cultures vary in their preference for autonomy (Negative Face) versus connection (Positive Face).42 In East Asian contexts, for instance, dissatisfaction rates are 23% higher when AI fails to adapt to honorific and social status cues.80 SSI handles this through platform-specific and community-specific "Common Ground Snapshots."  
 4. **Inference vs. Sequentiality:** Relevance Theory focuses on the single-utterance cognitive ratio, while Conversation Analysis focuses on the multi-turn sequence.21 SSI prioritizes sequential uptake (CA) as the "gold standard" for validating an inference.61
 
@@ -1627,88 +1627,88 @@ Report F establishes the interactional foundation upon which the subsequent repo
 
 #### **Works cited**
 
-1. (PDF) Common ground in pragmatics \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/375792392\_Common\_ground\_in\_pragmatics](https://www.researchgate.net/publication/375792392_Common_ground_in_pragmatics)  
+1. (PDF) Common ground in pragmatics - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/375792392_Common_ground_in_pragmatics](https://www.researchgate.net/publication/375792392_Common_ground_in_pragmatics)  
 2. Pragmatics | Definition, Austin, Speech Acts, Grice, Implicatures ..., accessed May 14, 2026, [https://www.britannica.com/science/pragmatics](https://www.britannica.com/science/pragmatics)  
-3. Indexicals \- Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/indexicals/](https://plato.stanford.edu/entries/indexicals/)  
-4. Speech act \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Speech\_act](https://en.wikipedia.org/wiki/Speech_act)  
-5. Illocutionary act \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Illocutionary\_act](https://en.wikipedia.org/wiki/Illocutionary_act)  
-6. Classification and Components of Austin's Speech Act Theory \- Journal of Strategic Research in Social Science (JoSReSS), accessed May 14, 2026, [https://www.josrss.com/dergi/classification-and-components-of-austins-speech-act-theory20220820031703.pdf](https://www.josrss.com/dergi/classification-and-components-of-austins-speech-act-theory20220820031703.pdf)  
-7. Taxonomizing Representational Harms using Speech Act Theory \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.findings-acl.202.pdf](https://aclanthology.org/2025.findings-acl.202.pdf)  
-8. Full article: 'Austin vs. Searle on locutionary and illocutionary acts' \- Taylor & Francis, accessed May 14, 2026, [https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2380322](https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2380322)  
-9. 'Austin vs. Searle on locutionary and illocutionary acts' \- PHAIDRA, accessed May 14, 2026, [https://services.phaidra.univie.ac.at/api/object/o:2086280/download](https://services.phaidra.univie.ac.at/api/object/o:2086280/download)  
-10. Understanding Austin and Searle's Speech Acts | PDF | Cognition | Semiotics \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/839420218/Austin-and-Searle-s-Speech-Acts](https://www.scribd.com/document/839420218/Austin-and-Searle-s-Speech-Acts)  
-11. Speech acts for dialogue agents, accessed May 14, 2026, [https://people.ict.usc.edu/\~traum/cs599f05/vaswani.ppt](https://people.ict.usc.edu/~traum/cs599f05/vaswani.ppt)  
+3. Indexicals - Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/indexicals/](https://plato.stanford.edu/entries/indexicals/)  
+4. Speech act - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Speech_act](https://en.wikipedia.org/wiki/Speech_act)  
+5. Illocutionary act - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Illocutionary_act](https://en.wikipedia.org/wiki/Illocutionary_act)  
+6. Classification and Components of Austin's Speech Act Theory - Journal of Strategic Research in Social Science (JoSReSS), accessed May 14, 2026, [https://www.josrss.com/dergi/classification-and-components-of-austins-speech-act-theory20220820031703.pdf](https://www.josrss.com/dergi/classification-and-components-of-austins-speech-act-theory20220820031703.pdf)  
+7. Taxonomizing Representational Harms using Speech Act Theory - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.findings-acl.202.pdf](https://aclanthology.org/2025.findings-acl.202.pdf)  
+8. Full article: 'Austin vs. Searle on locutionary and illocutionary acts' - Taylor & Francis, accessed May 14, 2026, [https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2380322](https://www.tandfonline.com/doi/full/10.1080/0020174X.2024.2380322)  
+9. 'Austin vs. Searle on locutionary and illocutionary acts' - PHAIDRA, accessed May 14, 2026, [https://services.phaidra.univie.ac.at/api/object/o:2086280/download](https://services.phaidra.univie.ac.at/api/object/o:2086280/download)  
+10. Understanding Austin and Searle's Speech Acts | PDF | Cognition | Semiotics - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/839420218/Austin-and-Searle-s-Speech-Acts](https://www.scribd.com/document/839420218/Austin-and-Searle-s-Speech-Acts)  
+11. Speech acts for dialogue agents, accessed May 14, 2026, [https://people.ict.usc.edu/~traum/cs599f05/vaswani.ppt](https://people.ict.usc.edu/~traum/cs599f05/vaswani.ppt)  
 12. J.L. Austin and John Searle on Speech Act Theory | TheCollector, accessed May 14, 2026, [https://www.thecollector.com/speech-act-theory-austin-and-searle/](https://www.thecollector.com/speech-act-theory-austin-and-searle/)  
-13. Words That Do: An Introduction to John Searle's Speech Act Theory \- Medium, accessed May 14, 2026, [https://medium.com/@adecressac/words-that-do-an-introduction-to-john-searles-speech-act-theory-fce5af697af6](https://medium.com/@adecressac/words-that-do-an-introduction-to-john-searles-speech-act-theory-fce5af697af6)  
+13. Words That Do: An Introduction to John Searle's Speech Act Theory - Medium, accessed May 14, 2026, [https://medium.com/@adecressac/words-that-do-an-introduction-to-john-searles-speech-act-theory-fce5af697af6](https://medium.com/@adecressac/words-that-do-an-introduction-to-john-searles-speech-act-theory-fce5af697af6)  
 14. 'Austin vs. Searle on locutionary and illocutionary acts': Inquiry: Vol 0, No 0, accessed May 14, 2026, [https://www.tandfonline.com/doi/abs/10.1080/0020174X.2024.2380322](https://www.tandfonline.com/doi/abs/10.1080/0020174X.2024.2380322)  
-15. Pragmatic Theories Enhance Understanding of Implied Meanings in LLMs \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.ijcnlp-long.132.pdf](https://aclanthology.org/2025.ijcnlp-long.132.pdf)  
-16. The Gricean Maxims in NLP \- A Survey \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2024.inlg-main.39.pdf](https://aclanthology.org/2024.inlg-main.39.pdf)  
-17. Speech Acts and Goal Directed Dialogue \- Penn Linguistics, accessed May 14, 2026, [https://www.ling.upenn.edu/courses/Fall\_2001/ling001/dialogue.html](https://www.ling.upenn.edu/courses/Fall_2001/ling001/dialogue.html)  
+15. Pragmatic Theories Enhance Understanding of Implied Meanings in LLMs - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.ijcnlp-long.132.pdf](https://aclanthology.org/2025.ijcnlp-long.132.pdf)  
+16. The Gricean Maxims in NLP - A Survey - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2024.inlg-main.39.pdf](https://aclanthology.org/2024.inlg-main.39.pdf)  
+17. Speech Acts and Goal Directed Dialogue - Penn Linguistics, accessed May 14, 2026, [https://www.ling.upenn.edu/courses/Fall_2001/ling001/dialogue.html](https://www.ling.upenn.edu/courses/Fall_2001/ling001/dialogue.html)  
 18. Grice vs Sperber & Wilsons: Comparing Conversational Maxims & Relevance Theory, accessed May 14, 2026, [https://studymoose.com/camparing-the-conversational-maxims-of-grice-with-sperber-and-wilson-s-relevance-theory-essay](https://studymoose.com/camparing-the-conversational-maxims-of-grice-with-sperber-and-wilson-s-relevance-theory-essay)  
-19. Explicit-implicit Distinction: A Review of Related Literature \- ERIC, accessed May 14, 2026, [https://files.eric.ed.gov/fulltext/EJ1127545.pdf](https://files.eric.ed.gov/fulltext/EJ1127545.pdf)  
+19. Explicit-implicit Distinction: A Review of Related Literature - ERIC, accessed May 14, 2026, [https://files.eric.ed.gov/fulltext/EJ1127545.pdf](https://files.eric.ed.gov/fulltext/EJ1127545.pdf)  
 20. The intuitive basis of implicature: Relevance theoretic implicitness versus Gricean implying Author, accessed May 14, 2026, [https://research-repository.griffith.edu.au/bitstreams/1317997c-f728-56b1-973f-8470ed331913/download](https://research-repository.griffith.edu.au/bitstreams/1317997c-f728-56b1-973f-8470ed331913/download)  
-21. Relevance Theory, accessed May 14, 2026, [https://www.sfu.ca/\~hedberg/Relevance\_Theory](https://www.sfu.ca/~hedberg/Relevance_Theory)  
-22. Overview of Relevance Theory | PDF | Human Communication \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/861485193/Relevance-Theory-Overview](https://www.scribd.com/document/861485193/Relevance-Theory-Overview)  
-23. Relevance Theory \- BU Personal Websites, accessed May 14, 2026, [https://people.bu.edu/bfraser/Relevance%20Theory%20Oriented/Sperber%20&%20Wilson%20-%20RT%20Revisited.pdf](https://people.bu.edu/bfraser/Relevance%20Theory%20Oriented/Sperber%20&%20Wilson%20-%20RT%20Revisited.pdf)  
-24. Relevance theory \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Relevance\_theory](https://en.wikipedia.org/wiki/Relevance_theory)  
+21. Relevance Theory, accessed May 14, 2026, [https://www.sfu.ca/~hedberg/Relevance_Theory](https://www.sfu.ca/~hedberg/Relevance_Theory)  
+22. Overview of Relevance Theory | PDF | Human Communication - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/861485193/Relevance-Theory-Overview](https://www.scribd.com/document/861485193/Relevance-Theory-Overview)  
+23. Relevance Theory - BU Personal Websites, accessed May 14, 2026, [https://people.bu.edu/bfraser/Relevance%20Theory%20Oriented/Sperber%20&%20Wilson%20-%20RT%20Revisited.pdf](https://people.bu.edu/bfraser/Relevance%20Theory%20Oriented/Sperber%20&%20Wilson%20-%20RT%20Revisited.pdf)  
+24. Relevance theory - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Relevance_theory](https://en.wikipedia.org/wiki/Relevance_theory)  
 25. Common Ground in Pragmatics (Stanford Encyclopedia of Philosophy), accessed May 14, 2026, [https://plato.stanford.edu/entries/common-ground-pragmatics/](https://plato.stanford.edu/entries/common-ground-pragmatics/)  
-26. Logics of Common Ground \- Semantic Scholar, accessed May 14, 2026, [https://pdfs.semanticscholar.org/1d63/d28806159c5f604073333e71ea91a8b9e2ee.pdf](https://pdfs.semanticscholar.org/1d63/d28806159c5f604073333e71ea91a8b9e2ee.pdf)  
-27. 15 Common Ground | CLARK \- Stanford University, accessed May 14, 2026, [https://web.stanford.edu/class/cs379c/class\_messages\_listing/curriculum/Annotated\_Readings/ClarkCOMMON-GROUND-15\_Unannotated.pdf](https://web.stanford.edu/class/cs379c/class_messages_listing/curriculum/Annotated_Readings/ClarkCOMMON-GROUND-15_Unannotated.pdf)  
-28. Uncovering the mechanisms of common ground in human–agent interaction: review and future directions for conversational agent research \- Emerald Publishing, accessed May 14, 2026, [https://www.emerald.com/intr/article/36/1/292/1253223/Uncovering-the-mechanisms-of-common-ground-in](https://www.emerald.com/intr/article/36/1/292/1253223/Uncovering-the-mechanisms-of-common-ground-in)  
-29. Modular Speaker Architecture: A Framework for Sustaining Responsibility and Contextual Integrity in Multi-Agent AI Communication \- arXiv, accessed May 14, 2026, [https://arxiv.org/pdf/2506.01095](https://arxiv.org/pdf/2506.01095)  
-30. Building Common Ground in Dialogue: A Survey \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.luhme-1.2.pdf](https://aclanthology.org/2025.luhme-1.2.pdf)  
-31. Crossmodal correspondences as common ground for joint action \- PMC \- NIH, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC7755874/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7755874/)  
-32. Lecture 4: Clark, Joint Actions & Common Ground, accessed May 14, 2026, [https://www.cs.brandeis.edu/\~cs111/notes/Lecture.4.clark.jointactions.doc](https://www.cs.brandeis.edu/~cs111/notes/Lecture.4.clark.jointactions.doc)  
-33. Seven Ways Your RAG System Could be Failing and How to Fix Them \- Label Studio, accessed May 14, 2026, [https://labelstud.io/blog/seven-ways-your-rag-system-could-be-failing-and-how-to-fix-them/](https://labelstud.io/blog/seven-ways-your-rag-system-could-be-failing-and-how-to-fix-them/)  
-34. RAG Failure Mode Checklist | Developer Documentation \- LlamaParse, accessed May 14, 2026, [https://developers.llamaindex.ai/python/framework/optimizing/rag\_failure\_mode\_checklist/](https://developers.llamaindex.ai/python/framework/optimizing/rag_failure_mode_checklist/)  
-35. LLMs Struggle to Reject False Presuppositions when Misinformation Stakes are High \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2505.22354v2](https://arxiv.org/html/2505.22354v2)  
-36. Can LLMs Ground when they (Don't) Know: A Study on Direct and Loaded Political Questions \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.acl-long.728.pdf](https://aclanthology.org/2025.acl-long.728.pdf)  
-37. Presupposition \- Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/presupposition/](https://plato.stanford.edu/entries/presupposition/)  
-38. Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.04435v1](https://arxiv.org/html/2601.04435v1)  
+26. Logics of Common Ground - Semantic Scholar, accessed May 14, 2026, [https://pdfs.semanticscholar.org/1d63/d28806159c5f604073333e71ea91a8b9e2ee.pdf](https://pdfs.semanticscholar.org/1d63/d28806159c5f604073333e71ea91a8b9e2ee.pdf)  
+27. 15 Common Ground | CLARK - Stanford University, accessed May 14, 2026, [https://web.stanford.edu/class/cs379c/class_messages_listing/curriculum/Annotated_Readings/ClarkCOMMON-GROUND-15_Unannotated.pdf](https://web.stanford.edu/class/cs379c/class_messages_listing/curriculum/Annotated_Readings/ClarkCOMMON-GROUND-15_Unannotated.pdf)  
+28. Uncovering the mechanisms of common ground in human–agent interaction: review and future directions for conversational agent research - Emerald Publishing, accessed May 14, 2026, [https://www.emerald.com/intr/article/36/1/292/1253223/Uncovering-the-mechanisms-of-common-ground-in](https://www.emerald.com/intr/article/36/1/292/1253223/Uncovering-the-mechanisms-of-common-ground-in)  
+29. Modular Speaker Architecture: A Framework for Sustaining Responsibility and Contextual Integrity in Multi-Agent AI Communication - arXiv, accessed May 14, 2026, [https://arxiv.org/pdf/2506.01095](https://arxiv.org/pdf/2506.01095)  
+30. Building Common Ground in Dialogue: A Survey - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.luhme-1.2.pdf](https://aclanthology.org/2025.luhme-1.2.pdf)  
+31. Crossmodal correspondences as common ground for joint action - PMC - NIH, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC7755874/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7755874/)  
+32. Lecture 4: Clark, Joint Actions & Common Ground, accessed May 14, 2026, [https://www.cs.brandeis.edu/~cs111/notes/Lecture.4.clark.jointactions.doc](https://www.cs.brandeis.edu/~cs111/notes/Lecture.4.clark.jointactions.doc)  
+33. Seven Ways Your RAG System Could be Failing and How to Fix Them - Label Studio, accessed May 14, 2026, [https://labelstud.io/blog/seven-ways-your-rag-system-could-be-failing-and-how-to-fix-them/](https://labelstud.io/blog/seven-ways-your-rag-system-could-be-failing-and-how-to-fix-them/)  
+34. RAG Failure Mode Checklist | Developer Documentation - LlamaParse, accessed May 14, 2026, [https://developers.llamaindex.ai/python/framework/optimizing/rag_failure_mode_checklist/](https://developers.llamaindex.ai/python/framework/optimizing/rag_failure_mode_checklist/)  
+35. LLMs Struggle to Reject False Presuppositions when Misinformation Stakes are High - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2505.22354v2](https://arxiv.org/html/2505.22354v2)  
+36. Can LLMs Ground when they (Don't) Know: A Study on Direct and Loaded Political Questions - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.acl-long.728.pdf](https://aclanthology.org/2025.acl-long.728.pdf)  
+37. Presupposition - Stanford Encyclopedia of Philosophy, accessed May 14, 2026, [https://plato.stanford.edu/entries/presupposition/](https://plato.stanford.edu/entries/presupposition/)  
+38. Accommodation and Epistemic Vigilance: A Pragmatic Account of Why LLMs Fail to Challenge Harmful Beliefs - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.04435v1](https://arxiv.org/html/2601.04435v1)  
 39. Indexicals (Stanford Encyclopedia of Philosophy/Summer 2010 Edition), accessed May 14, 2026, [https://plato.stanford.edu/archives/sum2010/entries/indexicals/](https://plato.stanford.edu/archives/sum2010/entries/indexicals/)  
-40. A pragmatic analyses of the use of types of deixis in poetry and novels of the author Ismail Kadare \- The importance and complexity to the pragmatic process concerning the different realities evoked in social interaction, communication and language \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/281469523\_A\_pragmatic\_analyses\_of\_the\_use\_of\_types\_of\_deixis\_in\_poetry\_and\_novels\_of\_the\_author\_Ismail\_Kadare\_-\_The\_importance\_and\_complexity\_to\_the\_pragmatic\_process\_concerning\_the\_different\_realities\_evoked\_i](https://www.researchgate.net/publication/281469523_A_pragmatic_analyses_of_the_use_of_types_of_deixis_in_poetry_and_novels_of_the_author_Ismail_Kadare_-_The_importance_and_complexity_to_the_pragmatic_process_concerning_the_different_realities_evoked_i)  
+40. A pragmatic analyses of the use of types of deixis in poetry and novels of the author Ismail Kadare - The importance and complexity to the pragmatic process concerning the different realities evoked in social interaction, communication and language - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/281469523_A_pragmatic_analyses_of_the_use_of_types_of_deixis_in_poetry_and_novels_of_the_author_Ismail_Kadare_-_The_importance_and_complexity_to_the_pragmatic_process_concerning_the_different_realities_evoked_i](https://www.researchgate.net/publication/281469523_A_pragmatic_analyses_of_the_use_of_types_of_deixis_in_poetry_and_novels_of_the_author_Ismail_Kadare_-_The_importance_and_complexity_to_the_pragmatic_process_concerning_the_different_realities_evoked_i)  
 41. Indexicals (Stanford Encyclopedia of Philosophy/Fall 2003 Edition), accessed May 14, 2026, [https://plato.stanford.edu/archives/fall2003/entries/indexicals/](https://plato.stanford.edu/archives/fall2003/entries/indexicals/)  
-42. Computational Politeness in Natural Language Processing: A Survey \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2407.12814v1](https://arxiv.org/html/2407.12814v1)  
-43. Politeness Theory (Pragmatics): Definition & Strategies \- Vaia, accessed May 14, 2026, [https://www.vaia.com/en-us/explanations/english/pragmatics/politeness-theory/](https://www.vaia.com/en-us/explanations/english/pragmatics/politeness-theory/)  
-44. Politeness and Psychological Distance: A Construal Level Perspective \- PMC \- NIH, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC3193988/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3193988/)  
+42. Computational Politeness in Natural Language Processing: A Survey - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2407.12814v1](https://arxiv.org/html/2407.12814v1)  
+43. Politeness Theory (Pragmatics): Definition & Strategies - Vaia, accessed May 14, 2026, [https://www.vaia.com/en-us/explanations/english/pragmatics/politeness-theory/](https://www.vaia.com/en-us/explanations/english/pragmatics/politeness-theory/)  
+44. Politeness and Psychological Distance: A Construal Level Perspective - PMC - NIH, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC3193988/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3193988/)  
 45. Your Chunks Failed Your RAG in Production | Towards Data Science, accessed May 14, 2026, [https://towardsdatascience.com/your-chunks-failed-your-rag-in-production/](https://towardsdatascience.com/your-chunks-failed-your-rag-in-production/)  
-46. RAG Gone Wrong: The 7 Most Common Mistakes (and How to Avoid Them) \- Kapa.ai, accessed May 14, 2026, [https://www.kapa.ai/blog/rag-gone-wrong-the-7-most-common-mistakes-and-how-to-avoid-them](https://www.kapa.ai/blog/rag-gone-wrong-the-7-most-common-mistakes-and-how-to-avoid-them)  
+46. RAG Gone Wrong: The 7 Most Common Mistakes (and How to Avoid Them) - Kapa.ai, accessed May 14, 2026, [https://www.kapa.ai/blog/rag-gone-wrong-the-7-most-common-mistakes-and-how-to-avoid-them](https://www.kapa.ai/blog/rag-gone-wrong-the-7-most-common-mistakes-and-how-to-avoid-them)  
 47. Enhancing RAG with contextual retrieval | Claude Cookbook, accessed May 14, 2026, [https://platform.claude.com/cookbook/capabilities-contextual-embeddings-guide](https://platform.claude.com/cookbook/capabilities-contextual-embeddings-guide)  
-48. Towards Reliable Retrieval in RAG Systems for Large Legal Datasets \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2510.06999v1](https://arxiv.org/html/2510.06999v1)  
-49. Wrote up the failure modes that kept breaking my RAG system: chunking, stale index, hybrid search, the works : r/deeplearning \- Reddit, accessed May 14, 2026, [https://www.reddit.com/r/deeplearning/comments/1t7vuo7/wrote\_up\_the\_failure\_modes\_that\_kept\_breaking\_my/](https://www.reddit.com/r/deeplearning/comments/1t7vuo7/wrote_up_the_failure_modes_that_kept_breaking_my/)  
-50. Politeness theory | Social Sciences and Humanities | Research Starters \- EBSCO, accessed May 14, 2026, [https://www.ebsco.com/research-starters/social-sciences-and-humanities/politeness-theory](https://www.ebsco.com/research-starters/social-sciences-and-humanities/politeness-theory)  
-51. Politeness theory \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Politeness\_theory](https://en.wikipedia.org/wiki/Politeness_theory)  
-52. Discourse Analysis Based on Face-Threatening Theory—A Case Study of Tucaodahui Ⅲ \- David Publishing, accessed May 14, 2026, [https://davidpublisher.com/Public/uploads/Contribute/662f67fd63725.pdf](https://davidpublisher.com/Public/uploads/Contribute/662f67fd63725.pdf)  
-53. Comparing human and LLM politeness strategies ... \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.emnlp-main.820.pdf](https://aclanthology.org/2025.emnlp-main.820.pdf)  
-54. (PDF) (2024) Revisiting Brown and Levinson's Theory of Politeness \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/383786450\_2024\_Revisiting\_Brown\_and\_Levinson's\_Theory\_of\_Politeness](https://www.researchgate.net/publication/383786450_2024_Revisiting_Brown_and_Levinson's_Theory_of_Politeness)  
-55. Revisiting Brown and Levinson's Politeness Theory: A Middle-Eastern Perspective \- Refaad, accessed May 14, 2026, [https://www.refaad.com/Files/BAES/BAES-2-2-3.pdf](https://www.refaad.com/Files/BAES/BAES-2-2-3.pdf)  
-56. Conversation Analysis \- Simply Psychology, accessed May 14, 2026, [https://www.simplypsychology.org/conversation-analysis.html](https://www.simplypsychology.org/conversation-analysis.html)  
-57. Conversation analysis \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Conversation\_analysis](https://en.wikipedia.org/wiki/Conversation_analysis)  
-58. Sequence Organization: Understanding What Drives Talk (Chapter 6\) \- The Cambridge Handbook of Discourse Studies, accessed May 14, 2026, [https://www.cambridge.org/core/books/cambridge-handbook-of-discourse-studies/sequence-organization-understanding-what-drives-talk/99C304161504D8C1B86595C1CB59E070](https://www.cambridge.org/core/books/cambridge-handbook-of-discourse-studies/sequence-organization-understanding-what-drives-talk/99C304161504D8C1B86595C1CB59E070)  
-59. Turn Taking in Conversation Analysis | PDF \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/535427398/IJEI-Vol-2-No-6-2015-6-06](https://www.scribd.com/document/535427398/IJEI-Vol-2-No-6-2015-6-06)  
-60. I stopped treating LLM failures as “bad prompting” and started mapping them as structural instability patterns : r/PromptEngineering \- Reddit, accessed May 14, 2026, [https://www.reddit.com/r/PromptEngineering/comments/1t8xx0i/i\_stopped\_treating\_llm\_failures\_as\_bad\_prompting/](https://www.reddit.com/r/PromptEngineering/comments/1t8xx0i/i_stopped_treating_llm_failures_as_bad_prompting/)  
-61. Repair: The Interface Between Interaction and Cognition \- PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC6849777/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6849777/)  
-62. (PDF) The Art of Repair in Human-Agent Conversations: A Taxonomy of Repair Strategies by Users and LLM-Based Conversational Agents \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/395190410\_The\_Art\_of\_Repair\_in\_Human-Agent\_Conversations\_A\_Taxonomy\_of\_Repair\_Strategies\_by\_Users\_and\_LLM-Based\_Conversational\_Agents](https://www.researchgate.net/publication/395190410_The_Art_of_Repair_in_Human-Agent_Conversations_A_Taxonomy_of_Repair_Strategies_by_Users_and_LLM-Based_Conversational_Agents)  
-63. PleaSQLarify: Visual Pragmatic Repair for Natural Language Database Querying \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2603.01795v1](https://arxiv.org/html/2603.01795v1)  
-64. AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/400970574\_AIDG\_Evaluating\_Asymmetry\_Between\_Information\_Extraction\_and\_Containment\_in\_Multi-Turn\_Dialogue](https://www.researchgate.net/publication/400970574_AIDG_Evaluating_Asymmetry_Between_Information_Extraction_and_Containment_in_Multi-Turn_Dialogue)  
-65. AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.17443v1](https://arxiv.org/html/2602.17443v1)  
-66. (PDF) CONTEXTUALIZING MEANINGS:PRAGMATIC SHIFTS AND CONTEXTUALIZATION CUES IN DIGITAL COMMUNICATION \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/396708492\_CONTEXTUALIZING\_MEANINGSPRAGMATIC\_SHIFTS\_AND\_CONTEXTUALIZATION\_CUES\_IN\_DIGITAL\_COMMUNICATION](https://www.researchgate.net/publication/396708492_CONTEXTUALIZING_MEANINGSPRAGMATIC_SHIFTS_AND_CONTEXTUALIZATION_CUES_IN_DIGITAL_COMMUNICATION)  
+48. Towards Reliable Retrieval in RAG Systems for Large Legal Datasets - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2510.06999v1](https://arxiv.org/html/2510.06999v1)  
+49. Wrote up the failure modes that kept breaking my RAG system: chunking, stale index, hybrid search, the works : r/deeplearning - Reddit, accessed May 14, 2026, [https://www.reddit.com/r/deeplearning/comments/1t7vuo7/wrote_up_the_failure_modes_that_kept_breaking_my/](https://www.reddit.com/r/deeplearning/comments/1t7vuo7/wrote_up_the_failure_modes_that_kept_breaking_my/)  
+50. Politeness theory | Social Sciences and Humanities | Research Starters - EBSCO, accessed May 14, 2026, [https://www.ebsco.com/research-starters/social-sciences-and-humanities/politeness-theory](https://www.ebsco.com/research-starters/social-sciences-and-humanities/politeness-theory)  
+51. Politeness theory - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Politeness_theory](https://en.wikipedia.org/wiki/Politeness_theory)  
+52. Discourse Analysis Based on Face-Threatening Theory—A Case Study of Tucaodahui Ⅲ - David Publishing, accessed May 14, 2026, [https://davidpublisher.com/Public/uploads/Contribute/662f67fd63725.pdf](https://davidpublisher.com/Public/uploads/Contribute/662f67fd63725.pdf)  
+53. Comparing human and LLM politeness strategies ... - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.emnlp-main.820.pdf](https://aclanthology.org/2025.emnlp-main.820.pdf)  
+54. (PDF) (2024) Revisiting Brown and Levinson's Theory of Politeness - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/383786450_2024_Revisiting_Brown_and_Levinson's_Theory_of_Politeness](https://www.researchgate.net/publication/383786450_2024_Revisiting_Brown_and_Levinson's_Theory_of_Politeness)  
+55. Revisiting Brown and Levinson's Politeness Theory: A Middle-Eastern Perspective - Refaad, accessed May 14, 2026, [https://www.refaad.com/Files/BAES/BAES-2-2-3.pdf](https://www.refaad.com/Files/BAES/BAES-2-2-3.pdf)  
+56. Conversation Analysis - Simply Psychology, accessed May 14, 2026, [https://www.simplypsychology.org/conversation-analysis.html](https://www.simplypsychology.org/conversation-analysis.html)  
+57. Conversation analysis - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Conversation_analysis](https://en.wikipedia.org/wiki/Conversation_analysis)  
+58. Sequence Organization: Understanding What Drives Talk (Chapter 6) - The Cambridge Handbook of Discourse Studies, accessed May 14, 2026, [https://www.cambridge.org/core/books/cambridge-handbook-of-discourse-studies/sequence-organization-understanding-what-drives-talk/99C304161504D8C1B86595C1CB59E070](https://www.cambridge.org/core/books/cambridge-handbook-of-discourse-studies/sequence-organization-understanding-what-drives-talk/99C304161504D8C1B86595C1CB59E070)  
+59. Turn Taking in Conversation Analysis | PDF - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/535427398/IJEI-Vol-2-No-6-2015-6-06](https://www.scribd.com/document/535427398/IJEI-Vol-2-No-6-2015-6-06)  
+60. I stopped treating LLM failures as “bad prompting” and started mapping them as structural instability patterns : r/PromptEngineering - Reddit, accessed May 14, 2026, [https://www.reddit.com/r/PromptEngineering/comments/1t8xx0i/i_stopped_treating_llm_failures_as_bad_prompting/](https://www.reddit.com/r/PromptEngineering/comments/1t8xx0i/i_stopped_treating_llm_failures_as_bad_prompting/)  
+61. Repair: The Interface Between Interaction and Cognition - PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC6849777/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6849777/)  
+62. (PDF) The Art of Repair in Human-Agent Conversations: A Taxonomy of Repair Strategies by Users and LLM-Based Conversational Agents - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/395190410_The_Art_of_Repair_in_Human-Agent_Conversations_A_Taxonomy_of_Repair_Strategies_by_Users_and_LLM-Based_Conversational_Agents](https://www.researchgate.net/publication/395190410_The_Art_of_Repair_in_Human-Agent_Conversations_A_Taxonomy_of_Repair_Strategies_by_Users_and_LLM-Based_Conversational_Agents)  
+63. PleaSQLarify: Visual Pragmatic Repair for Natural Language Database Querying - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2603.01795v1](https://arxiv.org/html/2603.01795v1)  
+64. AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/400970574_AIDG_Evaluating_Asymmetry_Between_Information_Extraction_and_Containment_in_Multi-Turn_Dialogue](https://www.researchgate.net/publication/400970574_AIDG_Evaluating_Asymmetry_Between_Information_Extraction_and_Containment_in_Multi-Turn_Dialogue)  
+65. AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.17443v1](https://arxiv.org/html/2602.17443v1)  
+66. (PDF) CONTEXTUALIZING MEANINGS:PRAGMATIC SHIFTS AND CONTEXTUALIZATION CUES IN DIGITAL COMMUNICATION - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/396708492_CONTEXTUALIZING_MEANINGSPRAGMATIC_SHIFTS_AND_CONTEXTUALIZATION_CUES_IN_DIGITAL_COMMUNICATION](https://www.researchgate.net/publication/396708492_CONTEXTUALIZING_MEANINGSPRAGMATIC_SHIFTS_AND_CONTEXTUALIZATION_CUES_IN_DIGITAL_COMMUNICATION)  
 67. How Memes Shape Modern Language and Translation Trends, accessed May 14, 2026, [https://translationexcellence.com/memes-shape-modern-language-and-translation-trends/](https://translationexcellence.com/memes-shape-modern-language-and-translation-trends/)  
-68. A Pragmatics Study of Implicature In Internet Memes And Jokes \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/401425810\_A\_Pragmatics\_Study\_of\_Implicature\_In\_Internet\_Memes\_And\_Jokes](https://www.researchgate.net/publication/401425810_A_Pragmatics_Study_of_Implicature_In_Internet_Memes_And_Jokes)  
-69. What Does It Meme? English–Spanish Codeswitching and Enregisterment in Virtual Social Space \- MDPI, accessed May 14, 2026, [https://www.mdpi.com/2226-471X/8/4/231](https://www.mdpi.com/2226-471X/8/4/231)  
-70. On the recontextualization of meme quiddity: A case study of the TikTok meme \#аясейчасвампокажу | Request PDF \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/392378264\_On\_the\_recontextualization\_of\_meme\_quiddity\_A\_case\_study\_of\_the\_TikTok\_meme\_aasejcasvampokazu](https://www.researchgate.net/publication/392378264_On_the_recontextualization_of_meme_quiddity_A_case_study_of_the_TikTok_meme_aasejcasvampokazu)  
-71. (PDF) The pragmatics of sharing memes on Twitter \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/376784088\_The\_pragmatics\_of\_sharing\_memes\_on\_Twitter](https://www.researchgate.net/publication/376784088_The_pragmatics_of_sharing_memes_on_Twitter)  
+68. A Pragmatics Study of Implicature In Internet Memes And Jokes - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/401425810_A_Pragmatics_Study_of_Implicature_In_Internet_Memes_And_Jokes](https://www.researchgate.net/publication/401425810_A_Pragmatics_Study_of_Implicature_In_Internet_Memes_And_Jokes)  
+69. What Does It Meme? English–Spanish Codeswitching and Enregisterment in Virtual Social Space - MDPI, accessed May 14, 2026, [https://www.mdpi.com/2226-471X/8/4/231](https://www.mdpi.com/2226-471X/8/4/231)  
+70. On the recontextualization of meme quiddity: A case study of the TikTok meme \#аясейчасвампокажу | Request PDF - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/392378264_On_the_recontextualization_of_meme_quiddity_A_case_study_of_the_TikTok_meme_aasejcasvampokazu](https://www.researchgate.net/publication/392378264_On_the_recontextualization_of_meme_quiddity_A_case_study_of_the_TikTok_meme_aasejcasvampokazu)  
+71. (PDF) The pragmatics of sharing memes on Twitter - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/376784088_The_pragmatics_of_sharing_memes_on_Twitter](https://www.researchgate.net/publication/376784088_The_pragmatics_of_sharing_memes_on_Twitter)  
 72. Humor as the Politeness Strategy in Rednote posts among the Digital Refugees, accessed May 14, 2026, [https://rsisinternational.org/journals/ijriss/articles/humor-as-the-politeness-strategy-in-rednote-posts-among-the-digital-refugees/](https://rsisinternational.org/journals/ijriss/articles/humor-as-the-politeness-strategy-in-rednote-posts-among-the-digital-refugees/)  
-73. The Meme as the Message: Digital Culture Between Algorithm, Affect, and Aesthetics, accessed May 14, 2026, [https://www.researchgate.net/publication/395611532\_The\_Meme\_as\_the\_Message\_Digital\_Culture\_Between\_Algorithm\_Affect\_and\_Aesthetics](https://www.researchgate.net/publication/395611532_The_Meme_as_the_Message_Digital_Culture_Between_Algorithm_Affect_and_Aesthetics)  
+73. The Meme as the Message: Digital Culture Between Algorithm, Affect, and Aesthetics, accessed May 14, 2026, [https://www.researchgate.net/publication/395611532_The_Meme_as_the_Message_Digital_Culture_Between_Algorithm_Affect_and_Aesthetics](https://www.researchgate.net/publication/395611532_The_Meme_as_the_Message_Digital_Culture_Between_Algorithm_Affect_and_Aesthetics)  
 74. The Meme as the Message: Digital Culture Between Algorithm, Affect, and Aesthetics, accessed May 14, 2026, [https://www.routledge.com/The-Meme-as-the-Message-Digital-Culture-Between-Algorithm-Affect-and-Aesthetics/Nowotny-Reidy/p/book/9781032981383](https://www.routledge.com/The-Meme-as-the-Message-Digital-Culture-Between-Algorithm-Affect-and-Aesthetics/Nowotny-Reidy/p/book/9781032981383)  
-75. What is Pragmatic AI? \- DealHub, accessed May 14, 2026, [https://dealhub.io/glossary/pragmatic-ai/](https://dealhub.io/glossary/pragmatic-ai/)  
-76. Large language models as cognitive shortcuts: a systems-theoretic reframing beyond bullshit \- Frontiers, accessed May 14, 2026, [https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1681525/full](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1681525/full)  
-77. Large Language Model Reasoning Failures \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.06176v1](https://arxiv.org/html/2602.06176v1)  
-78. Disclaimer examples: Templates and best practices for business protection \- ComplyDog, accessed May 14, 2026, [https://complydog.com/blog/example-of-disclaimer](https://complydog.com/blog/example-of-disclaimer)  
-79. Language Models in Dialogue: Conversational Maxims for Human-AI Interactions \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2403.15115v1](https://arxiv.org/html/2403.15115v1)  
-80. Politeness Strategies in Conversational AI: A Cross-Cultural Pragmatic Analysis of Human-AI Interactions \- IDEAS/RePEc, accessed May 14, 2026, [https://ideas.repec.org/a/dba/pappsa/v3y2025ip1-14.html](https://ideas.repec.org/a/dba/pappsa/v3y2025ip1-14.html)  
+75. What is Pragmatic AI? - DealHub, accessed May 14, 2026, [https://dealhub.io/glossary/pragmatic-ai/](https://dealhub.io/glossary/pragmatic-ai/)  
+76. Large language models as cognitive shortcuts: a systems-theoretic reframing beyond bullshit - Frontiers, accessed May 14, 2026, [https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1681525/full](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1681525/full)  
+77. Large Language Model Reasoning Failures - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.06176v1](https://arxiv.org/html/2602.06176v1)  
+78. Disclaimer examples: Templates and best practices for business protection - ComplyDog, accessed May 14, 2026, [https://complydog.com/blog/example-of-disclaimer](https://complydog.com/blog/example-of-disclaimer)  
+79. Language Models in Dialogue: Conversational Maxims for Human-AI Interactions - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2403.15115v1](https://arxiv.org/html/2403.15115v1)  
+80. Politeness Strategies in Conversational AI: A Cross-Cultural Pragmatic Analysis of Human-AI Interactions - IDEAS/RePEc, accessed May 14, 2026, [https://ideas.repec.org/a/dba/pappsa/v3y2025ip1-14.html](https://ideas.repec.org/a/dba/pappsa/v3y2025ip1-14.html)  
 81. What's the Difference Between a Privacy Policy, Disclaimer, and Terms & Conditions?, accessed May 14, 2026, [https://termly.io/resources/articles/difference-between-privacy-policy-disclaimer-and-terms-and-conditions/](https://termly.io/resources/articles/difference-between-privacy-policy-disclaimer-and-terms-and-conditions/)  
-82. Epistemological Fault Lines Between Human and Artificial Intelligence \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2512.19466v1](https://arxiv.org/html/2512.19466v1)
+82. Epistemological Fault Lines Between Human and Artificial Intelligence - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2512.19466v1](https://arxiv.org/html/2512.19466v1)
 
 ---
 
@@ -1745,7 +1745,7 @@ The logic of our most complex systems is often a projection of a few primary sch
 
 The power of image schemas lies in their ability to provide a "physical logic" to non-physical domains. Johnson demonstrates that the logic of containment is not merely spatial; it informs the way we reason about states of being. If an individual is "deep in a depression," the logic of the CONTAINER schema suggests they are far from the boundary and will take longer to "get out".2 Similarly, the TRANSITIVITY property of the path schema dictates that if one moves from A to B and then B to C, they have moved from A to C—a logic that underpins our understanding of narrative progress and historical development.2
 
-In the context of artificial intelligence and agent design, formalizing these schemas is crucial for grounding reasoning in fundamental conceptual structures.10 A neurosymbolic approach that translates natural language into formal representations of image schemas—such as OBJECT\_INTO\_CONTAINER—enables agents to understand the qualitative relationships in an environment (e.g., "Berlin is in Germany") without requiring exact coordinate geometry.10
+In the context of artificial intelligence and agent design, formalizing these schemas is crucial for grounding reasoning in fundamental conceptual structures.10 A neurosymbolic approach that translates natural language into formal representations of image schemas—such as OBJECT_INTO_CONTAINER—enables agents to understand the qualitative relationships in an environment (e.g., "Berlin is in Germany") without requiring exact coordinate geometry.10
 
 ## **Conceptual Metaphor as Reasoning Machinery**
 
@@ -1893,7 +1893,7 @@ Using datasets like **MUNCH** (Metaphor Understanding Challenge), researchers ha
 
 ### **Benchmarking Analogical Reasoning: AnaloBench and RSA**
 
-The **AnaloBench** framework evaluates an agent's ability to identify abstract analogies across complex narratives.46 While models align with humans at a surface level, they diverge significantly at the representational level, as measured by Representational Similarity Analysis (RSA).44 For example, in RSA tests, humans might judge distances such as: |A \- B| \= 9, |A \- C| \= 13, |B \- C| \= 14\. This indicates a stable relational structure. AI models often fail to mirror this "representational geometry," suggesting they lack the underlying interpretative structure of human thought.10
+The **AnaloBench** framework evaluates an agent's ability to identify abstract analogies across complex narratives.46 While models align with humans at a surface level, they diverge significantly at the representational level, as measured by Representational Similarity Analysis (RSA).44 For example, in RSA tests, humans might judge distances such as: |A - B| = 9, |A - C| = 13, |B - C| = 14. This indicates a stable relational structure. AI models often fail to mirror this "representational geometry," suggesting they lack the underlying interpretative structure of human thought.10
 
 ## **Operational Doctrine: RAG-Ready Artifacts**
 
@@ -1933,52 +1933,52 @@ Report G prepares the ground for Report H, which moves into the social layer, an
 
 #### **Works cited**
 
-1. (PDF) Image Schemas \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/288562955\_Image\_Schemas](https://www.researchgate.net/publication/288562955_Image_Schemas)  
-2. Image schema \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Image\_schema](https://en.wikipedia.org/wiki/Image_schema)  
-3. Abstract concepts: Sensory-motor grounding, metaphors, and beyond. | Request PDF, accessed May 14, 2026, [https://www.researchgate.net/publication/224969400\_Abstract\_concepts\_Sensory-motor\_grounding\_metaphors\_and\_beyond](https://www.researchgate.net/publication/224969400_Abstract_concepts_Sensory-motor_grounding_metaphors_and_beyond)  
-4. Structure-Mapping: A Theoretical Framework for Analogy\*, accessed May 14, 2026, [http://matt.colorado.edu/teaching/highcog/readings/g83.pdf](http://matt.colorado.edu/teaching/highcog/readings/g83.pdf)  
-5. Unveiling LLMs' Metaphorical Understanding: Exploring Conceptual Irrelevance, Context Leveraging and Syntactic Influence \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2510.04120v1](https://arxiv.org/html/2510.04120v1)  
-6. (PDF) Image Schemas \- Academia.edu, accessed May 14, 2026, [https://www.academia.edu/357340/Image\_Schemas](https://www.academia.edu/357340/Image_Schemas)  
-7. Unveiling LLMs' Metaphorical Understanding: Exploring Conceptual Irrelevance, Context Leveraging and Syntactic Influence | Request PDF \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/396250152\_Unveiling\_LLMs'\_Metaphorical\_Understanding\_Exploring\_Conceptual\_Irrelevance\_Context\_Leveraging\_and\_Syntactic\_Influence](https://www.researchgate.net/publication/396250152_Unveiling_LLMs'_Metaphorical_Understanding_Exploring_Conceptual_Irrelevance_Context_Leveraging_and_Syntactic_Influence)  
+1. (PDF) Image Schemas - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/288562955_Image_Schemas](https://www.researchgate.net/publication/288562955_Image_Schemas)  
+2. Image schema - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Image_schema](https://en.wikipedia.org/wiki/Image_schema)  
+3. Abstract concepts: Sensory-motor grounding, metaphors, and beyond. | Request PDF, accessed May 14, 2026, [https://www.researchgate.net/publication/224969400_Abstract_concepts_Sensory-motor_grounding_metaphors_and_beyond](https://www.researchgate.net/publication/224969400_Abstract_concepts_Sensory-motor_grounding_metaphors_and_beyond)  
+4. Structure-Mapping: A Theoretical Framework for Analogy*, accessed May 14, 2026, [http://matt.colorado.edu/teaching/highcog/readings/g83.pdf](http://matt.colorado.edu/teaching/highcog/readings/g83.pdf)  
+5. Unveiling LLMs' Metaphorical Understanding: Exploring Conceptual Irrelevance, Context Leveraging and Syntactic Influence - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2510.04120v1](https://arxiv.org/html/2510.04120v1)  
+6. (PDF) Image Schemas - Academia.edu, accessed May 14, 2026, [https://www.academia.edu/357340/Image_Schemas](https://www.academia.edu/357340/Image_Schemas)  
+7. Unveiling LLMs' Metaphorical Understanding: Exploring Conceptual Irrelevance, Context Leveraging and Syntactic Influence | Request PDF - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/396250152_Unveiling_LLMs'_Metaphorical_Understanding_Exploring_Conceptual_Irrelevance_Context_Leveraging_and_Syntactic_Influence](https://www.researchgate.net/publication/396250152_Unveiling_LLMs'_Metaphorical_Understanding_Exploring_Conceptual_Irrelevance_Context_Leveraging_and_Syntactic_Influence)  
 8. A Literature Review of the Image Schema Theory and Concepts of Construction, accessed May 14, 2026, [https://www.ijlll.org/vol9/IJLLL-V9N6-467.pdf](https://www.ijlll.org/vol9/IJLLL-V9N6-467.pdf)  
-9. A Survey on the Security of Long-Term Memory in LLM Agents: Toward Mnemonic Sovereignty \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.16548v1](https://arxiv.org/html/2604.16548v1)  
-10. Grounding Agent Reasoning in Image Schemas: A Neurosymbolic Approach to Embodied Cognition \- IFAAMAS, accessed May 14, 2026, [https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2875.pdf](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2875.pdf)  
-11. Can LLMs interpret figurative language as humans do?: surface-level vs representational similarity \- arXiv, accessed May 14, 2026, [https://arxiv.org/pdf/2601.09041](https://arxiv.org/pdf/2601.09041)  
+9. A Survey on the Security of Long-Term Memory in LLM Agents: Toward Mnemonic Sovereignty - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.16548v1](https://arxiv.org/html/2604.16548v1)  
+10. Grounding Agent Reasoning in Image Schemas: A Neurosymbolic Approach to Embodied Cognition - IFAAMAS, accessed May 14, 2026, [https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2875.pdf](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2875.pdf)  
+11. Can LLMs interpret figurative language as humans do?: surface-level vs representational similarity - arXiv, accessed May 14, 2026, [https://arxiv.org/pdf/2601.09041](https://arxiv.org/pdf/2601.09041)  
 12. Conceptual Metaphor Theory | SBL Handbook of Style, accessed May 14, 2026, [https://sblhs2.com/2016/11/24/conceptual-metaphor-theory/](https://sblhs2.com/2016/11/24/conceptual-metaphor-theory/)  
-13. Metaphor: bridging embodiment to abstraction \- PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC5033247/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5033247/)  
+13. Metaphor: bridging embodiment to abstraction - PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC5033247/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5033247/)  
 14. June 29, 2022 Australia's Department of the Prime Minister and Cabinet Andrew Fisher Building 1 National Circuit Barton ACT 2, accessed May 14, 2026, [https://www2.itif.org/2022-australian-national-data-strategy.pdf](https://www2.itif.org/2022-australian-national-data-strategy.pdf)  
-15. Not all ANIMALs are equal: metaphorical framing through source domains and semantic frames \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.20454v1](https://arxiv.org/html/2604.20454v1)  
-16. Loki's Dance of Illusions: A Comprehensive Survey of Hallucination in Large Language Models \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2507.02870v1](https://arxiv.org/html/2507.02870v1)  
+15. Not all ANIMALs are equal: metaphorical framing through source domains and semantic frames - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.20454v1](https://arxiv.org/html/2604.20454v1)  
+16. Loki's Dance of Illusions: A Comprehensive Survey of Hallucination in Large Language Models - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2507.02870v1](https://arxiv.org/html/2507.02870v1)  
 17. How to Represent Abstract Concepts? From the Perspective of Conceptual Metaphor Theory, accessed May 14, 2026, [https://openaccesspub.org/human-psychology/article/1516](https://openaccesspub.org/human-psychology/article/1516)  
-18. Performances of LLMs in Multimodal Metaphor Understanding, Generation, Consistency and Creativity Based on FDPEF \- Science Publishing Group, accessed May 14, 2026, [https://www.sciencepg.com/article/10.11648/j.ijll.20261402.12](https://www.sciencepg.com/article/10.11648/j.ijll.20261402.12)  
-19. Metaphor Understanding Challenge Dataset for LLMs \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2403.11810v1](https://arxiv.org/html/2403.11810v1)  
-20. Conceptual Blending \- FunBlocks AI, accessed May 14, 2026, [https://www.funblocks.net/thinking-matters/classic-mental-models/conceptual-blending](https://www.funblocks.net/thinking-matters/classic-mental-models/conceptual-blending)  
+18. Performances of LLMs in Multimodal Metaphor Understanding, Generation, Consistency and Creativity Based on FDPEF - Science Publishing Group, accessed May 14, 2026, [https://www.sciencepg.com/article/10.11648/j.ijll.20261402.12](https://www.sciencepg.com/article/10.11648/j.ijll.20261402.12)  
+19. Metaphor Understanding Challenge Dataset for LLMs - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2403.11810v1](https://arxiv.org/html/2403.11810v1)  
+20. Conceptual Blending - FunBlocks AI, accessed May 14, 2026, [https://www.funblocks.net/thinking-matters/classic-mental-models/conceptual-blending](https://www.funblocks.net/thinking-matters/classic-mental-models/conceptual-blending)  
 21. The Words We Use in Data Policy | Defend Digital Me, accessed May 14, 2026, [https://defenddigitalme.org/research/words-data-policy/](https://defenddigitalme.org/research/words-data-policy/)  
-22. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/volumes/2025.naacl-long/](https://aclanthology.org/volumes/2025.naacl-long/)  
+22. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/volumes/2025.naacl-long/](https://aclanthology.org/volumes/2025.naacl-long/)  
 23. Conceptual blending The goal of this video is to introduce the concept of conceptual blending or conceptual integration. Concept, accessed May 14, 2026, [https://www.hf.uio.no/ilos/english/research/centre/lce/studies/digital-teaching-materials/conceptual-blending-or-conceptual-integration---text---saric-script.pdf](https://www.hf.uio.no/ilos/english/research/centre/lce/studies/digital-teaching-materials/conceptual-blending-or-conceptual-integration---text---saric-script.pdf)  
-24. CONCEPTUAL BLENDING, FORM AND MEANING1 1\. Introduction \- TECFA, accessed May 14, 2026, [https://tecfa.unige.ch/tecfa/maltt/cofor-1/textes/Fauconnier-Turner03.pdf](https://tecfa.unige.ch/tecfa/maltt/cofor-1/textes/Fauconnier-Turner03.pdf)  
-25. Conceptual Blending \- Neuro Humanities Studies, accessed May 14, 2026, [https://www.neurohumanitiestudies.eu/archivio/blending.pdf](https://www.neurohumanitiestudies.eu/archivio/blending.pdf)  
-26. Memory is the next step that AI companies need to solve : r/ArtificialInteligence \- Reddit, accessed May 14, 2026, [https://www.reddit.com/r/ArtificialInteligence/comments/1q6w0o6/memory\_is\_the\_next\_step\_that\_ai\_companies\_need\_to/](https://www.reddit.com/r/ArtificialInteligence/comments/1q6w0o6/memory_is_the_next_step_that_ai_companies_need_to/)  
-27. Conceptual blending \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Conceptual\_blending](https://en.wikipedia.org/wiki/Conceptual_blending)  
-28. Structure-mapping: A computational model of analogy and similarity \- Qualitative Reasoning Group, accessed May 14, 2026, [https://www.qrg.northwestern.edu/ideas/smeidea.htm](https://www.qrg.northwestern.edu/ideas/smeidea.htm)  
-29. Structure- Mapping: A Theoretical Framework for Analogy \- DTIC, accessed May 14, 2026, [https://apps.dtic.mil/sti/pdfs/ADA122891.pdf](https://apps.dtic.mil/sti/pdfs/ADA122891.pdf)  
-30. Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2507.00951v3](https://arxiv.org/html/2507.00951v3)  
-31. Structure-mapping theory \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Structure-mapping\_theory](https://en.wikipedia.org/wiki/Structure-mapping_theory)  
-32. \[Research\] Orphaned Sophistication — LLMs use figurative language they didn't earn, and that's detectable : r/LanguageTechnology \- Reddit, accessed May 14, 2026, [https://www.reddit.com/r/LanguageTechnology/comments/1rc0me1/research\_orphaned\_sophistication\_llms\_use/](https://www.reddit.com/r/LanguageTechnology/comments/1rc0me1/research_orphaned_sophistication_llms_use/)  
-33. Structure mapping engine \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Structure\_mapping\_engine](https://en.wikipedia.org/wiki/Structure_mapping_engine)  
-34. Boundaries to grounding abstract concepts \- PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC6015828/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6015828/)  
-35. Grounding Abstractness: Abstract Concepts and the Activation of the Mouth \- PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC5056183/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5056183/)  
-36. Technical Debt \- Martin Fowler, accessed May 14, 2026, [https://martinfowler.com/bliki/TechnicalDebt.html](https://martinfowler.com/bliki/TechnicalDebt.html)  
-37. insolvent \- Environment & Society Portal, accessed May 14, 2026, [https://www.environmentandsociety.org/sites/default/files/key\_docs/becker\_2023\_-\_insolvent.pdf](https://www.environmentandsociety.org/sites/default/files/key_docs/becker_2023_-_insolvent.pdf)  
+24. CONCEPTUAL BLENDING, FORM AND MEANING1 1. Introduction - TECFA, accessed May 14, 2026, [https://tecfa.unige.ch/tecfa/maltt/cofor-1/textes/Fauconnier-Turner03.pdf](https://tecfa.unige.ch/tecfa/maltt/cofor-1/textes/Fauconnier-Turner03.pdf)  
+25. Conceptual Blending - Neuro Humanities Studies, accessed May 14, 2026, [https://www.neurohumanitiestudies.eu/archivio/blending.pdf](https://www.neurohumanitiestudies.eu/archivio/blending.pdf)  
+26. Memory is the next step that AI companies need to solve : r/ArtificialInteligence - Reddit, accessed May 14, 2026, [https://www.reddit.com/r/ArtificialInteligence/comments/1q6w0o6/memory_is_the_next_step_that_ai_companies_need_to/](https://www.reddit.com/r/ArtificialInteligence/comments/1q6w0o6/memory_is_the_next_step_that_ai_companies_need_to/)  
+27. Conceptual blending - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Conceptual_blending](https://en.wikipedia.org/wiki/Conceptual_blending)  
+28. Structure-mapping: A computational model of analogy and similarity - Qualitative Reasoning Group, accessed May 14, 2026, [https://www.qrg.northwestern.edu/ideas/smeidea.htm](https://www.qrg.northwestern.edu/ideas/smeidea.htm)  
+29. Structure- Mapping: A Theoretical Framework for Analogy - DTIC, accessed May 14, 2026, [https://apps.dtic.mil/sti/pdfs/ADA122891.pdf](https://apps.dtic.mil/sti/pdfs/ADA122891.pdf)  
+30. Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2507.00951v3](https://arxiv.org/html/2507.00951v3)  
+31. Structure-mapping theory - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Structure-mapping_theory](https://en.wikipedia.org/wiki/Structure-mapping_theory)  
+32. [Research] Orphaned Sophistication — LLMs use figurative language they didn't earn, and that's detectable : r/LanguageTechnology - Reddit, accessed May 14, 2026, [https://www.reddit.com/r/LanguageTechnology/comments/1rc0me1/research_orphaned_sophistication_llms_use/](https://www.reddit.com/r/LanguageTechnology/comments/1rc0me1/research_orphaned_sophistication_llms_use/)  
+33. Structure mapping engine - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Structure_mapping_engine](https://en.wikipedia.org/wiki/Structure_mapping_engine)  
+34. Boundaries to grounding abstract concepts - PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC6015828/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6015828/)  
+35. Grounding Abstractness: Abstract Concepts and the Activation of the Mouth - PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC5056183/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5056183/)  
+36. Technical Debt - Martin Fowler, accessed May 14, 2026, [https://martinfowler.com/bliki/TechnicalDebt.html](https://martinfowler.com/bliki/TechnicalDebt.html)  
+37. insolvent - Environment & Society Portal, accessed May 14, 2026, [https://www.environmentandsociety.org/sites/default/files/key_docs/becker_2023_-_insolvent.pdf](https://www.environmentandsociety.org/sites/default/files/key_docs/becker_2023_-_insolvent.pdf)  
 38. Towards an Ethical Digital Society: From Theory to Practice Prof. Anupam Guha Centre for Policy Studies, IITB International Inst, accessed May 14, 2026, [http://digimat.in/nptelpdf/Humanities%20and%20Social%20Sciences/109106184%20-%20NOC-Towards%20an%20Ethical%20Digital%20Society-%20From%20Theory%20to%20Practice/lec7.pdf](http://digimat.in/nptelpdf/Humanities%20and%20Social%20Sciences/109106184%20-%20NOC-Towards%20an%20Ethical%20Digital%20Society-%20From%20Theory%20to%20Practice/lec7.pdf)  
-39. Loki's Dance of Illusions: A Comprehensive Survey of Hallucination in Large Language Models \- arXiv, accessed May 14, 2026, [https://arxiv.org/pdf/2507.02870](https://arxiv.org/pdf/2507.02870)  
-40. Context Is Not Memory : r/AIMemory \- Reddit, accessed May 14, 2026, [https://www.reddit.com/r/AIMemory/comments/1slv3c3/context\_is\_not\_memory/](https://www.reddit.com/r/AIMemory/comments/1slv3c3/context_is_not_memory/)  
-41. HiMem: Hierarchical Long-Term Memory for LLM Long-Horizon Agents \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.06377v1](https://arxiv.org/html/2601.06377v1)  
-42. \[2510.04120\] Unveiling LLMs' Metaphorical Understanding: Exploring Conceptual Irrelevance, Context Leveraging and Syntactic Influence \- arXiv, accessed May 14, 2026, [https://arxiv.org/abs/2510.04120](https://arxiv.org/abs/2510.04120)  
-43. Metaphor Understanding Challenge Dataset for LLMs \- OpenReview, accessed May 14, 2026, [https://openreview.net/pdf/10ff01b597e285d57788c3247e58751a918363e3.pdf](https://openreview.net/pdf/10ff01b597e285d57788c3247e58751a918363e3.pdf)  
-44. Can LLMs interpret figurative language as humans do?: surface-level vs representational similarity \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/399776907\_Can\_LLMs\_interpret\_figurative\_language\_as\_humans\_do\_surface-level\_vs\_representational\_similarity](https://www.researchgate.net/publication/399776907_Can_LLMs_interpret_figurative_language_as_humans_do_surface-level_vs_representational_similarity)  
-45. Daily Papers \- Hugging Face, accessed May 14, 2026, [https://huggingface.co/papers?q=referential%20ambiguity](https://huggingface.co/papers?q=referential+ambiguity)  
-46. AnaloBench: Benchmarking the Identification of Abstract and Long-context Analogies \- arXiv, accessed May 14, 2026, [https://arxiv.org/abs/2402.12370](https://arxiv.org/abs/2402.12370)
+39. Loki's Dance of Illusions: A Comprehensive Survey of Hallucination in Large Language Models - arXiv, accessed May 14, 2026, [https://arxiv.org/pdf/2507.02870](https://arxiv.org/pdf/2507.02870)  
+40. Context Is Not Memory : r/AIMemory - Reddit, accessed May 14, 2026, [https://www.reddit.com/r/AIMemory/comments/1slv3c3/context_is_not_memory/](https://www.reddit.com/r/AIMemory/comments/1slv3c3/context_is_not_memory/)  
+41. HiMem: Hierarchical Long-Term Memory for LLM Long-Horizon Agents - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.06377v1](https://arxiv.org/html/2601.06377v1)  
+42. [2510.04120] Unveiling LLMs' Metaphorical Understanding: Exploring Conceptual Irrelevance, Context Leveraging and Syntactic Influence - arXiv, accessed May 14, 2026, [https://arxiv.org/abs/2510.04120](https://arxiv.org/abs/2510.04120)  
+43. Metaphor Understanding Challenge Dataset for LLMs - OpenReview, accessed May 14, 2026, [https://openreview.net/pdf/10ff01b597e285d57788c3247e58751a918363e3.pdf](https://openreview.net/pdf/10ff01b597e285d57788c3247e58751a918363e3.pdf)  
+44. Can LLMs interpret figurative language as humans do?: surface-level vs representational similarity - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/399776907_Can_LLMs_interpret_figurative_language_as_humans_do_surface-level_vs_representational_similarity](https://www.researchgate.net/publication/399776907_Can_LLMs_interpret_figurative_language_as_humans_do_surface-level_vs_representational_similarity)  
+45. Daily Papers - Hugging Face, accessed May 14, 2026, [https://huggingface.co/papers?q=referential%20ambiguity](https://huggingface.co/papers?q=referential+ambiguity)  
+46. AnaloBench: Benchmarking the Identification of Abstract and Long-context Analogies - arXiv, accessed May 14, 2026, [https://arxiv.org/abs/2402.12370](https://arxiv.org/abs/2402.12370)
 
 ---
 
@@ -2015,7 +2015,7 @@ Narrative is the primary interpretative tool through which individuals and commu
 
 ### **Ricoeur and the Synthesis of the Heterogeneous**
 
-Paul Ricoeur’s concept of "emplotment" (mimesis 2\) is the "integrating dynamism" that transforms a variety of incidents into a unified story.4 Emplotment is a configurational act that "grasps together" multiple, scattered events—including goals, means, chance encounters, and unintended consequences—into an intelligible whole.4 Nothing is considered an "event" in this framework unless it contributes to the progress of the overall story.4 Through "productive imagination," emplotment creates "semantic innovation," allowing a narrator to schematize meaning from unrelated occurrences . For example, in a political narrative, a single economic data point might be transformed from a "physical occurrence" into a "causal link" in a story of national decline or recovery.4 This process imposes a "moral order" on time, where the resolution of the plot provides the "reason" for the initial events .
+Paul Ricoeur’s concept of "emplotment" (mimesis 2) is the "integrating dynamism" that transforms a variety of incidents into a unified story.4 Emplotment is a configurational act that "grasps together" multiple, scattered events—including goals, means, chance encounters, and unintended consequences—into an intelligible whole.4 Nothing is considered an "event" in this framework unless it contributes to the progress of the overall story.4 Through "productive imagination," emplotment creates "semantic innovation," allowing a narrator to schematize meaning from unrelated occurrences . For example, in a political narrative, a single economic data point might be transformed from a "physical occurrence" into a "causal link" in a story of national decline or recovery.4 This process imposes a "moral order" on time, where the resolution of the plot provides the "reason" for the initial events .
 
 ### **Labov and the Structural Anatomy of Personal Experience**
 
@@ -2187,72 +2187,72 @@ Report H transforms semantic analysis from a search for "meaning" into an invest
 #### **Works cited**
 
 1. Theoretical Foundations of Discourse Analysis Simplified, accessed May 14, 2026, [https://discourseanalyzer.com/theoretical-foundations-of-discourse-analysis-simplified/](https://discourseanalyzer.com/theoretical-foundations-of-discourse-analysis-simplified/)  
-2. READING SEVEN \- Foucault: Power, Knowledge and \- Discourse, accessed May 14, 2026, [https://www.miguelangelmartinez.net/IMG/pdf/1997\_hall\_foucault-power-knowledge-and-discourse\_ch7.pdf](https://www.miguelangelmartinez.net/IMG/pdf/1997_hall_foucault-power-knowledge-and-discourse_ch7.pdf)  
-3. Discourse, Power and Truth: Foucauldian Perspective \- International Journal of English Literature and Social Sciences (IJELS), accessed May 14, 2026, [https://ijels.com/upload\_document/issue\_files/13IJELS-108202023-Discourse.pdf](https://ijels.com/upload_document/issue_files/13IJELS-108202023-Discourse.pdf)  
-4. Ricoeur's narrative theory applied to science \- Academic Journals, accessed May 14, 2026, [https://academicjournals.org/article/article1379171579\_Ivic.pdf](https://academicjournals.org/article/article1379171579_Ivic.pdf)  
-5. The Narrative Construction of Reality, accessed May 14, 2026, [https://web.english.upenn.edu/\~cavitch/pdf-library/Bruner\_Narrative.pdf](https://web.english.upenn.edu/~cavitch/pdf-library/Bruner_Narrative.pdf)  
-6. The Social Construction of Power: Reflections Beyond Berger/Luckmann and Bourdieu \- SciSpace, accessed May 14, 2026, [https://scispace.com/pdf/the-social-construction-of-power-reflections-beyond-berger-1ywfku475i.pdf](https://scispace.com/pdf/the-social-construction-of-power-reflections-beyond-berger-1ywfku475i.pdf)  
-7. Institutional Facts: John R. Searle \- The Philosophy Forum Archive, accessed May 14, 2026, [https://thephilosophyforum.com/discussion/12849/institutional-facts-john-r-searle](https://thephilosophyforum.com/discussion/12849/institutional-facts-john-r-searle)  
-8. Critical discourse analysis \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Critical\_discourse\_analysis](https://en.wikipedia.org/wiki/Critical_discourse_analysis)  
-9. Social Construction of Reality \- Simply Psychology, accessed May 14, 2026, [https://www.simplypsychology.org/social-construction-of-reality.html](https://www.simplypsychology.org/social-construction-of-reality.html)  
-10. The Social Construction of Reality \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/The\_Social\_Construction\_of\_Reality](https://en.wikipedia.org/wiki/The_Social_Construction_of_Reality)  
-11. Social Construction of Reality | Religion and Philosophy | Research Starters \- EBSCO, accessed May 14, 2026, [https://www.ebsco.com/research-starters/religion-and-philosophy/social-construction-reality](https://www.ebsco.com/research-starters/religion-and-philosophy/social-construction-reality)  
-12. Language/activity : Observing and interpreting ritualistic institutional discourse, accessed May 14, 2026, [https://www.unige.ch/clf/fichiers/pdf/07-Sarangi\_nclf26.pdf](https://www.unige.ch/clf/fichiers/pdf/07-Sarangi_nclf26.pdf)  
+2. READING SEVEN - Foucault: Power, Knowledge and - Discourse, accessed May 14, 2026, [https://www.miguelangelmartinez.net/IMG/pdf/1997_hall_foucault-power-knowledge-and-discourse_ch7.pdf](https://www.miguelangelmartinez.net/IMG/pdf/1997_hall_foucault-power-knowledge-and-discourse_ch7.pdf)  
+3. Discourse, Power and Truth: Foucauldian Perspective - International Journal of English Literature and Social Sciences (IJELS), accessed May 14, 2026, [https://ijels.com/upload_document/issue_files/13IJELS-108202023-Discourse.pdf](https://ijels.com/upload_document/issue_files/13IJELS-108202023-Discourse.pdf)  
+4. Ricoeur's narrative theory applied to science - Academic Journals, accessed May 14, 2026, [https://academicjournals.org/article/article1379171579_Ivic.pdf](https://academicjournals.org/article/article1379171579_Ivic.pdf)  
+5. The Narrative Construction of Reality, accessed May 14, 2026, [https://web.english.upenn.edu/~cavitch/pdf-library/Bruner_Narrative.pdf](https://web.english.upenn.edu/~cavitch/pdf-library/Bruner_Narrative.pdf)  
+6. The Social Construction of Power: Reflections Beyond Berger/Luckmann and Bourdieu - SciSpace, accessed May 14, 2026, [https://scispace.com/pdf/the-social-construction-of-power-reflections-beyond-berger-1ywfku475i.pdf](https://scispace.com/pdf/the-social-construction-of-power-reflections-beyond-berger-1ywfku475i.pdf)  
+7. Institutional Facts: John R. Searle - The Philosophy Forum Archive, accessed May 14, 2026, [https://thephilosophyforum.com/discussion/12849/institutional-facts-john-r-searle](https://thephilosophyforum.com/discussion/12849/institutional-facts-john-r-searle)  
+8. Critical discourse analysis - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Critical_discourse_analysis](https://en.wikipedia.org/wiki/Critical_discourse_analysis)  
+9. Social Construction of Reality - Simply Psychology, accessed May 14, 2026, [https://www.simplypsychology.org/social-construction-of-reality.html](https://www.simplypsychology.org/social-construction-of-reality.html)  
+10. The Social Construction of Reality - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/The_Social_Construction_of_Reality](https://en.wikipedia.org/wiki/The_Social_Construction_of_Reality)  
+11. Social Construction of Reality | Religion and Philosophy | Research Starters - EBSCO, accessed May 14, 2026, [https://www.ebsco.com/research-starters/religion-and-philosophy/social-construction-reality](https://www.ebsco.com/research-starters/religion-and-philosophy/social-construction-reality)  
+12. Language/activity : Observing and interpreting ritualistic institutional discourse, accessed May 14, 2026, [https://www.unige.ch/clf/fichiers/pdf/07-Sarangi_nclf26.pdf](https://www.unige.ch/clf/fichiers/pdf/07-Sarangi_nclf26.pdf)  
 13. Ideology and Discourse, accessed May 14, 2026, [https://discourses.org/wp-content/uploads/2022/07/Teun-A.-van-Dijk-2013-Ideology-and-discourse.pdf](https://discourses.org/wp-content/uploads/2022/07/Teun-A.-van-Dijk-2013-Ideology-and-discourse.pdf)  
-14. Understanding Bakhtin's Dialogism | PDF \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/654759147/dialogism-and-heteroglossia](https://www.scribd.com/document/654759147/dialogism-and-heteroglossia)  
-15. Frame analysis | Social Theory & Interactionism \- Britannica, accessed May 14, 2026, [https://www.britannica.com/topic/frame-analysis](https://www.britannica.com/topic/frame-analysis)  
-16. Foucault: power is everywhere \- Powercube.net, accessed May 14, 2026, [https://www.powercube.net/other-forms-of-power/foucault-power-is-everywhere/](https://www.powercube.net/other-forms-of-power/foucault-power-is-everywhere/)  
+14. Understanding Bakhtin's Dialogism | PDF - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/654759147/dialogism-and-heteroglossia](https://www.scribd.com/document/654759147/dialogism-and-heteroglossia)  
+15. Frame analysis | Social Theory & Interactionism - Britannica, accessed May 14, 2026, [https://www.britannica.com/topic/frame-analysis](https://www.britannica.com/topic/frame-analysis)  
+16. Foucault: power is everywhere - Powercube.net, accessed May 14, 2026, [https://www.powercube.net/other-forms-of-power/foucault-power-is-everywhere/](https://www.powercube.net/other-forms-of-power/foucault-power-is-everywhere/)  
 17. Ressentiment, Victimhood, and Revanchism: Unpacking Erdoğan's Populist Mastery, accessed May 14, 2026, [https://econtent.hogrefe.com/doi/10.1024/2673-8627/a000098](https://econtent.hogrefe.com/doi/10.1024/2673-8627/a000098)  
-18. Can someone explain Foucault's concept of power-knowledge to me (with examples)? : r/askphilosophy \- Reddit, accessed May 14, 2026, [https://www.reddit.com/r/askphilosophy/comments/arpgzt/can\_someone\_explain\_foucaults\_concept\_of/](https://www.reddit.com/r/askphilosophy/comments/arpgzt/can_someone_explain_foucaults_concept_of/)  
-19. Scholars in Discourse Analysis \- Amazon S3, accessed May 14, 2026, [https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9781032880389/Discourse-Scholars.pdf](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9781032880389/Discourse-Scholars.pdf)  
-20. Critical discourse analysis (CDA) | Language and Linguistics | Research Starters \- EBSCO, accessed May 14, 2026, [https://www.ebsco.com/research-starters/language-and-linguistics/critical-discourse-analysis-cda](https://www.ebsco.com/research-starters/language-and-linguistics/critical-discourse-analysis-cda)  
-21. Critical Discourse Analysis | CDA, accessed May 14, 2026, [https://sharifling.wordpress.com/wp-content/uploads/2015/09/lect-09\_critical-discourse-analysis.pdf](https://sharifling.wordpress.com/wp-content/uploads/2015/09/lect-09_critical-discourse-analysis.pdf)  
-22. The Birth of Society from Symbolic Violence. \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/323993104\_The\_Birth\_of\_Society\_from\_Symbolic\_Violence](https://www.researchgate.net/publication/323993104_The_Birth_of_Society_from_Symbolic_Violence)  
-23. Foucault's CDA in Religious Discourse | PDF \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/906355510/CDA-Frameworks-Fairclough-VanDijk-Foucault](https://www.scribd.com/document/906355510/CDA-Frameworks-Fairclough-VanDijk-Foucault)  
-24. Framing Theory | Social Sciences and Humanities | Research Starters \- EBSCO, accessed May 14, 2026, [https://www.ebsco.com/research-starters/social-sciences-and-humanities/framing-theory](https://www.ebsco.com/research-starters/social-sciences-and-humanities/framing-theory)  
+18. Can someone explain Foucault's concept of power-knowledge to me (with examples)? : r/askphilosophy - Reddit, accessed May 14, 2026, [https://www.reddit.com/r/askphilosophy/comments/arpgzt/can_someone_explain_foucaults_concept_of/](https://www.reddit.com/r/askphilosophy/comments/arpgzt/can_someone_explain_foucaults_concept_of/)  
+19. Scholars in Discourse Analysis - Amazon S3, accessed May 14, 2026, [https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9781032880389/Discourse-Scholars.pdf](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9781032880389/Discourse-Scholars.pdf)  
+20. Critical discourse analysis (CDA) | Language and Linguistics | Research Starters - EBSCO, accessed May 14, 2026, [https://www.ebsco.com/research-starters/language-and-linguistics/critical-discourse-analysis-cda](https://www.ebsco.com/research-starters/language-and-linguistics/critical-discourse-analysis-cda)  
+21. Critical Discourse Analysis | CDA, accessed May 14, 2026, [https://sharifling.wordpress.com/wp-content/uploads/2015/09/lect-09_critical-discourse-analysis.pdf](https://sharifling.wordpress.com/wp-content/uploads/2015/09/lect-09_critical-discourse-analysis.pdf)  
+22. The Birth of Society from Symbolic Violence. - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/323993104_The_Birth_of_Society_from_Symbolic_Violence](https://www.researchgate.net/publication/323993104_The_Birth_of_Society_from_Symbolic_Violence)  
+23. Foucault's CDA in Religious Discourse | PDF - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/906355510/CDA-Frameworks-Fairclough-VanDijk-Foucault](https://www.scribd.com/document/906355510/CDA-Frameworks-Fairclough-VanDijk-Foucault)  
+24. Framing Theory | Social Sciences and Humanities | Research Starters - EBSCO, accessed May 14, 2026, [https://www.ebsco.com/research-starters/social-sciences-and-humanities/framing-theory](https://www.ebsco.com/research-starters/social-sciences-and-humanities/framing-theory)  
 25. Critical Discourse Analysis in The Age of Social Media: A Conceptual Exploration, accessed May 14, 2026, [https://mahasiswaindonesia.id/critical-discourse-analysis-in-the-age-of-social-media-a-conceptual-exploration/](https://mahasiswaindonesia.id/critical-discourse-analysis-in-the-age-of-social-media-a-conceptual-exploration/)  
-26. Critical Discourse Analysis: History, Agenda, Theory, and Methodology1, accessed May 14, 2026, [https://miguelangelmartinez.net/IMG/pdf/2008\_Wodak\_Critical\_Discourse\_Analysis\_Ch\_01.pdf](https://miguelangelmartinez.net/IMG/pdf/2008_Wodak_Critical_Discourse_Analysis_Ch_01.pdf)  
-27. practice \- Jump Cut, accessed May 14, 2026, [https://www.ejumpcut.org/currentissue/LesageLastWord/ClaudeAI-1.html](https://www.ejumpcut.org/currentissue/LesageLastWord/ClaudeAI-1.html)  
-28. Narrative Approach and Mentalization \- PMC \- NIH, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC10740439/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10740439/)  
-29. 1 When we select words… We usually take them from other utterances, and mainly from utterances that are kindred to ours in gen \- Research Commons, accessed May 14, 2026, [https://researchcommons.waikato.ac.nz/bitstreams/ce0659b4-7926-436f-bec5-74add236a765/download](https://researchcommons.waikato.ac.nz/bitstreams/ce0659b4-7926-436f-bec5-74add236a765/download)  
-30. Authority and Power in Social Interaction; Methods and ... \- R \-libre, accessed May 14, 2026, [https://r-libre.teluq.ca/1738/1/9781351051668\_preview.pdf](https://r-libre.teluq.ca/1738/1/9781351051668_preview.pdf)  
-31. time amd narrative \- paul ricoeur, accessed May 14, 2026, [https://www.nu.edu.ye/wp-content/uploads/2014/05/Paul-Ricoeur-Time-and-Narrative-vol1.pdf](https://www.nu.edu.ye/wp-content/uploads/2014/05/Paul-Ricoeur-Time-and-Narrative-vol1.pdf)  
-32. Time and Narrative, Volume 1 \- EleQta, accessed May 14, 2026, [http://www.eleqta.org/documentation/en/Paul\_Ricoeur\_Time\_and\_Narrative.pdf](http://www.eleqta.org/documentation/en/Paul_Ricoeur_Time_and_Narrative.pdf)  
-33. At the Limits of the Narrative \- Ricoeur Studies, accessed May 14, 2026, [https://ricoeur.pitt.edu/ojs/ricoeur/article/view/578/339](https://ricoeur.pitt.edu/ojs/ricoeur/article/view/578/339)  
-34. Some Further Steps in Narrative Analysis \- Penn Linguistics, accessed May 14, 2026, [https://www.ling.upenn.edu/\~wlabov/sfs.html](https://www.ling.upenn.edu/~wlabov/sfs.html)  
-35. Reconstructing the Social Construction of Reality \- PMC \- NIH, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC12163552/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12163552/)  
-36. (PDF) The Endless Fields of Pierre Bourdieu \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/247747332\_The\_Endless\_Fields\_of\_Pierre\_Bourdieu](https://www.researchgate.net/publication/247747332_The_Endless_Fields_of_Pierre_Bourdieu)  
-37. The Procedural Justice Industrial Complex \- Digital Repository @ Maurer Law, accessed May 14, 2026, [https://www.repository.law.indiana.edu/context/ilj/article/11526/viewcontent/The\_Procedural\_Justice\_Industrial\_Complex.pdf](https://www.repository.law.indiana.edu/context/ilj/article/11526/viewcontent/The_Procedural_Justice_Industrial_Complex.pdf)  
-38. Translingual Rhetoric \- CUNY Academic Works, accessed May 14, 2026, [https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=4512\&context=gc\_etds](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=4512&context=gc_etds)  
-39. Sociology and the Power of (Ordinary) Language \- Brill, accessed May 14, 2026, [https://brill.com/display/book/edcoll/9789004314184/B9789004314184-s004.pdf](https://brill.com/display/book/edcoll/9789004314184/B9789004314184-s004.pdf)  
+26. Critical Discourse Analysis: History, Agenda, Theory, and Methodology1, accessed May 14, 2026, [https://miguelangelmartinez.net/IMG/pdf/2008_Wodak_Critical_Discourse_Analysis_Ch_01.pdf](https://miguelangelmartinez.net/IMG/pdf/2008_Wodak_Critical_Discourse_Analysis_Ch_01.pdf)  
+27. practice - Jump Cut, accessed May 14, 2026, [https://www.ejumpcut.org/currentissue/LesageLastWord/ClaudeAI-1.html](https://www.ejumpcut.org/currentissue/LesageLastWord/ClaudeAI-1.html)  
+28. Narrative Approach and Mentalization - PMC - NIH, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC10740439/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10740439/)  
+29. 1 When we select words… We usually take them from other utterances, and mainly from utterances that are kindred to ours in gen - Research Commons, accessed May 14, 2026, [https://researchcommons.waikato.ac.nz/bitstreams/ce0659b4-7926-436f-bec5-74add236a765/download](https://researchcommons.waikato.ac.nz/bitstreams/ce0659b4-7926-436f-bec5-74add236a765/download)  
+30. Authority and Power in Social Interaction; Methods and ... - R -libre, accessed May 14, 2026, [https://r-libre.teluq.ca/1738/1/9781351051668_preview.pdf](https://r-libre.teluq.ca/1738/1/9781351051668_preview.pdf)  
+31. time amd narrative - paul ricoeur, accessed May 14, 2026, [https://www.nu.edu.ye/wp-content/uploads/2014/05/Paul-Ricoeur-Time-and-Narrative-vol1.pdf](https://www.nu.edu.ye/wp-content/uploads/2014/05/Paul-Ricoeur-Time-and-Narrative-vol1.pdf)  
+32. Time and Narrative, Volume 1 - EleQta, accessed May 14, 2026, [http://www.eleqta.org/documentation/en/Paul_Ricoeur_Time_and_Narrative.pdf](http://www.eleqta.org/documentation/en/Paul_Ricoeur_Time_and_Narrative.pdf)  
+33. At the Limits of the Narrative - Ricoeur Studies, accessed May 14, 2026, [https://ricoeur.pitt.edu/ojs/ricoeur/article/view/578/339](https://ricoeur.pitt.edu/ojs/ricoeur/article/view/578/339)  
+34. Some Further Steps in Narrative Analysis - Penn Linguistics, accessed May 14, 2026, [https://www.ling.upenn.edu/~wlabov/sfs.html](https://www.ling.upenn.edu/~wlabov/sfs.html)  
+35. Reconstructing the Social Construction of Reality - PMC - NIH, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC12163552/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12163552/)  
+36. (PDF) The Endless Fields of Pierre Bourdieu - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/247747332_The_Endless_Fields_of_Pierre_Bourdieu](https://www.researchgate.net/publication/247747332_The_Endless_Fields_of_Pierre_Bourdieu)  
+37. The Procedural Justice Industrial Complex - Digital Repository @ Maurer Law, accessed May 14, 2026, [https://www.repository.law.indiana.edu/context/ilj/article/11526/viewcontent/The_Procedural_Justice_Industrial_Complex.pdf](https://www.repository.law.indiana.edu/context/ilj/article/11526/viewcontent/The_Procedural_Justice_Industrial_Complex.pdf)  
+38. Translingual Rhetoric - CUNY Academic Works, accessed May 14, 2026, [https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=4512&context=gc_etds](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=4512&context=gc_etds)  
+39. Sociology and the Power of (Ordinary) Language - Brill, accessed May 14, 2026, [https://brill.com/display/book/edcoll/9789004314184/B9789004314184-s004.pdf](https://brill.com/display/book/edcoll/9789004314184/B9789004314184-s004.pdf)  
 40. Speech Acts in Migrant Nurses' Clinical Interactions, accessed May 14, 2026, [https://ejournal.iainpalopo.ac.id/index.php/ideas/article/download/8636/5428/34189](https://ejournal.iainpalopo.ac.id/index.php/ideas/article/download/8636/5428/34189)  
 41. An Analysis of Legitimization Strategies from the Perspective of the Discourse-Historical Approach and Its Enlightenment to Teaching of the Reading Course for English Majors, accessed May 14, 2026, [https://francis-press.com/uploads/papers/TY3mLXbQrFlqb9KCKhiPzRXDlT2reSbFjGsuso73.pdf](https://francis-press.com/uploads/papers/TY3mLXbQrFlqb9KCKhiPzRXDlT2reSbFjGsuso73.pdf)  
-42. Towards a Deeper Understanding of Framing, Footing, and Alignment \- Columbia Academic Commons, accessed May 14, 2026, [https://academiccommons.columbia.edu/doi/10.7916/d8-cvy6-c247/download](https://academiccommons.columbia.edu/doi/10.7916/d8-cvy6-c247/download)  
-43. Power in Communication: Implications for the Semantics-Pragmatics Interface \- UvA-DARE (Digital Academic Repository), accessed May 14, 2026, [https://pure.uva.nl/ws/files/40285865/1\_s2.0\_S0378216601000674\_main.pdf](https://pure.uva.nl/ws/files/40285865/1_s2.0_S0378216601000674_main.pdf)  
-44. A Critical Discourse Analysis of Discursive (De-) Legitimation Construction of Egyptian Revolution in Persian Media \- Academy Publication, accessed May 14, 2026, [https://www.academypublication.com/issues/past/jltr/vol04/05/20.pdf](https://www.academypublication.com/issues/past/jltr/vol04/05/20.pdf)  
+42. Towards a Deeper Understanding of Framing, Footing, and Alignment - Columbia Academic Commons, accessed May 14, 2026, [https://academiccommons.columbia.edu/doi/10.7916/d8-cvy6-c247/download](https://academiccommons.columbia.edu/doi/10.7916/d8-cvy6-c247/download)  
+43. Power in Communication: Implications for the Semantics-Pragmatics Interface - UvA-DARE (Digital Academic Repository), accessed May 14, 2026, [https://pure.uva.nl/ws/files/40285865/1_s2.0_S0378216601000674_main.pdf](https://pure.uva.nl/ws/files/40285865/1_s2.0_S0378216601000674_main.pdf)  
+44. A Critical Discourse Analysis of Discursive (De-) Legitimation Construction of Egyptian Revolution in Persian Media - Academy Publication, accessed May 14, 2026, [https://www.academypublication.com/issues/past/jltr/vol04/05/20.pdf](https://www.academypublication.com/issues/past/jltr/vol04/05/20.pdf)  
 45. The Legitimacy of War: Legitimation Discursive Strategies in ..., accessed May 14, 2026, [http://journal.kasell.or.kr/xml/45095/45095.pdf](http://journal.kasell.or.kr/xml/45095/45095.pdf)  
-46. Large Language Models in Argument Mining: A Survey \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2506.16383v3](https://arxiv.org/html/2506.16383v3)  
-47. Discursive (de)-legitimation strategies in the media \- Aaltodoc, accessed May 14, 2026, [https://aaltodoc.aalto.fi/bitstreams/1a658b23-8942-4703-a2f4-f165ecc214c1/download](https://aaltodoc.aalto.fi/bitstreams/1a658b23-8942-4703-a2f4-f165ecc214c1/download)  
-48. Large Language Models in Argument Mining: A Survey \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2506.16383v6](https://arxiv.org/html/2506.16383v6)  
+46. Large Language Models in Argument Mining: A Survey - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2506.16383v3](https://arxiv.org/html/2506.16383v3)  
+47. Discursive (de)-legitimation strategies in the media - Aaltodoc, accessed May 14, 2026, [https://aaltodoc.aalto.fi/bitstreams/1a658b23-8942-4703-a2f4-f165ecc214c1/download](https://aaltodoc.aalto.fi/bitstreams/1a658b23-8942-4703-a2f4-f165ecc214c1/download)  
+48. Large Language Models in Argument Mining: A Survey - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2506.16383v6](https://arxiv.org/html/2506.16383v6)  
 49. Mikhail Bakhtin's Dialogism and Intertextuality: A Perspective, accessed May 14, 2026, [http://englishlinguafranka.blogspot.com/2017/10/mikhail-bakhtins-dialogism-and.html](http://englishlinguafranka.blogspot.com/2017/10/mikhail-bakhtins-dialogism-and.html)  
-50. Explain Bakhtin's concept of Heteroglossia and how it defines a novel's unique characteristics. \- eNotes.com, accessed May 14, 2026, [https://www.enotes.com/topics/mikhail-bakhtin/questions/explain-bakhtins-concept-heteroglossia-how-does-419650](https://www.enotes.com/topics/mikhail-bakhtin/questions/explain-bakhtins-concept-heteroglossia-how-does-419650)  
-51. Heteroglossia and Boundaries \- SciSpace, accessed May 14, 2026, [https://scispace.com/pdf/heteroglossia-and-boundaries-5feychenpv.pdf](https://scispace.com/pdf/heteroglossia-and-boundaries-5feychenpv.pdf)  
-52. The unfolding of geopolitical tensions on social networks: a social network analysis of Twitter and Reddit conversations \- Emerald Publishing, accessed May 14, 2026, [https://www.emerald.com/intr/article/36/2/789/1251314/The-unfolding-of-geopolitical-tensions-on-social](https://www.emerald.com/intr/article/36/2/789/1251314/The-unfolding-of-geopolitical-tensions-on-social)  
-53. Bakhtin's Heteroglossia and Dialogism \- CORE, accessed May 14, 2026, [https://core.ac.uk/download/pdf/41689303.pdf](https://core.ac.uk/download/pdf/41689303.pdf)  
-54. MULTIPLICITY OF VOICES: A BAKHTINIAN READING OF JOHN CROWLEY'S THE TRANSLATOR \- AVESİS, accessed May 14, 2026, [https://avesis.deu.edu.tr/dosya?id=6cff72c0-b1db-4b24-8016-507e5127d4d2](https://avesis.deu.edu.tr/dosya?id=6cff72c0-b1db-4b24-8016-507e5127d4d2)  
-55. Academic Irregularities; Language and Neoliberalism in Higher Education \- Amazon S3, accessed May 14, 2026, [https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/languageandcommunication/sample\_chapters/discourse\_analysis\_cda/9781138673953-sample.pdf](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/languageandcommunication/sample_chapters/discourse_analysis_cda/9781138673953-sample.pdf)  
-56. MPVStance: Mitigating Hallucinations in Stance Detection with Multi-Perspective Verification \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.acl-long.53.pdf](https://aclanthology.org/2025.acl-long.53.pdf)  
-57. Validating Political Position Predictions of Arguments \- White Rose Research Online, accessed May 14, 2026, [https://eprints.whiterose.ac.uk/id/eprint/240335/1/Validating%20Political%20Position%20Predictions%20of%20Arguments.pdf](https://eprints.whiterose.ac.uk/id/eprint/240335/1/Validating%20Political%20Position%20Predictions%20of%20Arguments.pdf)  
-58. Large Language Models in Argument Mining: A Survey \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2506.16383v4](https://arxiv.org/html/2506.16383v4)  
+50. Explain Bakhtin's concept of Heteroglossia and how it defines a novel's unique characteristics. - eNotes.com, accessed May 14, 2026, [https://www.enotes.com/topics/mikhail-bakhtin/questions/explain-bakhtins-concept-heteroglossia-how-does-419650](https://www.enotes.com/topics/mikhail-bakhtin/questions/explain-bakhtins-concept-heteroglossia-how-does-419650)  
+51. Heteroglossia and Boundaries - SciSpace, accessed May 14, 2026, [https://scispace.com/pdf/heteroglossia-and-boundaries-5feychenpv.pdf](https://scispace.com/pdf/heteroglossia-and-boundaries-5feychenpv.pdf)  
+52. The unfolding of geopolitical tensions on social networks: a social network analysis of Twitter and Reddit conversations - Emerald Publishing, accessed May 14, 2026, [https://www.emerald.com/intr/article/36/2/789/1251314/The-unfolding-of-geopolitical-tensions-on-social](https://www.emerald.com/intr/article/36/2/789/1251314/The-unfolding-of-geopolitical-tensions-on-social)  
+53. Bakhtin's Heteroglossia and Dialogism - CORE, accessed May 14, 2026, [https://core.ac.uk/download/pdf/41689303.pdf](https://core.ac.uk/download/pdf/41689303.pdf)  
+54. MULTIPLICITY OF VOICES: A BAKHTINIAN READING OF JOHN CROWLEY'S THE TRANSLATOR - AVESİS, accessed May 14, 2026, [https://avesis.deu.edu.tr/dosya?id=6cff72c0-b1db-4b24-8016-507e5127d4d2](https://avesis.deu.edu.tr/dosya?id=6cff72c0-b1db-4b24-8016-507e5127d4d2)  
+55. Academic Irregularities; Language and Neoliberalism in Higher Education - Amazon S3, accessed May 14, 2026, [https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/languageandcommunication/sample_chapters/discourse_analysis_cda/9781138673953-sample.pdf](https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/languageandcommunication/sample_chapters/discourse_analysis_cda/9781138673953-sample.pdf)  
+56. MPVStance: Mitigating Hallucinations in Stance Detection with Multi-Perspective Verification - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.acl-long.53.pdf](https://aclanthology.org/2025.acl-long.53.pdf)  
+57. Validating Political Position Predictions of Arguments - White Rose Research Online, accessed May 14, 2026, [https://eprints.whiterose.ac.uk/id/eprint/240335/1/Validating%20Political%20Position%20Predictions%20of%20Arguments.pdf](https://eprints.whiterose.ac.uk/id/eprint/240335/1/Validating%20Political%20Position%20Predictions%20of%20Arguments.pdf)  
+58. Large Language Models in Argument Mining: A Survey - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2506.16383v4](https://arxiv.org/html/2506.16383v4)  
 59. Argumentative Human-AI Decision-Making: Toward AI Agents That Reason With Us, Not For Us, accessed May 14, 2026, [https://yeoh-lab.wustl.edu/assets/pdf/aamas-VasileiouRTY26.pdf](https://yeoh-lab.wustl.edu/assets/pdf/aamas-VasileiouRTY26.pdf)  
-60. Recoding Reality: A Case Study of YouTube Reactions to Generative AI Videos \- MDPI, accessed May 14, 2026, [https://www.mdpi.com/2079-8954/13/10/925](https://www.mdpi.com/2079-8954/13/10/925)  
-61. “Reddit's dark knight”: moral inversion, digital populism, and the aesthetic of resistance \- Frontiers, accessed May 14, 2026, [https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1780129/pdf](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1780129/pdf)  
+60. Recoding Reality: A Case Study of YouTube Reactions to Generative AI Videos - MDPI, accessed May 14, 2026, [https://www.mdpi.com/2079-8954/13/10/925](https://www.mdpi.com/2079-8954/13/10/925)  
+61. “Reddit's dark knight”: moral inversion, digital populism, and the aesthetic of resistance - Frontiers, accessed May 14, 2026, [https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1780129/pdf](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1780129/pdf)  
 62. The Ivanishvili System: An Audit of Informal Power in Georgia | CAT AGI, accessed May 14, 2026, [http://catagi.ge/knowledge-base/ivanishvili-system-audit](http://catagi.ge/knowledge-base/ivanishvili-system-audit)  
 63. A NATO ally's information war: Unmasking Turkey's global media ..., accessed May 14, 2026, [https://www.fdd.org/analysis/2026/05/08/a-nato-allys-information-war-unmasking-turkeys-global-media-strategy/](https://www.fdd.org/analysis/2026/05/08/a-nato-allys-information-war-unmasking-turkeys-global-media-strategy/)  
 64. arxiv.org, accessed May 14, 2026, [https://arxiv.org/html/2603.03267v1](https://arxiv.org/html/2603.03267v1)  
-65. Power/Knowledge by Michel Foucault | Literature and Writing | Research Starters \- EBSCO, accessed May 14, 2026, [https://www.ebsco.com/research-starters/literature-and-writing/powerknowledge-michel-foucault](https://www.ebsco.com/research-starters/literature-and-writing/powerknowledge-michel-foucault)  
+65. Power/Knowledge by Michel Foucault | Literature and Writing | Research Starters - EBSCO, accessed May 14, 2026, [https://www.ebsco.com/research-starters/literature-and-writing/powerknowledge-michel-foucault](https://www.ebsco.com/research-starters/literature-and-writing/powerknowledge-michel-foucault)  
 66. Constant Renewal of the Archaic: Problems in Mikhail Bakhtin's Genre Theory, accessed May 14, 2026, [https://ex-position.org/wp-content/uploads/2025/03/4-6-Ping-hui-Liao.pdf](https://ex-position.org/wp-content/uploads/2025/03/4-6-Ping-hui-Liao.pdf)  
-67. Social media analytics for YouTube comments: potential and limitations \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/319984237\_Social\_media\_analytics\_for\_YouTube\_comments\_potential\_and\_limitations](https://www.researchgate.net/publication/319984237_Social_media_analytics_for_YouTube_comments_potential_and_limitations)
+67. Social media analytics for YouTube comments: potential and limitations - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/319984237_Social_media_analytics_for_YouTube_comments_potential_and_limitations](https://www.researchgate.net/publication/319984237_Social_media_analytics_for_YouTube_comments_potential_and_limitations)
 
 ---
 
@@ -3226,7 +3226,7 @@ When a multimodal artifact includes data, it moves from social interaction into 
 
 Tufte argues that "graphical excellence is not about style—it's about truth".16 The primary metric for honesty in visualization is the Lie Factor, which measures the discrepancy between the size of the effect shown in the graphic and the actual size of the effect in the data.16
 
-Lie Factor \= (Size of effect shown in graphic) / (Size of effect in data)
+Lie Factor = (Size of effect shown in graphic) / (Size of effect in data)
 
 A Lie Factor of 1.0 represents an honest graphic. Deviations outside the range of 0.95 to 1.05 generally indicate unacceptable distortion.16 Common sources of high Lie Factors include using area to represent one-dimensional data (which creates a squared effect) or truncating the y-axis to exaggerate minor variations .
 
@@ -3234,7 +3234,7 @@ A Lie Factor of 1.0 represents an honest graphic. Deviations outside the range o
 
 Effective visualization maximizes the "data-ink ratio," which is the proportion of ink on a graphic devoted to the non-redundant display of data-information.18
 
-Data-Ink Ratio \= Data-ink / Total ink used to print the graphic
+Data-Ink Ratio = Data-ink / Total ink used to print the graphic
 
 Tufte advocates for the removal of "chartjunk"—unnecessary visual clutter like 3D effects, heavy gridlines, or decorative backgrounds—that distracts from the data and may signal that the data itself is not compelling enough.16 The goal is to maximize the density of information while minimizing the "noise" of non-essential ink.18
 
@@ -3333,7 +3333,7 @@ As Semantic Intelligence is integrated into Multimodal Large Language Models (ML
 
 Mechanical diagnoses of internal attention matrices reveal that RAG can actually "recorrupt" model generations.42
 
-1. **Visual Blindness (Cross-Modal Dominance)**: The retrieved text can absorb the entire attention budget, leading the model to ignore explicit, ground-truth visual evidence.42 This is characterized by a systemic suppression of visual attention mass (M\_vis) and a decline in visual attention sharpness (S\_vis).42  
+1. **Visual Blindness (Cross-Modal Dominance)**: The retrieved text can absorb the entire attention budget, leading the model to ignore explicit, ground-truth visual evidence.42 This is characterized by a systemic suppression of visual attention mass (M_vis) and a decline in visual attention sharpness (S_vis).42  
 2. **Positional Bias (The "Lost-in-the-Middle" Phenomenon)**: Models do not process retrieved text evenly, often showing an attention spike at the extreme boundaries (the first or last segments) of the text sequence.42 This can force the model to copy text from these positions rather than performing grounded reasoning.42
 
 ### **Repair Mechanisms: BAIR and Structured Input**
@@ -3383,47 +3383,47 @@ In sum, Report J establishes that meaning is never "trapped" in words. It is arr
 
 #### **Works cited**
 
-1. Reading Images: The Grammar of Visual Design \- 3rd Edition \- Gunther K \- Routledge, accessed May 14, 2026, [https://www.routledge.com/Reading-Images-The-Grammar-of-Visual-Design/Kress-Leeuwen/p/book/9780415672573](https://www.routledge.com/Reading-Images-The-Grammar-of-Visual-Design/Kress-Leeuwen/p/book/9780415672573)  
-2. Typography Design \- A Guide \- Adobe, accessed May 14, 2026, [https://www.adobe.com/creativecloud/design/discover/typography.html](https://www.adobe.com/creativecloud/design/discover/typography.html)  
-3. Verifying Provenance of Digital Media: Why the C2PA Specifications Fall Short \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.24890v1](https://arxiv.org/html/2604.24890v1)  
-4. C2PA for more transparency and trust in digital media \- Media and Learning Association, accessed May 14, 2026, [https://media-and-learning.eu/type/tools/c2pa-for-more-transparency-and-trust-in-digital-media/](https://media-and-learning.eu/type/tools/c2pa-for-more-transparency-and-trust-in-digital-media/)  
-5. Social Semiotics | Glossary of multimodal terms \- WordPress.com, accessed May 14, 2026, [https://multimodalityglossary.wordpress.com/social-semiotics/](https://multimodalityglossary.wordpress.com/social-semiotics/)  
-6. Sergei Eisenstein: The man, the method, the montage \- Videomaker, accessed May 14, 2026, [https://www.videomaker.com/how-to/directing/film-history/sergei-eisenstein-the-man-the-method-the-montage/](https://www.videomaker.com/how-to/directing/film-history/sergei-eisenstein-the-man-the-method-the-montage/)  
-7. Video: Edward Tufte | Background, Data Visualization & Principles \- Study.com, accessed May 14, 2026, [https://study.com/academy/lesson/video/edward-tufte-6-principles-of-graphical-integrity.html](https://study.com/academy/lesson/video/edward-tufte-6-principles-of-graphical-integrity.html)  
+1. Reading Images: The Grammar of Visual Design - 3rd Edition - Gunther K - Routledge, accessed May 14, 2026, [https://www.routledge.com/Reading-Images-The-Grammar-of-Visual-Design/Kress-Leeuwen/p/book/9780415672573](https://www.routledge.com/Reading-Images-The-Grammar-of-Visual-Design/Kress-Leeuwen/p/book/9780415672573)  
+2. Typography Design - A Guide - Adobe, accessed May 14, 2026, [https://www.adobe.com/creativecloud/design/discover/typography.html](https://www.adobe.com/creativecloud/design/discover/typography.html)  
+3. Verifying Provenance of Digital Media: Why the C2PA Specifications Fall Short - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.24890v1](https://arxiv.org/html/2604.24890v1)  
+4. C2PA for more transparency and trust in digital media - Media and Learning Association, accessed May 14, 2026, [https://media-and-learning.eu/type/tools/c2pa-for-more-transparency-and-trust-in-digital-media/](https://media-and-learning.eu/type/tools/c2pa-for-more-transparency-and-trust-in-digital-media/)  
+5. Social Semiotics | Glossary of multimodal terms - WordPress.com, accessed May 14, 2026, [https://multimodalityglossary.wordpress.com/social-semiotics/](https://multimodalityglossary.wordpress.com/social-semiotics/)  
+6. Sergei Eisenstein: The man, the method, the montage - Videomaker, accessed May 14, 2026, [https://www.videomaker.com/how-to/directing/film-history/sergei-eisenstein-the-man-the-method-the-montage/](https://www.videomaker.com/how-to/directing/film-history/sergei-eisenstein-the-man-the-method-the-montage/)  
+7. Video: Edward Tufte | Background, Data Visualization & Principles - Study.com, accessed May 14, 2026, [https://study.com/academy/lesson/video/edward-tufte-6-principles-of-graphical-integrity.html](https://study.com/academy/lesson/video/edward-tufte-6-principles-of-graphical-integrity.html)  
 8. Tufte's 6 Principles for Graphical Integrity (Adopted for Service Design), accessed May 14, 2026, [https://internationalservicedesigninstitute.com/tuftes-6-principles-graphical-integrity-adopted-service-design/](https://internationalservicedesigninstitute.com/tuftes-6-principles-graphical-integrity-adopted-service-design/)  
-9. Why a Diagram is (Sometimes) Worth Ten Thousand Words \- Semantic Scholar, accessed May 14, 2026, [https://www.semanticscholar.org/paper/Why-a-Diagram-is-(Sometimes)-Worth-Ten-Thousand-Larkin-Simon/b7bdd9331ed1ecbc931ccaf50c091cd0bb8b71b7](https://www.semanticscholar.org/paper/Why-a-Diagram-is-\(Sometimes\)-Worth-Ten-Thousand-Larkin-Simon/b7bdd9331ed1ecbc931ccaf50c091cd0bb8b71b7)  
-10. Kress and van Leeuwen's Visual Grammar \- The Comm Spot, accessed May 14, 2026, [https://thecommspot.com/communication-basics/communication-theories/kress-and-van-leeuwen-visual-grammar-definition-examples-and-key-concepts/](https://thecommspot.com/communication-basics/communication-theories/kress-and-van-leeuwen-visual-grammar-definition-examples-and-key-concepts/)  
-11. READING IMAGES \- THE GRAMMAR OF VISUAL DESIGN \- VNU Journal of Science, accessed May 14, 2026, [https://js.vnu.edu.vn/FS/article/view/4217/3931](https://js.vnu.edu.vn/FS/article/view/4217/3931)  
-12. Dark Patterns in UI/UX Design. Dirty Secrets of Growth Hacking \- molfar.io, accessed May 14, 2026, [https://www.molfar.io/blog/dark-patterns](https://www.molfar.io/blog/dark-patterns)  
-13. The Cognitive Design of Tools of Thought \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/273501468\_The\_Cognitive\_Design\_of\_Tools\_of\_Thought](https://www.researchgate.net/publication/273501468_The_Cognitive_Design_of_Tools_of_Thought)  
+9. Why a Diagram is (Sometimes) Worth Ten Thousand Words - Semantic Scholar, accessed May 14, 2026, [https://www.semanticscholar.org/paper/Why-a-Diagram-is-(Sometimes)-Worth-Ten-Thousand-Larkin-Simon/b7bdd9331ed1ecbc931ccaf50c091cd0bb8b71b7](https://www.semanticscholar.org/paper/Why-a-Diagram-is-\(Sometimes)-Worth-Ten-Thousand-Larkin-Simon/b7bdd9331ed1ecbc931ccaf50c091cd0bb8b71b7)  
+10. Kress and van Leeuwen's Visual Grammar - The Comm Spot, accessed May 14, 2026, [https://thecommspot.com/communication-basics/communication-theories/kress-and-van-leeuwen-visual-grammar-definition-examples-and-key-concepts/](https://thecommspot.com/communication-basics/communication-theories/kress-and-van-leeuwen-visual-grammar-definition-examples-and-key-concepts/)  
+11. READING IMAGES - THE GRAMMAR OF VISUAL DESIGN - VNU Journal of Science, accessed May 14, 2026, [https://js.vnu.edu.vn/FS/article/view/4217/3931](https://js.vnu.edu.vn/FS/article/view/4217/3931)  
+12. Dark Patterns in UI/UX Design. Dirty Secrets of Growth Hacking - molfar.io, accessed May 14, 2026, [https://www.molfar.io/blog/dark-patterns](https://www.molfar.io/blog/dark-patterns)  
+13. The Cognitive Design of Tools of Thought - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/273501468_The_Cognitive_Design_of_Tools_of_Thought](https://www.researchgate.net/publication/273501468_The_Cognitive_Design_of_Tools_of_Thought)  
 14. Proxemics 101: Understanding Personal Space Across Cultures | The MIT Press Reader, accessed May 14, 2026, [https://thereader.mitpress.mit.edu/understanding-personal-space-proxemics/](https://thereader.mitpress.mit.edu/understanding-personal-space-proxemics/)  
-15. David Bordwell, accessed May 14, 2026, [https://ochre.lib.uchicago.edu/ochre?uuid=948d2612-c745-4a15-8e35-3b72878dc4a7\&load](https://ochre.lib.uchicago.edu/ochre?uuid=948d2612-c745-4a15-8e35-3b72878dc4a7&load)  
+15. David Bordwell, accessed May 14, 2026, [https://ochre.lib.uchicago.edu/ochre?uuid=948d2612-c745-4a15-8e35-3b72878dc4a7&load](https://ochre.lib.uchicago.edu/ochre?uuid=948d2612-c745-4a15-8e35-3b72878dc4a7&load)  
 16. Tufte's 6 Principles for Graphical Integrity | Chartbuddy, accessed May 14, 2026, [https://chartbuddy.io/blog/tuftes-principles-for-graphical-integrity](https://chartbuddy.io/blog/tuftes-principles-for-graphical-integrity)  
-17. Helvetica \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Helvetica](https://en.wikipedia.org/wiki/Helvetica)  
-18. Mastering Tufte's Data Visualization Principles \- GeeksforGeeks, accessed May 14, 2026, [https://www.geeksforgeeks.org/data-visualization/mastering-tuftes-data-visualization-principles/](https://www.geeksforgeeks.org/data-visualization/mastering-tuftes-data-visualization-principles/)  
+17. Helvetica - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Helvetica](https://en.wikipedia.org/wiki/Helvetica)  
+18. Mastering Tufte's Data Visualization Principles - GeeksforGeeks, accessed May 14, 2026, [https://www.geeksforgeeks.org/data-visualization/mastering-tuftes-data-visualization-principles/](https://www.geeksforgeeks.org/data-visualization/mastering-tuftes-data-visualization-principles/)  
 19. The Cognitive Design of Tools of Thought Barbara Tversky, accessed May 14, 2026, [https://hci.ucsd.edu/220/TverskyCogtiveDesign.pdf](https://hci.ucsd.edu/220/TverskyCogtiveDesign.pdf)  
-20. Cognitive Design Principles for Visualizations: Revealing and Instantiating, accessed May 14, 2026, [https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/plesforvisualization\_Revealingandinstantiating.PDF](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/plesforvisualization_Revealingandinstantiating.PDF)  
-21. C2PA User Experience Guidance for Implementers :: C2PA ..., accessed May 14, 2026, [https://spec.c2pa.org/specifications/specifications/2.0/ux/UX\_Recommendations.html](https://spec.c2pa.org/specifications/specifications/2.0/ux/UX_Recommendations.html)  
+20. Cognitive Design Principles for Visualizations: Revealing and Instantiating, accessed May 14, 2026, [https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/plesforvisualization_Revealingandinstantiating.PDF](https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/plesforvisualization_Revealingandinstantiating.PDF)  
+21. C2PA User Experience Guidance for Implementers :: C2PA ..., accessed May 14, 2026, [https://spec.c2pa.org/specifications/specifications/2.0/ux/UX_Recommendations.html](https://spec.c2pa.org/specifications/specifications/2.0/ux/UX_Recommendations.html)  
 22. Why a Diagram is (Sometimes) Worth Ten Thousand Words, accessed May 14, 2026, [https://mechanism.ucsd.edu/bill/teaching/F12/cs200/Readings/larkin.whyadiagramissometimesworth.1987.pdf](https://mechanism.ucsd.edu/bill/teaching/F12/cs200/Readings/larkin.whyadiagramissometimesworth.1987.pdf)  
-23. The Cognitive Science of Good Diagramming Innovation & Insights \- Diligent Rocket, accessed May 14, 2026, [https://www.diligentrocket.com/insights/the-cognitive-science-of-good-diagramming](https://www.diligentrocket.com/insights/the-cognitive-science-of-good-diagramming)  
-24. An exploration of the editing cut as an articulator in film through frequency domain analysis of spectator EEGs \- PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC12267235/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12267235/)  
-25. A PSYCHOLINGUISTIC APPROACH1 \- McNeill Gesture Lab, accessed May 14, 2026, [https://mcneilllab.uchicago.edu/pdfs/gesture.a\_psycholinguistic\_approach.cambridge.encyclop.pdf](https://mcneilllab.uchicago.edu/pdfs/gesture.a_psycholinguistic_approach.cambridge.encyclop.pdf)  
+23. The Cognitive Science of Good Diagramming Innovation & Insights - Diligent Rocket, accessed May 14, 2026, [https://www.diligentrocket.com/insights/the-cognitive-science-of-good-diagramming](https://www.diligentrocket.com/insights/the-cognitive-science-of-good-diagramming)  
+24. An exploration of the editing cut as an articulator in film through frequency domain analysis of spectator EEGs - PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC12267235/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12267235/)  
+25. A PSYCHOLINGUISTIC APPROACH1 - McNeill Gesture Lab, accessed May 14, 2026, [https://mcneilllab.uchicago.edu/pdfs/gesture.a_psycholinguistic_approach.cambridge.encyclop.pdf](https://mcneilllab.uchicago.edu/pdfs/gesture.a_psycholinguistic_approach.cambridge.encyclop.pdf)  
 26. 9 Dark Pattern Examples to Look Out For | Osano, accessed May 14, 2026, [https://www.osano.com/articles/dark-pattern-examples](https://www.osano.com/articles/dark-pattern-examples)  
 27. The Past, Present and Future of Helvetica | The Latest Print and Design News | Solopress, accessed May 14, 2026, [https://www.solopress.com/blog/print-inspiration/the-past-present-and-future-of-helvetica/](https://www.solopress.com/blog/print-inspiration/the-past-present-and-future-of-helvetica/)  
-28. Right place, right time: The complicated legacy of Helvetica, one of the world's most iconic typefaces \- Monotype, accessed May 14, 2026, [https://www.monotype.com/resources/articles/complicated-legacy-helvetica](https://www.monotype.com/resources/articles/complicated-legacy-helvetica)  
-29. Dark Patterns: When Design Crosses the Line | by UX Magazine \- Medium, accessed May 14, 2026, [https://uxmag.medium.com/dark-patterns-when-design-crosses-the-line-0539b7d527f2](https://uxmag.medium.com/dark-patterns-when-design-crosses-the-line-0539b7d527f2)  
-30. Dark Patterns in UX/UI Design and How to Avoid Them (22 Examples) \- Medium, accessed May 14, 2026, [https://medium.com/@arounda.agency/dark-patterns-in-ux-ui-design-and-how-to-avoid-them-22-examples-964e5cb0eb86](https://medium.com/@arounda.agency/dark-patterns-in-ux-ui-design-and-how-to-avoid-them-22-examples-964e5cb0eb86)  
-31. Accessibility: Alt Text \- Geological Society of America, accessed May 14, 2026, [https://www.geosociety.org/GSA/GSA/Pubs/alternative-text.aspx](https://www.geosociety.org/GSA/GSA/Pubs/alternative-text.aspx)  
-32. 18 Dark Patterns Examples That Manipulate Users (and How to Avoid Them) \- Eleken, accessed May 14, 2026, [https://www.eleken.co/blog-posts/dark-patterns-examples](https://www.eleken.co/blog-posts/dark-patterns-examples)  
-33. Alternative Text (Alt Text) | Visual Identity \- Columbia University, accessed May 14, 2026, [https://visualidentity.columbia.edu/content/alternative-text-alt-text-0](https://visualidentity.columbia.edu/content/alternative-text-alt-text-0)  
-34. (PDF) Design-Data Intelligence: Microhistories and Diagrammatic Reasoning, accessed May 14, 2026, [https://www.researchgate.net/publication/312153620\_Design-Data\_Intelligence\_Microhistories\_and\_Diagrammatic\_Reasoning](https://www.researchgate.net/publication/312153620_Design-Data_Intelligence_Microhistories_and_Diagrammatic_Reasoning)  
-35. Provide Alt Text for Images – Marketing & Communications | Texas A\&M University, accessed May 14, 2026, [https://marcomm.tamu.edu/accessibility/provide-alt-text-for-images/](https://marcomm.tamu.edu/accessibility/provide-alt-text-for-images/)  
+28. Right place, right time: The complicated legacy of Helvetica, one of the world's most iconic typefaces - Monotype, accessed May 14, 2026, [https://www.monotype.com/resources/articles/complicated-legacy-helvetica](https://www.monotype.com/resources/articles/complicated-legacy-helvetica)  
+29. Dark Patterns: When Design Crosses the Line | by UX Magazine - Medium, accessed May 14, 2026, [https://uxmag.medium.com/dark-patterns-when-design-crosses-the-line-0539b7d527f2](https://uxmag.medium.com/dark-patterns-when-design-crosses-the-line-0539b7d527f2)  
+30. Dark Patterns in UX/UI Design and How to Avoid Them (22 Examples) - Medium, accessed May 14, 2026, [https://medium.com/@arounda.agency/dark-patterns-in-ux-ui-design-and-how-to-avoid-them-22-examples-964e5cb0eb86](https://medium.com/@arounda.agency/dark-patterns-in-ux-ui-design-and-how-to-avoid-them-22-examples-964e5cb0eb86)  
+31. Accessibility: Alt Text - Geological Society of America, accessed May 14, 2026, [https://www.geosociety.org/GSA/GSA/Pubs/alternative-text.aspx](https://www.geosociety.org/GSA/GSA/Pubs/alternative-text.aspx)  
+32. 18 Dark Patterns Examples That Manipulate Users (and How to Avoid Them) - Eleken, accessed May 14, 2026, [https://www.eleken.co/blog-posts/dark-patterns-examples](https://www.eleken.co/blog-posts/dark-patterns-examples)  
+33. Alternative Text (Alt Text) | Visual Identity - Columbia University, accessed May 14, 2026, [https://visualidentity.columbia.edu/content/alternative-text-alt-text-0](https://visualidentity.columbia.edu/content/alternative-text-alt-text-0)  
+34. (PDF) Design-Data Intelligence: Microhistories and Diagrammatic Reasoning, accessed May 14, 2026, [https://www.researchgate.net/publication/312153620_Design-Data_Intelligence_Microhistories_and_Diagrammatic_Reasoning](https://www.researchgate.net/publication/312153620_Design-Data_Intelligence_Microhistories_and_Diagrammatic_Reasoning)  
+35. Provide Alt Text for Images – Marketing & Communications | Texas A&M University, accessed May 14, 2026, [https://marcomm.tamu.edu/accessibility/provide-alt-text-for-images/](https://marcomm.tamu.edu/accessibility/provide-alt-text-for-images/)  
 36. Alt text and digital accessibility: how it works | Eye-Able, accessed May 14, 2026, [https://eye-able.com/blog/ai-accessibility-how-organizations-create-inclusive-digital-experiences](https://eye-able.com/blog/ai-accessibility-how-organizations-create-inclusive-digital-experiences)  
 37. Dark Patterns: 12 Deceptive UX Designs to Avoid | CorsoUX, accessed May 14, 2026, [https://courseux.com/dark-patterns/](https://courseux.com/dark-patterns/)  
 38. How Alt Text Accessibility Supports Low-Vision Users, accessed May 14, 2026, [https://beaccessible.com/post/alt-text-accessibility/](https://beaccessible.com/post/alt-text-accessibility/)  
 39. Structured Attention Matters to Multimodal LLMs in Document Understanding | OpenReview, accessed May 14, 2026, [https://openreview.net/forum?id=3OnJAvuxd3](https://openreview.net/forum?id=3OnJAvuxd3)  
-40. Larkin & Simon: Why a diagram is (sometimes) worth ten thousand words \- Jim Davies, accessed May 14, 2026, [http://www.jimdavies.org/summaries/larkin1987.html](http://www.jimdavies.org/summaries/larkin1987.html)  
-41. Helvetica \- Swiss Modernism's Ubiquity Crisis \- Learn That Yourself, accessed May 14, 2026, [https://learnthatyourself.com/helvetica-swiss-modernism-ubiquity-crisis/](https://learnthatyourself.com/helvetica-swiss-modernism-ubiquity-crisis/)  
+40. Larkin & Simon: Why a diagram is (sometimes) worth ten thousand words - Jim Davies, accessed May 14, 2026, [http://www.jimdavies.org/summaries/larkin1987.html](http://www.jimdavies.org/summaries/larkin1987.html)  
+41. Helvetica - Swiss Modernism's Ubiquity Crisis - Learn That Yourself, accessed May 14, 2026, [https://learnthatyourself.com/helvetica-swiss-modernism-ubiquity-crisis/](https://learnthatyourself.com/helvetica-swiss-modernism-ubiquity-crisis/)  
 42. The Cost of Context: Mitigating Textual Bias in Multimodal Retrieval-Augmented Generation, accessed May 14, 2026, [https://arxiv.org/html/2605.05594v1](https://arxiv.org/html/2605.05594v1)
 
 ---
@@ -3459,7 +3459,7 @@ While dictionaries often attempt to draw clear lines—using separate entries fo
 
 Cognitive linguistics models polysemy as a radial category system centered on a prototype sense.10 For the lexeme *bosh* (head), the physical organ serves as the central node, while "leader" or "top" function as peripheral nodes linked by metonymic or metaphorical mappings.10 This radial structure allows the language to adapt to new situations without losing its core coherence.10
 
-Systematic metonymy provides a highly predictable driver for polysemy.11 These patterns allow an intelligence to anticipate sense extensions across different domains. For instance, the **Building \<-\> Organization** pattern seen in *school* or *university* allows the system to navigate sentences like "The university changed its policy" (Organization) versus "The university is made of brick" (Building).11 Similar patterns—such as **Author \<-\> Works** ("I'm reading Jane Austen") or **Animal \<-\> Meat** ("The chicken was delicious")—must be modeled as systematic constraints that narrow the search space during sense disambiguation.11
+Systematic metonymy provides a highly predictable driver for polysemy.11 These patterns allow an intelligence to anticipate sense extensions across different domains. For instance, the **Building <-> Organization** pattern seen in *school* or *university* allows the system to navigate sentences like "The university changed its policy" (Organization) versus "The university is made of brick" (Building).11 Similar patterns—such as **Author <-> Works** ("I'm reading Jane Austen") or **Animal <-> Meat** ("The chicken was delicious")—must be modeled as systematic constraints that narrow the search space during sense disambiguation.11
 
 ## **Historical Semantic Drift: Meaning as Temporal Weather**
 
@@ -3469,11 +3469,11 @@ Meanings are not fixed attachments; they are historically situated and subject t
 
 | Mechanism | Direction of Shift | Historical Example | Modern/Digital Example |
 | :---- | :---- | :---- | :---- |
-| **Broadening** | Specific \-\> General | *Holiday* (Holy day) 21 | *Cookie* (Pastry \-\> Browser data) 21 |
-| **Narrowing** | General \-\> Specific | *Meat* (Any food) 18 | *Spam* (Canned meat \-\> Junk mail) 21 |
-| **Amelioration** | Neutral/Neg \-\> Positive | *Knight* (Servant) 14 | *Awesome* (Awe-inducing) 20 |
-| **Pejoration** | Neutral/Pos \-\> Negative | *Silly* (Blessed) 21 | *Spam* (Food \-\> Annoyance) 21 |
-| **Bleaching** | Contentful \-\> Abstract | *Arrive* (Reach shore) 18 | *Literally* (Literal \-\> Intensifier) 21 |
+| **Broadening** | Specific -> General | *Holiday* (Holy day) 21 | *Cookie* (Pastry -> Browser data) 21 |
+| **Narrowing** | General -> Specific | *Meat* (Any food) 18 | *Spam* (Canned meat -> Junk mail) 21 |
+| **Amelioration** | Neutral/Neg -> Positive | *Knight* (Servant) 14 | *Awesome* (Awe-inducing) 20 |
+| **Pejoration** | Neutral/Pos -> Negative | *Silly* (Blessed) 21 | *Spam* (Food -> Annoyance) 21 |
+| **Bleaching** | Contentful -> Abstract | *Arrive* (Reach shore) 18 | *Literally* (Literal -> Intensifier) 21 |
 
 Broadening, or generalization, allows a term like *arrive* (originally restricted to reaching a shore) to encompass any destination or mode of travel.18 Conversely, narrowing restricts a term like *deer* (originally "any animal") to a specific family of mammals.18 The instability layer must track these shifts to avoid retrieval decoy errors, where an system might interpret an archaic source through a modern broadened sense.18
 
@@ -3544,7 +3544,7 @@ A reclaimed term is highly sensitive to the speaker's position and the audience'
 | Mechanism of Reclamation | Linguistic Effect | Social Function |
 | :---- | :---- | :---- |
 | **Self-Labeling** | Group applies term to itself 33 | Reduces external negative perception 33 |
-| **Polarity Reversal** | Negative \-\> Positive evaluation 33 | Foster camaraderie and pride 35 |
+| **Polarity Reversal** | Negative -> Positive evaluation 33 | Foster camaraderie and pride 35 |
 | **Epistemic Challenge** | Break link to stereotype 33 | Challenge social power imbalances 35 |
 | **Weapons Control** | Neutralize derogatory force 33 | Remove tool from bigot's arsenal 33 |
 
@@ -3606,8 +3606,8 @@ In advanced prompt engineering, polysemy is transformed into a high-bandwidth co
 
 New frameworks treat prompts as analogs to programming constructs, formalizing their logic through mathematical primitives.40
 
-* **Condition (If-Else):** P(Input) \= A\_True if C(Input) \= True, otherwise A\_False. This allows for logical branching based on semantic triggers.40  
-* **Loop (For-Loop):** P(S) \= Union from i=1 to n of F(s\_i). This enables the repetitive processing of semantic sets.40  
+* **Condition (If-Else):** P(Input) = A_True if C(Input) = True, otherwise A_False. This allows for logical branching based on semantic triggers.40  
+* **Loop (For-Loop):** P(S) = Union from i=1 to n of F(s_i). This enables the repetitive processing of semantic sets.40  
 * **Function:** Prompts are treated as modular, atomic tasks that can be chained to form complex semantic networks.40
 
 ### **The Polysemic Prompt Lever Record**
@@ -3616,25 +3616,25 @@ A disciplined promptcraft artifact requires a record that tracks how polysemic t
 
 | Token | Active Senses Activated | Intended Resonance | Desired Dimensions | Bleed Risk |
 | :---- | :---- | :---- | :---- | :---- |
-| **Grounded** | Epistemic warrant \+ Electrical safety \+ Embodied reality | Reliability and stability | Truth-tracking \+ Physicality | Narrow literalism |
-| **Alignment** | Value safety \+ Typographical layout \+ Postural integrity | Coherent goal-direction | Moral \+ Aesthetic \+ Physical | Conflating safety with agreement |
-| **Architecture** | System design \+ Structural load \+ Aesthetic form | Systematic coherence | Technical \+ Visual \+ Strategic | Physical rigidity over-implied |
-| **Memory** | Cognitive retrieval \+ Data storage \+ Shared trauma | Longitudinal coherence | Bio-cognitive \+ Computational \+ Social | Capacity limits ignored |
-| **Interface** | Boundary layer \+ Interaction surface \+ Logic gate | Facilitated interaction | Relational \+ Physical \+ Logical | Dehumanization of nodes |
+| **Grounded** | Epistemic warrant + Electrical safety + Embodied reality | Reliability and stability | Truth-tracking + Physicality | Narrow literalism |
+| **Alignment** | Value safety + Typographical layout + Postural integrity | Coherent goal-direction | Moral + Aesthetic + Physical | Conflating safety with agreement |
+| **Architecture** | System design + Structural load + Aesthetic form | Systematic coherence | Technical + Visual + Strategic | Physical rigidity over-implied |
+| **Memory** | Cognitive retrieval + Data storage + Shared trauma | Longitudinal coherence | Bio-cognitive + Computational + Social | Capacity limits ignored |
+| **Interface** | Boundary layer + Interaction surface + Logic gate | Facilitated interaction | Relational + Physical + Logical | Dehumanization of nodes |
 
 ## **Operational Artifacts for the Instability Layer**
 
 The theory of semantic instability is translated into RAG-ready artifacts that ensure robust interpretation across variable contexts.
 
-### **1\. Sense Inventory Record**
+### **1. Sense Inventory Record**
 
 Used to map the lexical manifold of a token before retrieval or generation.15
 
 * **Token:** *Agent*  
-* **Senses:** \[A1\] Software entity 1; \[A2\] Legal fiduciary 41; \[A3\] Chemical catalyst; \[A4\] Espionage operative; \[A5\] Narrative character.42  
-* **Domain Anchors:** \[A1: Computing\], \[A2: Law\], \[A3: Chemistry\], \[A4: Intelligence\], \[A5: Literature\].
+* **Senses:** [A1] Software entity 1; [A2] Legal fiduciary 41; [A3] Chemical catalyst; [A4] Espionage operative; [A5] Narrative character.42  
+* **Domain Anchors:** [A1: Computing], [A2: Law], [A3: Chemistry], [A4: Intelligence], [A5: Literature].
 
-### **2\. Meaning Drift Record**
+### **2. Meaning Drift Record**
 
 Used to track the temporal index and prevent historical anachronism.20
 
@@ -3643,18 +3643,18 @@ Used to track the temporal index and prevent historical anachronism.20
 * **Date Range 2:** 2014-2020 (Sense: Awareness of systemic bias; Ameliorative/Neutral; Academic/Activist).  
 * **Date Range 3:** 2021-Present (Sense: Performative/Ideological excess; Pejorative; Political discourse).
 
-### **3\. Euphemism Cycle Tracker**
+### **3. Euphemism Cycle Tracker**
 
 Used to unpack institutional agency and track pejoration.31
 
 * **Concept:** Mass termination of employees.  
 * **Cycle 1:** Fired (Dysphemism).  
 * **Cycle 2:** Laid Off (Orthophemism).  
-* **Cycle 3:** Downsized (Euphemism \- Corporate).  
-* **Cycle 4:** Rightsized / Workforce reduction (Euphemism \- Institutional).  
-* **Cycle 5:** Career transition opportunity (Euphemism \- Softened).
+* **Cycle 3:** Downsized (Euphemism - Corporate).  
+* **Cycle 4:** Rightsized / Workforce reduction (Euphemism - Institutional).  
+* **Cycle 5:** Career transition opportunity (Euphemism - Softened).
 
-### **4\. Reclamation Context Record**
+### **4. Reclamation Context Record**
 
 Used to manage speaker-position-sensitive terms.33
 
@@ -3663,7 +3663,7 @@ Used to manage speaker-position-sensitive terms.33
 * **Out-Group (Heteronormative):** Potential slur, historically derogatory.33  
 * **Actionable Advice:** Preserve alternative readings; lower confidence if speaker position is unknown; warn about out-group usage risks.
 
-### **5\. Semantic Instability Failure & Repair Table**
+### **5. Semantic Instability Failure & Repair Table**
 
 A diagnostic tool for identifying and correcting interpretive errors.
 
@@ -3709,49 +3709,49 @@ Report K binds the machinery of Volumes I and II into a living, adaptive manifol
 
 #### **Works cited**
 
-1. (PDF) Strategic Polysemy in AI Discourse: A Philosophical Analysis ..., accessed May 14, 2026, [https://www.researchgate.net/publication/404143609\_Strategic\_Polysemy\_in\_AI\_Discourse\_A\_Philosophical\_Analysis\_of\_Language\_Hype\_and\_Power](https://www.researchgate.net/publication/404143609_Strategic_Polysemy_in_AI_Discourse_A_Philosophical_Analysis_of_Language_Hype_and_Power)  
-2. Do Humans (and Animals) Think in Poetic Language? \- Preprints.org, accessed May 14, 2026, [https://www.preprints.org/manuscript/202511.1166](https://www.preprints.org/manuscript/202511.1166)  
-3. A typology of strategic ambiguity | Download Scientific Diagram \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/figure/A-typology-of-strategic-ambiguity\_tbl1\_390246627](https://www.researchgate.net/figure/A-typology-of-strategic-ambiguity_tbl1_390246627)  
+1. (PDF) Strategic Polysemy in AI Discourse: A Philosophical Analysis ..., accessed May 14, 2026, [https://www.researchgate.net/publication/404143609_Strategic_Polysemy_in_AI_Discourse_A_Philosophical_Analysis_of_Language_Hype_and_Power](https://www.researchgate.net/publication/404143609_Strategic_Polysemy_in_AI_Discourse_A_Philosophical_Analysis_of_Language_Hype_and_Power)  
+2. Do Humans (and Animals) Think in Poetic Language? - Preprints.org, accessed May 14, 2026, [https://www.preprints.org/manuscript/202511.1166](https://www.preprints.org/manuscript/202511.1166)  
+3. A typology of strategic ambiguity | Download Scientific Diagram - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/figure/A-typology-of-strategic-ambiguity_tbl1_390246627](https://www.researchgate.net/figure/A-typology-of-strategic-ambiguity_tbl1_390246627)  
 4. Sperber & Wilson, accessed May 14, 2026, [https://cognitionandculture.net/wp-content/uploads/sperberwilson.pdf](https://cognitionandculture.net/wp-content/uploads/sperberwilson.pdf)  
-5. 7\. Pragmatics \- Stanford University, accessed May 14, 2026, [https://web.stanford.edu/\~cgpotts/papers/potts-pragmatics-oupcompling.pdf](https://web.stanford.edu/~cgpotts/papers/potts-pragmatics-oupcompling.pdf)  
+5. 7. Pragmatics - Stanford University, accessed May 14, 2026, [https://web.stanford.edu/~cgpotts/papers/potts-pragmatics-oupcompling.pdf](https://web.stanford.edu/~cgpotts/papers/potts-pragmatics-oupcompling.pdf)  
 6. Meaning and Relevance | Deirdre Wilson and Dan Sperber, accessed May 14, 2026, [https://retoricaepragmatica.wordpress.com/wp-content/uploads/2019/02/deirdre-wilson-dan-sperber-meaning-and-relevance-2012-cambridge-university-press.pdf](https://retoricaepragmatica.wordpress.com/wp-content/uploads/2019/02/deirdre-wilson-dan-sperber-meaning-and-relevance-2012-cambridge-university-press.pdf)  
-7. Dan Sperber and Deirdre Wilson Nicholas Allott University of Oslo \- UiO, accessed May 14, 2026, [https://www.hf.uio.no/ilos/english/people/aca/nicholea/allott-n.-(2024).-dan-sperber-and-deirdre-wilson.-in-c.-a.-chapelle-(ed.)-the-encyclopedia-of-applied-linguistics--online-(2nd-ed.).-wiley.-https-doi.org10.10029781405198431.wbeal1451.pub2---postprint.pdf](https://www.hf.uio.no/ilos/english/people/aca/nicholea/allott-n.-\(2024\).-dan-sperber-and-deirdre-wilson.-in-c.-a.-chapelle-\(ed.\)-the-encyclopedia-of-applied-linguistics--online-\(2nd-ed.\).-wiley.-https-doi.org10.10029781405198431.wbeal1451.pub2---postprint.pdf)  
-8. Lexical semantics \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Lexical\_semantics](https://en.wikipedia.org/wiki/Lexical_semantics)  
+7. Dan Sperber and Deirdre Wilson Nicholas Allott University of Oslo - UiO, accessed May 14, 2026, [https://www.hf.uio.no/ilos/english/people/aca/nicholea/allott-n.-(2024).-dan-sperber-and-deirdre-wilson.-in-c.-a.-chapelle-(ed.)-the-encyclopedia-of-applied-linguistics--online-(2nd-ed.).-wiley.-https-doi.org10.10029781405198431.wbeal1451.pub2---postprint.pdf](https://www.hf.uio.no/ilos/english/people/aca/nicholea/allott-n.-\(2024).-dan-sperber-and-deirdre-wilson.-in-c.-a.-chapelle-\(ed.)-the-encyclopedia-of-applied-linguistics--online-\(2nd-ed.).-wiley.-https-doi.org10.10029781405198431.wbeal1451.pub2---postprint.pdf)  
+8. Lexical semantics - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Lexical_semantics](https://en.wikipedia.org/wiki/Lexical_semantics)  
 9. Lexical Semantics Homonymy and Polysemy in English Zahraa ..., accessed May 14, 2026, [https://coehuman.uodiyala.edu.iq/uploads/2022/12-20-2022/%D8%B2%D9%87%D8%B1%D8%A7%D8%A1%20%D8%AD%D8%B3%D9%86%20%D9%88%20%D9%81%D8%A7%D8%B7%D9%85%D8%A9%20%D8%A8%D8%B4%D8%A7%D8%B1.pdf](https://coehuman.uodiyala.edu.iq/uploads/2022/12-20-2022/%D8%B2%D9%87%D8%B1%D8%A7%D8%A1%20%D8%AD%D8%B3%D9%86%20%D9%88%20%D9%81%D8%A7%D8%B7%D9%85%D8%A9%20%D8%A8%D8%B4%D8%A7%D8%B1.pdf)  
-10. THE COMPARATIVE ANALYSIS OF THE CONCEPTS OF POLYSEMY AND HOMONYMY \- Science-Research, accessed May 14, 2026, [https://science-research.org.uz/index.php/UJAMR/article/download/732/1041/1455](https://science-research.org.uz/index.php/UJAMR/article/download/732/1041/1455)  
-11. 19 LEXICAL SEMANTICS \- Stanford University, accessed May 14, 2026, [https://web.stanford.edu/class/linguist1/Rdgs/JM19.pdf](https://web.stanford.edu/class/linguist1/Rdgs/JM19.pdf)  
-12. Understanding Lexical and Sense Relations | PDF \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/773282805/BS-4th-semantics-Sense-Relations-and-Lexical-Relations-by-Qurratulayn-Khan](https://www.scribd.com/document/773282805/BS-4th-semantics-Sense-Relations-and-Lexical-Relations-by-Qurratulayn-Khan)  
-13. Lexical Relations \- Intro to Semantics and Pragmatics \- Fiveable, accessed May 14, 2026, [https://fiveable.me/lists/lexical-relations](https://fiveable.me/lists/lexical-relations)  
-14. (PDF) Analyzing semantic shifts in English and German by exploring historical influences and societal dynamics \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/381722204\_Analyzing\_semantic\_shifts\_in\_English\_and\_German\_by\_exploring\_historical\_influences\_and\_societal\_dynamics](https://www.researchgate.net/publication/381722204_Analyzing_semantic_shifts_in_English_and_German_by_exploring_historical_influences_and_societal_dynamics)  
-15. A Hypothesis-Driven Framework for Detecting ... \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/anthology-files/pdf/clicit/2025.clicit-1.19.pdf](https://aclanthology.org/anthology-files/pdf/clicit/2025.clicit-1.19.pdf)  
-16. (PDF) Distinguishing Between Polysemy and Homonymy \- Academia.edu, accessed May 14, 2026, [https://www.academia.edu/97284630/Distinguishing\_Between\_Polysemy\_and\_Homonymy](https://www.academia.edu/97284630/Distinguishing_Between_Polysemy_and_Homonymy)  
-17. Vagueness as Impossibility \- Texas Law Review, accessed May 14, 2026, [https://texaslawreview.org/vagueness-as-impossibility/](https://texaslawreview.org/vagueness-as-impossibility/)  
-18. 14.6 Semantic change – Essentials of Linguistics, 2nd edition \- eCampusOntario Pressbooks, accessed May 14, 2026, [https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/14-6-semantic-change/](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/14-6-semantic-change/)  
-19. 9430 PDFs | Review articles in POLYSEMY \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/topic/Polysemy/publications](https://www.researchgate.net/topic/Polysemy/publications)  
-20. Semantic change \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Semantic\_change](https://en.wikipedia.org/wiki/Semantic_change)  
+10. THE COMPARATIVE ANALYSIS OF THE CONCEPTS OF POLYSEMY AND HOMONYMY - Science-Research, accessed May 14, 2026, [https://science-research.org.uz/index.php/UJAMR/article/download/732/1041/1455](https://science-research.org.uz/index.php/UJAMR/article/download/732/1041/1455)  
+11. 19 LEXICAL SEMANTICS - Stanford University, accessed May 14, 2026, [https://web.stanford.edu/class/linguist1/Rdgs/JM19.pdf](https://web.stanford.edu/class/linguist1/Rdgs/JM19.pdf)  
+12. Understanding Lexical and Sense Relations | PDF - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/773282805/BS-4th-semantics-Sense-Relations-and-Lexical-Relations-by-Qurratulayn-Khan](https://www.scribd.com/document/773282805/BS-4th-semantics-Sense-Relations-and-Lexical-Relations-by-Qurratulayn-Khan)  
+13. Lexical Relations - Intro to Semantics and Pragmatics - Fiveable, accessed May 14, 2026, [https://fiveable.me/lists/lexical-relations](https://fiveable.me/lists/lexical-relations)  
+14. (PDF) Analyzing semantic shifts in English and German by exploring historical influences and societal dynamics - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/381722204_Analyzing_semantic_shifts_in_English_and_German_by_exploring_historical_influences_and_societal_dynamics](https://www.researchgate.net/publication/381722204_Analyzing_semantic_shifts_in_English_and_German_by_exploring_historical_influences_and_societal_dynamics)  
+15. A Hypothesis-Driven Framework for Detecting ... - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/anthology-files/pdf/clicit/2025.clicit-1.19.pdf](https://aclanthology.org/anthology-files/pdf/clicit/2025.clicit-1.19.pdf)  
+16. (PDF) Distinguishing Between Polysemy and Homonymy - Academia.edu, accessed May 14, 2026, [https://www.academia.edu/97284630/Distinguishing_Between_Polysemy_and_Homonymy](https://www.academia.edu/97284630/Distinguishing_Between_Polysemy_and_Homonymy)  
+17. Vagueness as Impossibility - Texas Law Review, accessed May 14, 2026, [https://texaslawreview.org/vagueness-as-impossibility/](https://texaslawreview.org/vagueness-as-impossibility/)  
+18. 14.6 Semantic change – Essentials of Linguistics, 2nd edition - eCampusOntario Pressbooks, accessed May 14, 2026, [https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/14-6-semantic-change/](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/14-6-semantic-change/)  
+19. 9430 PDFs | Review articles in POLYSEMY - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/topic/Polysemy/publications](https://www.researchgate.net/topic/Polysemy/publications)  
+20. Semantic change - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Semantic_change](https://en.wikipedia.org/wiki/Semantic_change)  
 21. SEMANTIC CHANGES IN ENGLISH WORDS: HISTORICAL AND MODERN PERSPECTIVES, accessed May 14, 2026, [https://usajournals.org/index.php/6/article/download/755/828/1593](https://usajournals.org/index.php/6/article/download/755/828/1593)  
 22. Is Word Sense Disambiguation Dead in the LLM Era?, accessed May 14, 2026, [https://ojs.aaai.org/index.php/AAAI/article/view/41331/45292](https://ojs.aaai.org/index.php/AAAI/article/view/41331/45292)  
-23. Semantic change \- Elizabeth Traugott, accessed May 14, 2026, [https://traugott.people.stanford.edu/sites/g/files/sbiybj28616/files/media/file/traugott2017a.pdf](https://traugott.people.stanford.edu/sites/g/files/sbiybj28616/files/media/file/traugott2017a.pdf)  
-24. Pragmatics \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Pragmatics](https://en.wikipedia.org/wiki/Pragmatics)  
-25. PRAGMATICS IN LINGUISTICS: AN EXPLORATION OF CONTEXTUAL MEANING | Modern Science and Research \- inLibrary, accessed May 14, 2026, [https://inlibrary.uz/index.php/science-research/article/view/87295](https://inlibrary.uz/index.php/science-research/article/view/87295)  
+23. Semantic change - Elizabeth Traugott, accessed May 14, 2026, [https://traugott.people.stanford.edu/sites/g/files/sbiybj28616/files/media/file/traugott2017a.pdf](https://traugott.people.stanford.edu/sites/g/files/sbiybj28616/files/media/file/traugott2017a.pdf)  
+24. Pragmatics - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Pragmatics](https://en.wikipedia.org/wiki/Pragmatics)  
+25. PRAGMATICS IN LINGUISTICS: AN EXPLORATION OF CONTEXTUAL MEANING | Modern Science and Research - inLibrary, accessed May 14, 2026, [https://inlibrary.uz/index.php/science-research/article/view/87295](https://inlibrary.uz/index.php/science-research/article/view/87295)  
 26. Key Terms in Pragmatics | uogbooks, accessed May 14, 2026, [https://uogbooks.files.wordpress.com/2014/10/key-terms-in-pragmatics-by-nicholas-allott.pdf](https://uogbooks.files.wordpress.com/2014/10/key-terms-in-pragmatics-by-nicholas-allott.pdf)  
 27. Pragmatics | PragmaLingu, accessed May 14, 2026, [https://www.pragmalingu.de/docs/guides/pragmatics/](https://www.pragmalingu.de/docs/guides/pragmatics/)  
-28. Relevance theory \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Relevance\_theory](https://en.wikipedia.org/wiki/Relevance_theory)  
-29. Pragmatics | Dan Sperber, accessed May 14, 2026, [https://www.dan.sperber.fr/wp-content/uploads/1981\_wilson\_pragmatics.pdf](https://www.dan.sperber.fr/wp-content/uploads/1981_wilson_pragmatics.pdf)  
-30. Euphemism Treadmill (Deaf Studies Topics) \- Lifeprint, accessed May 14, 2026, [https://www.lifeprint.com/asl101/topics/euphemism-treadmill.htm](https://www.lifeprint.com/asl101/topics/euphemism-treadmill.htm)  
-31. Euphemism Treadmill \- Steven Pinker, accessed May 14, 2026, [https://stevenpinker.com/files/pinker/files/1994\_04\_03\_newyorktimes.pdf](https://stevenpinker.com/files/pinker/files/1994_04_03_newyorktimes.pdf)  
-32. Euphemism \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Euphemism](https://en.wikipedia.org/wiki/Euphemism)  
-33. Reclamation and the Epistemic Objectionability of Slurs \- Journal of ..., accessed May 14, 2026, [https://jesp.org/index.php/jesp/article/view/4092/588](https://jesp.org/index.php/jesp/article/view/4092/588)  
+28. Relevance theory - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Relevance_theory](https://en.wikipedia.org/wiki/Relevance_theory)  
+29. Pragmatics | Dan Sperber, accessed May 14, 2026, [https://www.dan.sperber.fr/wp-content/uploads/1981_wilson_pragmatics.pdf](https://www.dan.sperber.fr/wp-content/uploads/1981_wilson_pragmatics.pdf)  
+30. Euphemism Treadmill (Deaf Studies Topics) - Lifeprint, accessed May 14, 2026, [https://www.lifeprint.com/asl101/topics/euphemism-treadmill.htm](https://www.lifeprint.com/asl101/topics/euphemism-treadmill.htm)  
+31. Euphemism Treadmill - Steven Pinker, accessed May 14, 2026, [https://stevenpinker.com/files/pinker/files/1994_04_03_newyorktimes.pdf](https://stevenpinker.com/files/pinker/files/1994_04_03_newyorktimes.pdf)  
+32. Euphemism - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Euphemism](https://en.wikipedia.org/wiki/Euphemism)  
+33. Reclamation and the Epistemic Objectionability of Slurs - Journal of ..., accessed May 14, 2026, [https://jesp.org/index.php/jesp/article/view/4092/588](https://jesp.org/index.php/jesp/article/view/4092/588)  
 34. From derogation to reclamation: How does language change? | Magazine issue 5/2021, accessed May 14, 2026, [https://www.in-mind.org/article/from-derogation-to-reclamation-how-does-language-change](https://www.in-mind.org/article/from-derogation-to-reclamation-how-does-language-change)  
-35. (PDF) Slur reclamation, irony, and resilience \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/386381130\_Slur\_reclamation\_irony\_and\_resilience](https://www.researchgate.net/publication/386381130_Slur_reclamation_irony_and_resilience)  
-36. TTLF Working Papers \- Stanford Law School, accessed May 14, 2026, [https://law.stanford.edu/wp-content/uploads/2026/04/TTLF-WP-149-Alaskarova.pdf](https://law.stanford.edu/wp-content/uploads/2026/04/TTLF-WP-149-Alaskarova.pdf)  
-37. Materiality Tunnel Vision: Legal and Governance Perspectives \- wbcsd, accessed May 14, 2026, [https://www.wbcsd.org/news/materiality-tunnel-vision-legal-and-governance-perspectives/](https://www.wbcsd.org/news/materiality-tunnel-vision-legal-and-governance-perspectives/)  
+35. (PDF) Slur reclamation, irony, and resilience - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/386381130_Slur_reclamation_irony_and_resilience](https://www.researchgate.net/publication/386381130_Slur_reclamation_irony_and_resilience)  
+36. TTLF Working Papers - Stanford Law School, accessed May 14, 2026, [https://law.stanford.edu/wp-content/uploads/2026/04/TTLF-WP-149-Alaskarova.pdf](https://law.stanford.edu/wp-content/uploads/2026/04/TTLF-WP-149-Alaskarova.pdf)  
+37. Materiality Tunnel Vision: Legal and Governance Perspectives - wbcsd, accessed May 14, 2026, [https://www.wbcsd.org/news/materiality-tunnel-vision-legal-and-governance-perspectives/](https://www.wbcsd.org/news/materiality-tunnel-vision-legal-and-governance-perspectives/)  
 38. Unsupervised Word Sense Disambiguation Using Transformer's Attention Mechanism, accessed May 14, 2026, [https://www.mdpi.com/2504-4990/7/1/10](https://www.mdpi.com/2504-4990/7/1/10)  
 39. Advanced Prompt Engineering: Techniques to Unlock the Full Power of AI | by Jan Kisters | Mar, 2026 | Medium, accessed May 14, 2026, [https://medium.com/@jan230590/advanced-prompt-engineering-techniques-to-unlock-the-full-power-of-ai-e327e2a43229](https://medium.com/@jan230590/advanced-prompt-engineering-techniques-to-unlock-the-full-power-of-ai-e327e2a43229)  
-40. (PDF) Semantic AI Framework for Prompt Engineering \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/389692528\_Semantic\_AI\_Framework\_for\_Prompt\_Engineering](https://www.researchgate.net/publication/389692528_Semantic_AI_Framework_for_Prompt_Engineering)  
+40. (PDF) Semantic AI Framework for Prompt Engineering - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/389692528_Semantic_AI_Framework_for_Prompt_Engineering](https://www.researchgate.net/publication/389692528_Semantic_AI_Framework_for_Prompt_Engineering)  
 41. The euphemism treadmill | Hassans, accessed May 14, 2026, [https://www.gibraltarlaw.com/insights/post/102g9kp/the-euphemism-treadmill/](https://www.gibraltarlaw.com/insights/post/102g9kp/the-euphemism-treadmill/)  
-42. Subjectivity and Epistemicity Corpus, discourse, and literary approaches to stance \- Språk- och litteraturcentrum, accessed May 14, 2026, [https://www.sol.lu.se/fileadmin/\_migrated/content\_uploads/Subjectivity\_and\_Epistemicity\_conference\_abstract.pdf](https://www.sol.lu.se/fileadmin/_migrated/content_uploads/Subjectivity_and_Epistemicity_conference_abstract.pdf)  
-43. Large Language Models: A Structured Taxonomy and Review of Challenges, Limitations, Solutions, and Future Directions \- MDPI, accessed May 14, 2026, [https://www.mdpi.com/2076-3417/15/14/8103](https://www.mdpi.com/2076-3417/15/14/8103)
+42. Subjectivity and Epistemicity Corpus, discourse, and literary approaches to stance - Språk- och litteraturcentrum, accessed May 14, 2026, [https://www.sol.lu.se/fileadmin/_migrated/content_uploads/Subjectivity_and_Epistemicity_conference_abstract.pdf](https://www.sol.lu.se/fileadmin/_migrated/content_uploads/Subjectivity_and_Epistemicity_conference_abstract.pdf)  
+43. Large Language Models: A Structured Taxonomy and Review of Challenges, Limitations, Solutions, and Future Directions - MDPI, accessed May 14, 2026, [https://www.mdpi.com/2076-3417/15/14/8103](https://www.mdpi.com/2076-3417/15/14/8103)
 
 ---
 
@@ -3859,7 +3859,7 @@ Meaning adaptation under cultural constraint is the process of localization. It 
 
 ### **Wierzbicka and Natural Semantic Metalanguage (NSM)**
 
-Anna Wierzbicka developed the Natural Semantic Metalanguage (NSM) to avoid "conceptual artefacts" of Anglo-centric linguistics. The NSM identifies \~65 "semantic primes"—universal concepts like I, YOU, THINK, KNOW, WANT, GOOD, BAD, DO, HAPPEN—that are found in every language. By articulating "cultural scripts" using these primes, we can describe culture-specific norms from an "emic" (insider) perspective without using biased descriptors. For instance, the script for "naked" imperatives in Polish can be explained to an Anglo audience as "I want you to do this; I say it because I know you want to do it," whereas in Anglo culture, the script would involve "Maybe you will do this if I ask you nicely; I don't want to tell you what to do".
+Anna Wierzbicka developed the Natural Semantic Metalanguage (NSM) to avoid "conceptual artefacts" of Anglo-centric linguistics. The NSM identifies ~65 "semantic primes"—universal concepts like I, YOU, THINK, KNOW, WANT, GOOD, BAD, DO, HAPPEN—that are found in every language. By articulating "cultural scripts" using these primes, we can describe culture-specific norms from an "emic" (insider) perspective without using biased descriptors. For instance, the script for "naked" imperatives in Polish can be explained to an Anglo audience as "I want you to do this; I say it because I know you want to do it," whereas in Anglo culture, the script would involve "Maybe you will do this if I ask you nicely; I don't want to tell you what to do".
 
 ### **Pragmatic Force and Interactional Norms**
 
@@ -3896,7 +3896,7 @@ In RAG systems, meaning transfer is a retrieval problem before it is a generatio
 
 To operationalize Report L, the following artifacts are defined as diagnostic and generative templates for semantic intelligence systems.
 
-### **1\. Translation Equivalence Record**
+### **1. Translation Equivalence Record**
 
 Identifies the mapping strategy and names the untranslatable residue.
 
@@ -3908,7 +3908,7 @@ Identifies the mapping strategy and names the untranslatable residue.
 * **Untranslatable Residue:** "Consideration" entails a specific historical doctrine of exchange that is not present in the French legal system.  
 * **Risk:** Literal translation as "considération" (respect/regard) would invalidate the contract.
 
-### **2\. Domain Transfer Record**
+### **2. Domain Transfer Record**
 
 Converts expertise-compressed meaning for different stakeholders.
 
@@ -3919,18 +3919,18 @@ Converts expertise-compressed meaning for different stakeholders.
 * **Target Expression:** "You are having a heart attack. Your blood test shows a chemical that the heart releases when it is injured. We need to act quickly to open your arteries."  
 * **Warrant Check:** Preserve the sense of "acute" (emergency) without the jargon "troponin".
 
-### **3\. Stakeholder Vocabulary Crosswalk**
+### **3. Stakeholder Vocabulary Crosswalk**
 
 Prevents category collision by mapping overlapping institutional terms.
 
 | Stakeholder | Term | Category Definition | SSI Governance Term |
 | :---- | :---- | :---- | :---- |
-| **Legal** | **Client** | Party with contractual rights | Account\_Holder |
-| **Product** | **User** | Interaction actor in software | System\_Actor |
-| **Support** | **Member** | Individual with active subscription | Service\_Beneficiary |
-| **Medical** | **Patient** | Recipient of clinical care | Care\_Recipient |
+| **Legal** | **Client** | Party with contractual rights | Account_Holder |
+| **Product** | **User** | Interaction actor in software | System_Actor |
+| **Support** | **Member** | Individual with active subscription | Service_Beneficiary |
+| **Medical** | **Patient** | Recipient of clinical care | Care_Recipient |
 
-### **4\. Localization Risk Record**
+### **4. Localization Risk Record**
 
 Flags signs that do not travel safely across semiotic borders.
 
@@ -3940,7 +3940,7 @@ Flags signs that do not travel safely across semiotic borders.
 * **Risk:** Perceived as a vulgar, obscene gesture (Report J/Report I inheritance).  
 * **Repair Move:** Replace with a generic "Checkmark" or "Text Label".
 
-### **5\. Untranslatable Residue Ledger**
+### **5. Untranslatable Residue Ledger**
 
 Documents the "unmarked loss" for high-stakes contexts.
 
@@ -3950,7 +3950,7 @@ Documents the "unmarked loss" for high-stakes contexts.
 * **Residue:** "Coziness" captures physical comfort but loses the German sense of social solidarity and spiritual peace.  
 * **Status:** Explanatory gloss required for cultural or literary transfer.
 
-### **6\. False-Friend Alert**
+### **6. False-Friend Alert**
 
 Flags structural similarities that hide semantic divergence.
 
@@ -3959,7 +3959,7 @@ Flags structural similarities that hide semantic divergence.
 * **Alert:** "Actually" means in fact; "Actuellement" means at the moment.  
 * **Risk:** Temporal mismatch in event reporting.
 
-### **7\. Cultural Pragmatics Profile**
+### **7. Cultural Pragmatics Profile**
 
 Profiles interactional force for AI dialogue generation.
 
@@ -3969,7 +3969,7 @@ Profiles interactional force for AI dialogue generation.
 * **Taboo:** Direct disagreement in group settings (wa).  
 * **Repair:** Phrase disagreement as a "maybe" or "difficult" question.
 
-### **8\. Symbolic Transfer Check**
+### **8. Symbolic Transfer Check**
 
 Analyzes color and icon symbolism from Reports I and J.
 
@@ -3978,18 +3978,18 @@ Analyzes color and icon symbolism from Reports I and J.
 * **Target Logic (CN):** Luck / Prosperity / Celebration  
 * **Constraint:** Do not use red for "negative" financial alerts in Chinese markets without context.
 
-### **9\. Interoperability Mapping Record**
+### **9. Interoperability Mapping Record**
 
 Aligns disparate data schemas while preserving semantic relationships.
 
-* **Source Schema:** Field "Patient\_Name"  
-* **Target Schema:** Field "Legal\_Name"  
+* **Source Schema:** Field "Patient_Name"  
+* **Target Schema:** Field "Legal_Name"  
 * **Relationship Predicate:** skos:exactMatch  
 * **Source Schema:** Field "Status"  
-* **Target Schema:** Field "Clinical\_State"  
+* **Target Schema:** Field "Clinical_State"  
 * **Relationship Predicate:** skos:closeMatch (Warning: partial mapping).
 
-### **10\. Cross-Lingual Retrieval Check**
+### **10. Cross-Lingual Retrieval Check**
 
 Diagnostic for RAG pipelines.
 
@@ -3998,7 +3998,7 @@ Diagnostic for RAG pipelines.
 * **Result (Naive):** Retrieves documents about "treatment" (medical).  
 * **Repair Move:** Consult mandatory statistical glossary before embedding; boost "definitional" chunks.
 
-### **11\. Transfer Failure/Repair Table**
+### **11. Transfer Failure/Repair Table**
 
 Summary of common logistical errors and their SSI interventions.
 
@@ -4071,10 +4071,10 @@ This logistical discipline ensures that semantic intelligence remains interopera
 
 #### **Works cited**
 
-1. SPECIALIZED TRANSLATION WITHIN SKOPOS THEORY \- sc@upt.ro, accessed May 14, 2026, [https://www.sc.upt.ro/attachments/article/944/03\_04\_LAMBRACHE%20RADU.pdf](https://www.sc.upt.ro/attachments/article/944/03_04_LAMBRACHE%20RADU.pdf)  
-2. TRANSLATION THEORY AND PRACTICE: WITH THE EXAMPLE OF IDIOMS \- Western European Studies, accessed May 14, 2026, [https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816](https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816)  
+1. SPECIALIZED TRANSLATION WITHIN SKOPOS THEORY - sc@upt.ro, accessed May 14, 2026, [https://www.sc.upt.ro/attachments/article/944/03_04_LAMBRACHE%20RADU.pdf](https://www.sc.upt.ro/attachments/article/944/03_04_LAMBRACHE%20RADU.pdf)  
+2. TRANSLATION THEORY AND PRACTICE: WITH THE EXAMPLE OF IDIOMS - Western European Studies, accessed May 14, 2026, [https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816](https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816)  
 3. Critical Trajectories in Translation Studies | by Riaz Laghari | Medium, accessed May 14, 2026, [https://medium.com/@riazleghari/critical-trajectories-in-translation-studies-37d5c219ea00](https://medium.com/@riazleghari/critical-trajectories-in-translation-studies-37d5c219ea00)  
-4. Translation studies \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Translation\_studies](https://en.wikipedia.org/wiki/Translation_studies)  
+4. Translation studies - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Translation_studies](https://en.wikipedia.org/wiki/Translation_studies)  
 5. Exploring Translation Theories, accessed May 14, 2026, [https://parhamti.com/wp-content/uploads/2023/08/Exploring-Translation-Theories-2nd-ed.pdf](https://parhamti.com/wp-content/uploads/2023/08/Exploring-Translation-Theories-2nd-ed.pdf)
 
 ---
@@ -4230,8 +4230,8 @@ This record is used to document a specific failure event for the canon's diagnos
 * **SSI Layer Involved:**  
 * **Malfunction Category:**  
 * **Mechanism:**  
-* **Severity Scale:** \[1-5 based on financial, social, or physical harm risk\]  
-* **Intent Confidence:** \[Low (likely error) to High (likely manipulation based on repetition/incentive)\]  
+* **Severity Scale:** [1-5 based on financial, social, or physical harm risk]  
+* **Intent Confidence:** [Low (likely error) to High (likely manipulation based on repetition/incentive)]  
 * **Repair Move:**  
 * **Residual Uncertainty:**
 
@@ -4301,29 +4301,29 @@ This diagnostic overlay is the prerequisite for the implementation and governanc
 
 #### **Works cited**
 
-1. Post 365: The Noospheric AFEI Manifold ... \- Answer Overflow, accessed May 14, 2026, [https://cdn.answeroverflow.com/1502768856740135043/Post\_365\_\_The\_Noospheric\_AFEI\_Manifold\_Foundational\_Axiomatic\_Lexicon\_The\_Pathologization\_Ladder\_558\_Pages.pdf](https://cdn.answeroverflow.com/1502768856740135043/Post_365__The_Noospheric_AFEI_Manifold_Foundational_Axiomatic_Lexicon_The_Pathologization_Ladder_558_Pages.pdf)  
-2. A Systematic Theory of Argumentation: The pragma-dialectical approach \- Cambridge University Press & Assessment, accessed May 14, 2026, [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/CB6897BB7A63DD842D6F3264D9F87896/9780511616389c3\_p42-68\_CBO.pdf/a-model-of-a-critical-discussion.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/CB6897BB7A63DD842D6F3264D9F87896/9780511616389c3_p42-68_CBO.pdf/a-model-of-a-critical-discussion.pdf)  
-3. A Systematic Theory of Argumentation: The Pragma-Dialectical Approach \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/245101639\_A\_Systematic\_Theory\_of\_Argumentation\_The\_Pragma-Dialectical\_Approach](https://www.researchgate.net/publication/245101639_A_Systematic_Theory_of_Argumentation_The_Pragma-Dialectical_Approach)  
-4. BETWEEN TWO ELECTIONSThe role and significance of, accessed May 14, 2026, [https://cij.hu/hu/wp-content/uploads/2026/01/Between-two-elections\_The-role-and-significance-of-Russian-disinformation-in-Polish-and-Hungarian-societies-during-the-2025-and-2026-election-periods.pdf](https://cij.hu/hu/wp-content/uploads/2026/01/Between-two-elections_The-role-and-significance-of-Russian-disinformation-in-Polish-and-Hungarian-societies-during-the-2025-and-2026-election-periods.pdf)  
+1. Post 365: The Noospheric AFEI Manifold ... - Answer Overflow, accessed May 14, 2026, [https://cdn.answeroverflow.com/1502768856740135043/Post_365__The_Noospheric_AFEI_Manifold_Foundational_Axiomatic_Lexicon_The_Pathologization_Ladder_558_Pages.pdf](https://cdn.answeroverflow.com/1502768856740135043/Post_365__The_Noospheric_AFEI_Manifold_Foundational_Axiomatic_Lexicon_The_Pathologization_Ladder_558_Pages.pdf)  
+2. A Systematic Theory of Argumentation: The pragma-dialectical approach - Cambridge University Press & Assessment, accessed May 14, 2026, [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/CB6897BB7A63DD842D6F3264D9F87896/9780511616389c3_p42-68_CBO.pdf/a-model-of-a-critical-discussion.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/CB6897BB7A63DD842D6F3264D9F87896/9780511616389c3_p42-68_CBO.pdf/a-model-of-a-critical-discussion.pdf)  
+3. A Systematic Theory of Argumentation: The Pragma-Dialectical Approach - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/245101639_A_Systematic_Theory_of_Argumentation_The_Pragma-Dialectical_Approach](https://www.researchgate.net/publication/245101639_A_Systematic_Theory_of_Argumentation_The_Pragma-Dialectical_Approach)  
+4. BETWEEN TWO ELECTIONSThe role and significance of, accessed May 14, 2026, [https://cij.hu/hu/wp-content/uploads/2026/01/Between-two-elections_The-role-and-significance-of-Russian-disinformation-in-Polish-and-Hungarian-societies-during-the-2025-and-2026-election-periods.pdf](https://cij.hu/hu/wp-content/uploads/2026/01/Between-two-elections_The-role-and-significance-of-Russian-disinformation-in-Polish-and-Hungarian-societies-during-the-2025-and-2026-election-periods.pdf)  
 5. Ammunition, Drones, and Influence: Estonia's 2026 Assessment of Russia's Trajectory, accessed May 14, 2026, [https://complexdiscovery.com/ammunition-drones-and-influence-estonias-2026-assessment-of-russias-trajectory/](https://complexdiscovery.com/ammunition-drones-and-influence-estonias-2026-assessment-of-russias-trajectory/)  
-6. Semantics, Semiotics, and Symbols Volume 2\. F-J Operating Domains of Meaning Construction.md  
-7. (PDF) Between two elections: The role and significance of Russian disinformation in Polish and Hungarian societies during the 2025 and 2026 election periods \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/400031136\_Between\_two\_elections\_The\_role\_and\_significance\_of\_Russian\_disinformation\_in\_Polish\_and\_Hungarian\_societies\_during\_the\_2025\_and\_2026\_election\_periods](https://www.researchgate.net/publication/400031136_Between_two_elections_The_role_and_significance_of_Russian_disinformation_in_Polish_and_Hungarian_societies_during_the_2025_and_2026_election_periods)  
-8. Jason Stanley, How Propaganda Works \- Renee Jorgensen, accessed May 14, 2026, [https://www.reneebolinger.com/uploads/1/0/2/6/102668958/688753.pdf](https://www.reneebolinger.com/uploads/1/0/2/6/102668958/688753.pdf)  
+6. Semantics, Semiotics, and Symbols Volume 2. F-J Operating Domains of Meaning Construction.md  
+7. (PDF) Between two elections: The role and significance of Russian disinformation in Polish and Hungarian societies during the 2025 and 2026 election periods - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/400031136_Between_two_elections_The_role_and_significance_of_Russian_disinformation_in_Polish_and_Hungarian_societies_during_the_2025_and_2026_election_periods](https://www.researchgate.net/publication/400031136_Between_two_elections_The_role_and_significance_of_Russian_disinformation_in_Polish_and_Hungarian_societies_during_the_2025_and_2026_election_periods)  
+8. Jason Stanley, How Propaganda Works - Renee Jorgensen, accessed May 14, 2026, [https://www.reneebolinger.com/uploads/1/0/2/6/102668958/688753.pdf](https://www.reneebolinger.com/uploads/1/0/2/6/102668958/688753.pdf)  
 9. Jason Stanley, How Propaganda Works, Princeton, NJ: Princeton ..., accessed May 14, 2026, [https://ijoc.org/index.php/ijoc/article/download/7669/2097/27108](https://ijoc.org/index.php/ijoc/article/download/7669/2097/27108)  
-10. Dark Patterns (Chapter 9\) \- Human–Computer Interaction and U.S. Law, accessed May 14, 2026, [https://www.cambridge.org/core/books/humancomputer-interaction-and-us-law/dark-patterns/20FD8AC30F45E9EE09256EAEEB70B9FB](https://www.cambridge.org/core/books/humancomputer-interaction-and-us-law/dark-patterns/20FD8AC30F45E9EE09256EAEEB70B9FB)  
-11. How Propaganda Works \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/How\_Propaganda\_Works](https://en.wikipedia.org/wiki/How_Propaganda_Works)  
-12. Propaganda as a Mechanism of Manipulation and Encouragement to Action, accessed May 14, 2026, [https://www.rit.edu/croatia/sites/rit.edu.croatia/files/docs/Skuhala%20(RIThink).pdf](https://www.rit.edu/croatia/sites/rit.edu.croatia/files/docs/Skuhala%20\(RIThink\).pdf)  
-13. Stanley on Ideology \- Dialnet, accessed May 14, 2026, [https://dialnet.unirioja.es/descarga/articulo/5715802.pdf](https://dialnet.unirioja.es/descarga/articulo/5715802.pdf)  
+10. Dark Patterns (Chapter 9) - Human–Computer Interaction and U.S. Law, accessed May 14, 2026, [https://www.cambridge.org/core/books/humancomputer-interaction-and-us-law/dark-patterns/20FD8AC30F45E9EE09256EAEEB70B9FB](https://www.cambridge.org/core/books/humancomputer-interaction-and-us-law/dark-patterns/20FD8AC30F45E9EE09256EAEEB70B9FB)  
+11. How Propaganda Works - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/How_Propaganda_Works](https://en.wikipedia.org/wiki/How_Propaganda_Works)  
+12. Propaganda as a Mechanism of Manipulation and Encouragement to Action, accessed May 14, 2026, [https://www.rit.edu/croatia/sites/rit.edu.croatia/files/docs/Skuhala%20(RIThink).pdf](https://www.rit.edu/croatia/sites/rit.edu.croatia/files/docs/Skuhala%20\(RIThink).pdf)  
+13. Stanley on Ideology - Dialnet, accessed May 14, 2026, [https://dialnet.unirioja.es/descarga/articulo/5715802.pdf](https://dialnet.unirioja.es/descarga/articulo/5715802.pdf)  
 14. Debate with Images: Detecting Deceptive Behaviors in Multimodal Large Language Models, accessed May 14, 2026, [https://arxiv.org/html/2512.00349v1](https://arxiv.org/html/2512.00349v1)  
 15. Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models | OpenReview, accessed May 14, 2026, [https://openreview.net/forum?id=02NbD16OnA](https://openreview.net/forum?id=02NbD16OnA)  
 16. Dark Patterns Reconsidered: A Cross-Taxonomic and Conceptual ..., accessed May 14, 2026, [https://journal.stimykpn.ac.id/index.php/tb/article/view/586](https://journal.stimykpn.ac.id/index.php/tb/article/view/586)  
-17. \[2412.09147\] A Comprehensive Study on Dark Patterns \- arXiv, accessed May 14, 2026, [https://arxiv.org/abs/2412.09147](https://arxiv.org/abs/2412.09147)  
-18. Dark Patterns Reconsidered: A Cross-Taxonomic and Conceptual Mapping for Ethical Interface Design \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/394126124\_Dark\_Patterns\_Reconsidered\_A\_Cross-Taxonomic\_and\_Conceptual\_Mapping\_for\_Ethical\_Interface\_Design](https://www.researchgate.net/publication/394126124_Dark_Patterns_Reconsidered_A_Cross-Taxonomic_and_Conceptual_Mapping_for_Ethical_Interface_Design)  
+17. [2412.09147] A Comprehensive Study on Dark Patterns - arXiv, accessed May 14, 2026, [https://arxiv.org/abs/2412.09147](https://arxiv.org/abs/2412.09147)  
+18. Dark Patterns Reconsidered: A Cross-Taxonomic and Conceptual Mapping for Ethical Interface Design - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/394126124_Dark_Patterns_Reconsidered_A_Cross-Taxonomic_and_Conceptual_Mapping_for_Ethical_Interface_Design](https://www.researchgate.net/publication/394126124_Dark_Patterns_Reconsidered_A_Cross-Taxonomic_and_Conceptual_Mapping_for_Ethical_Interface_Design)  
 19. Debate with Image: Detecting Deceptive Behaviors in Multimodal Large Language Models, accessed May 14, 2026, [https://openreview.net/forum?id=CZxcst0Xbe](https://openreview.net/forum?id=CZxcst0Xbe)  
-20. AdversarialCoT: Single-Document Retrieval Poisoning for LLM Reasoning \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.12201v1](https://arxiv.org/html/2604.12201v1)  
-21. Your RAG is Unfair: Exposing Fairness Vulnerabilities in Retrieval-Augmented Generation via Backdoor Attacks o WARNING: This article only analyzes offensive language for academic purposes. Discretion is advised. \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2509.22486v1](https://arxiv.org/html/2509.22486v1)  
-22. Intent Laundering: AI Safety Datasets Are Not What They Seem \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.16729v3](https://arxiv.org/html/2602.16729v3)  
-23. Intent Laundering: AI Safety Datasets Are Not What They Seem \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.16729v1](https://arxiv.org/html/2602.16729v1)
+20. AdversarialCoT: Single-Document Retrieval Poisoning for LLM Reasoning - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2604.12201v1](https://arxiv.org/html/2604.12201v1)  
+21. Your RAG is Unfair: Exposing Fairness Vulnerabilities in Retrieval-Augmented Generation via Backdoor Attacks o WARNING: This article only analyzes offensive language for academic purposes. Discretion is advised. - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2509.22486v1](https://arxiv.org/html/2509.22486v1)  
+22. Intent Laundering: AI Safety Datasets Are Not What They Seem - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.16729v3](https://arxiv.org/html/2602.16729v3)  
+23. Intent Laundering: AI Safety Datasets Are Not What They Seem - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2602.16729v1](https://arxiv.org/html/2602.16729v1)
 
 ---
 
@@ -4342,7 +4342,7 @@ The implementation of this layer begins with the identification of 3–5 priorit
 | Priority Domain Selection | Narrow the focus to active AI use cases (e.g., Q3 spending analysis). | Domain Boundary Definitions 1 |
 | Semantic Asset Audit | Inventory existing glossaries and lineage in disconnected apps. | Consolidation Map 1 |
 | Class and Property Definition | Identify core entities (T-Box) and their attributes (e.g., Currency). | T-Box Schema 1 |
-| Relationship Mapping | Define logic (e.g., "Revenue includes Subscription\_Revenue"). | Constraint Graph 1 |
+| Relationship Mapping | Define logic (e.g., "Revenue includes Subscription_Revenue"). | Constraint Graph 1 |
 | Metadata Connectivity | Link ontology classes to physical tables and columns. | Lineage-Backed Graph 1 |
 
 This consolidation must account for the reality of semantic fragmentation. With organizations averaging nearly 900 applications and only 28% being integrated, meanings are frequently lost in the technical silos.1 The knowledge infrastructure serves as the unifying "meaning plane," ensuring that a concept like "Revenue" is consistently understood across different data pipelines.2 When this infrastructure is linked to live metadata through column-level lineage, it transforms from a theoretical model into a set of operational signals that the assistant can query during inference.1
@@ -4451,7 +4451,7 @@ Traditional metrics like BLEU or ROUGE are inadequate for evaluating semantic in
 
 The FactScore formula is formalized as:
 
-FactScore \= (ns / N) \* 100%
+FactScore = (ns / N) * 100%
 
 where ns is the number of supported atomic facts and N is the total number of atomic facts extracted.36 This metric allows for a nuanced, fine-grained analysis of outputs that may contain a mixture of supported and unsupported information. In practice, models like ChatGPT have been shown to achieve FactScores as low as 58%, highlighting the need for this level of scrutiny in production environments.34
 
@@ -4479,7 +4479,7 @@ In a HITL workflow, the assistant generates a recommendation and a justification
 | :---- | :---- | :---- |
 | HITL Gateway | High-risk, high-stakes decisions. | Mandatory "Approve/Edit" checkpoint before execution 8 |
 | HOTL Dashboard | Medium-risk, high-volume tasks. | Automated action with human monitoring for drift 41 |
-| Confidence-Based Routing | Dynamic, context-dependent risk. | Auto-escalation to human when confidence \< threshold 42 |
+| Confidence-Based Routing | Dynamic, context-dependent risk. | Auto-escalation to human when confidence < threshold 42 |
 | Shadow Reflection | Low-stakes, exploratory tasks. | Internal "Critic" loop for quality control 8 |
 
 ### **Confidence-Based Routing and Escalation Triggers**
@@ -4512,50 +4512,50 @@ Semantic intelligence becomes infrastructure when it is integrated into the deli
 
 #### **Works cited**
 
-1. Ontology in AI: Components, Standards & Agent Applications \- Atlan, accessed May 14, 2026, [https://atlan.com/know/what-is-ontology-in-ai/](https://atlan.com/know/what-is-ontology-in-ai/)  
+1. Ontology in AI: Components, Standards & Agent Applications - Atlan, accessed May 14, 2026, [https://atlan.com/know/what-is-ontology-in-ai/](https://atlan.com/know/what-is-ontology-in-ai/)  
 2. Ontology-Driven Enterprise Architecture for AI-Powered Software Delivery | by Prof. Mamdouh Alenezi | Medium, accessed May 14, 2026, [https://medium.com/@malenezi/ontology-driven-enterprise-architecture-for-ai-powered-software-delivery-58d6bfa38b3a](https://medium.com/@malenezi/ontology-driven-enterprise-architecture-for-ai-powered-software-delivery-58d6bfa38b3a)  
 3. Semantic AI and Knowledge Graphs | Data Reply, accessed May 14, 2026, [https://www.reply.com/data-reply/en/semantic-ai-and-knowledge-graphs](https://www.reply.com/data-reply/en/semantic-ai-and-knowledge-graphs)  
-4. Combining Knowledge Graphs With LLMs | Complete Guide \- Atlan, accessed May 14, 2026, [https://atlan.com/know/combining-knowledge-graphs-llms/](https://atlan.com/know/combining-knowledge-graphs-llms/)  
+4. Combining Knowledge Graphs With LLMs | Complete Guide - Atlan, accessed May 14, 2026, [https://atlan.com/know/combining-knowledge-graphs-llms/](https://atlan.com/know/combining-knowledge-graphs-llms/)  
 5. Routing for AI Agents: Building Adaptive and Context-Aware Systems | by NivaLabs AI, accessed May 14, 2026, [https://medium.com/@nivalabs.ai/routing-for-ai-agents-building-adaptive-and-context-aware-systems-d5044bc267ca](https://medium.com/@nivalabs.ai/routing-for-ai-agents-building-adaptive-and-context-aware-systems-d5044bc267ca)  
-6. Building Your First Ontology-Powered AI Agent (Step-by-Step) | by Nihal Parmar \- Medium, accessed May 14, 2026, [https://itznihal.medium.com/building-your-first-ontology-powered-ai-agent-step-by-step-e98c0ef1b7c8](https://itznihal.medium.com/building-your-first-ontology-powered-ai-agent-step-by-step-e98c0ef1b7c8)  
+6. Building Your First Ontology-Powered AI Agent (Step-by-Step) | by Nihal Parmar - Medium, accessed May 14, 2026, [https://itznihal.medium.com/building-your-first-ontology-powered-ai-agent-step-by-step-e98c0ef1b7c8](https://itznihal.medium.com/building-your-first-ontology-powered-ai-agent-step-by-step-e98c0ef1b7c8)  
 7. What Is SHACL?| Graphwise Fundamentals, accessed May 14, 2026, [https://graphwise.ai/fundamentals/what-is-shacl/](https://graphwise.ai/fundamentals/what-is-shacl/)  
-8. Architecting Autonomy: Modern Design Patterns for AI Assistants : r/artificial \- Reddit, accessed May 14, 2026, [https://www.reddit.com/r/artificial/comments/1qcvi7y/architecting\_autonomy\_modern\_design\_patterns\_for/](https://www.reddit.com/r/artificial/comments/1qcvi7y/architecting_autonomy_modern_design_patterns_for/)  
-9. 7 Must-Know Agentic AI Design Patterns \- MachineLearningMastery.com, accessed May 14, 2026, [https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/](https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/)  
-10. Semantic Router and Its Role in Designing Agentic Workflows \- The New Stack, accessed May 14, 2026, [https://thenewstack.io/semantic-router-and-its-role-in-designing-agentic-workflows/](https://thenewstack.io/semantic-router-and-its-role-in-designing-agentic-workflows/)  
-11. Chunking, Retrieval, and Re-ranking: An Empirical Evaluation of RAG Architectures for Policy Document Question Answering \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.15457v1](https://arxiv.org/html/2601.15457v1)  
-12. Unpacking Ambiguity: The Interaction of Polysemous Discourse Markers and Non-DM Signals \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.codi-1.2.pdf](https://aclanthology.org/2025.codi-1.2.pdf)  
-13. How to Build Human-in-the-Loop Oversight for Production AI Agents \- Galileo AI, accessed May 14, 2026, [https://galileo.ai/blog/human-in-the-loop-agent-oversight](https://galileo.ai/blog/human-in-the-loop-agent-oversight)  
-14. Polysemy (Chapter 6\) \- Cognitive Linguistics and Second Language Acquisition of Chinese, accessed May 14, 2026, [https://www.cambridge.org/core/books/cognitive-linguistics-and-second-language-acquisition-of-chinese/polysemy/5D00E442CB63ABE0B38F0C02A179C874](https://www.cambridge.org/core/books/cognitive-linguistics-and-second-language-acquisition-of-chinese/polysemy/5D00E442CB63ABE0B38F0C02A179C874)  
-15. Speaker-Specific Cues Influence Semantic Disambiguation \- PMC \- NIH, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC9579068/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9579068/)  
+8. Architecting Autonomy: Modern Design Patterns for AI Assistants : r/artificial - Reddit, accessed May 14, 2026, [https://www.reddit.com/r/artificial/comments/1qcvi7y/architecting_autonomy_modern_design_patterns_for/](https://www.reddit.com/r/artificial/comments/1qcvi7y/architecting_autonomy_modern_design_patterns_for/)  
+9. 7 Must-Know Agentic AI Design Patterns - MachineLearningMastery.com, accessed May 14, 2026, [https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/](https://machinelearningmastery.com/7-must-know-agentic-ai-design-patterns/)  
+10. Semantic Router and Its Role in Designing Agentic Workflows - The New Stack, accessed May 14, 2026, [https://thenewstack.io/semantic-router-and-its-role-in-designing-agentic-workflows/](https://thenewstack.io/semantic-router-and-its-role-in-designing-agentic-workflows/)  
+11. Chunking, Retrieval, and Re-ranking: An Empirical Evaluation of RAG Architectures for Policy Document Question Answering - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.15457v1](https://arxiv.org/html/2601.15457v1)  
+12. Unpacking Ambiguity: The Interaction of Polysemous Discourse Markers and Non-DM Signals - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2025.codi-1.2.pdf](https://aclanthology.org/2025.codi-1.2.pdf)  
+13. How to Build Human-in-the-Loop Oversight for Production AI Agents - Galileo AI, accessed May 14, 2026, [https://galileo.ai/blog/human-in-the-loop-agent-oversight](https://galileo.ai/blog/human-in-the-loop-agent-oversight)  
+14. Polysemy (Chapter 6) - Cognitive Linguistics and Second Language Acquisition of Chinese, accessed May 14, 2026, [https://www.cambridge.org/core/books/cognitive-linguistics-and-second-language-acquisition-of-chinese/polysemy/5D00E442CB63ABE0B38F0C02A179C874](https://www.cambridge.org/core/books/cognitive-linguistics-and-second-language-acquisition-of-chinese/polysemy/5D00E442CB63ABE0B38F0C02A179C874)  
+15. Speaker-Specific Cues Influence Semantic Disambiguation - PMC - NIH, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC9579068/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9579068/)  
 16. Detecting Semantic-level Polysemy Ambiguity by Fusing External Semantic Knowledge, accessed May 14, 2026, [https://pure.ecnu.edu.cn/en/publications/detecting-semantic-level-polysemy-ambiguity-by-fusing-external-se/](https://pure.ecnu.edu.cn/en/publications/detecting-semantic-level-polysemy-ambiguity-by-fusing-external-se/)  
-17. Translating ideology: AI rendering of US intelligence discourse on the Arab–Israeli conflict, accessed May 14, 2026, [https://www.researchgate.net/publication/400921306\_Translating\_ideology\_AI\_rendering\_of\_US\_intelligence\_discourse\_on\_the\_Arab-Israeli\_conflict](https://www.researchgate.net/publication/400921306_Translating_ideology_AI_rendering_of_US_intelligence_discourse_on_the_Arab-Israeli_conflict)  
-18. Critical Discourse Analysis Of Ideological Interdiscursivity In Selected Artificial Intelligence English Extracts \- International Journal of Environmental Sciences, accessed May 14, 2026, [https://theaspd.com/index.php/ijes/article/download/1513/1226/2956](https://theaspd.com/index.php/ijes/article/download/1513/1226/2956)  
-19. Article \- Critical Discourse Analysis Of Ideological Interdiscursivity In Selected Artificial Intelligence English Extracts \- Digital Repository, accessed May 14, 2026, [https://repository.uobaghdad.edu.iq/articles/nUKij5sBMeyNPGM3gN1y?page=2824](https://repository.uobaghdad.edu.iq/articles/nUKij5sBMeyNPGM3gN1y?page=2824)  
-20. About PROV \- Open Provenance, accessed May 14, 2026, [https://openprovenance.org/service/about.html](https://openprovenance.org/service/about.html)  
-21. PROV-O: The PROV Ontology \- Research Explorer \- The University of Manchester, accessed May 14, 2026, [https://research.manchester.ac.uk/en/publications/prov-o-the-prov-ontology/](https://research.manchester.ac.uk/en/publications/prov-o-the-prov-ontology/)  
-22. PROV-O: The PROV Ontology \- W3C, accessed May 14, 2026, [https://www.w3.org/TR/prov-o/](https://www.w3.org/TR/prov-o/)  
-23. GenProve: Learning to Generate Text with Fine-Grained Provenance \- arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.04932v2](https://arxiv.org/html/2601.04932v2)  
-24. Tracing the Data Trail: A Survey of Data Provenance, Transparency and Traceability in LLMs, accessed May 14, 2026, [https://www.researchgate.net/publication/399965419\_Tracing\_the\_Data\_Trail\_A\_Survey\_of\_Data\_Provenance\_Transparency\_and\_Traceability\_in\_LLMs](https://www.researchgate.net/publication/399965419_Tracing_the_Data_Trail_A_Survey_of_Data_Provenance_Transparency_and_Traceability_in_LLMs)  
-25. CiTO \- SPAR Ontologies, accessed May 14, 2026, [https://www.sparontologies.net/ontologies/cito](https://www.sparontologies.net/ontologies/cito)  
-26. (PDF) CiTO, the Citation Typing Ontology \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/45184167\_CiTO\_the\_Citation\_Typing\_Ontology](https://www.researchgate.net/publication/45184167_CiTO_the_Citation_Typing_Ontology)  
-27. CiTO, the Citation Typing Ontology \- PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC2903725/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2903725/)  
+17. Translating ideology: AI rendering of US intelligence discourse on the Arab–Israeli conflict, accessed May 14, 2026, [https://www.researchgate.net/publication/400921306_Translating_ideology_AI_rendering_of_US_intelligence_discourse_on_the_Arab-Israeli_conflict](https://www.researchgate.net/publication/400921306_Translating_ideology_AI_rendering_of_US_intelligence_discourse_on_the_Arab-Israeli_conflict)  
+18. Critical Discourse Analysis Of Ideological Interdiscursivity In Selected Artificial Intelligence English Extracts - International Journal of Environmental Sciences, accessed May 14, 2026, [https://theaspd.com/index.php/ijes/article/download/1513/1226/2956](https://theaspd.com/index.php/ijes/article/download/1513/1226/2956)  
+19. Article - Critical Discourse Analysis Of Ideological Interdiscursivity In Selected Artificial Intelligence English Extracts - Digital Repository, accessed May 14, 2026, [https://repository.uobaghdad.edu.iq/articles/nUKij5sBMeyNPGM3gN1y?page=2824](https://repository.uobaghdad.edu.iq/articles/nUKij5sBMeyNPGM3gN1y?page=2824)  
+20. About PROV - Open Provenance, accessed May 14, 2026, [https://openprovenance.org/service/about.html](https://openprovenance.org/service/about.html)  
+21. PROV-O: The PROV Ontology - Research Explorer - The University of Manchester, accessed May 14, 2026, [https://research.manchester.ac.uk/en/publications/prov-o-the-prov-ontology/](https://research.manchester.ac.uk/en/publications/prov-o-the-prov-ontology/)  
+22. PROV-O: The PROV Ontology - W3C, accessed May 14, 2026, [https://www.w3.org/TR/prov-o/](https://www.w3.org/TR/prov-o/)  
+23. GenProve: Learning to Generate Text with Fine-Grained Provenance - arXiv, accessed May 14, 2026, [https://arxiv.org/html/2601.04932v2](https://arxiv.org/html/2601.04932v2)  
+24. Tracing the Data Trail: A Survey of Data Provenance, Transparency and Traceability in LLMs, accessed May 14, 2026, [https://www.researchgate.net/publication/399965419_Tracing_the_Data_Trail_A_Survey_of_Data_Provenance_Transparency_and_Traceability_in_LLMs](https://www.researchgate.net/publication/399965419_Tracing_the_Data_Trail_A_Survey_of_Data_Provenance_Transparency_and_Traceability_in_LLMs)  
+25. CiTO - SPAR Ontologies, accessed May 14, 2026, [https://www.sparontologies.net/ontologies/cito](https://www.sparontologies.net/ontologies/cito)  
+26. (PDF) CiTO, the Citation Typing Ontology - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/45184167_CiTO_the_Citation_Typing_Ontology](https://www.researchgate.net/publication/45184167_CiTO_the_Citation_Typing_Ontology)  
+27. CiTO, the Citation Typing Ontology - PMC, accessed May 14, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC2903725/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2903725/)  
 28. CiTO, the Citation Typing Ontology, accessed May 14, 2026, [https://sparontologies.github.io/cito/current/cito.html](https://sparontologies.github.io/cito/current/cito.html)  
-29. Support for CiTO (Citation Typing Ontology) · quarto-dev · Discussion \#4176 \- GitHub, accessed May 14, 2026, [https://github.com/orgs/quarto-dev/discussions/4176](https://github.com/orgs/quarto-dev/discussions/4176)  
-30. SHACL \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/SHACL](https://en.wikipedia.org/wiki/SHACL)  
+29. Support for CiTO (Citation Typing Ontology) · quarto-dev · Discussion \#4176 - GitHub, accessed May 14, 2026, [https://github.com/orgs/quarto-dev/discussions/4176](https://github.com/orgs/quarto-dev/discussions/4176)  
+30. SHACL - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/SHACL](https://en.wikipedia.org/wiki/SHACL)  
 31. SHACL validation — GraphDB 11.3 documentation, accessed May 14, 2026, [https://graphdb.ontotext.com/documentation/11.3/shacl-validation.html](https://graphdb.ontotext.com/documentation/11.3/shacl-validation.html)  
-32. LLM Evaluation Metrics: The Ultimate LLM Evaluation Guide \- Confident AI, accessed May 14, 2026, [https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)  
+32. LLM Evaluation Metrics: The Ultimate LLM Evaluation Guide - Confident AI, accessed May 14, 2026, [https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)  
 33. 7 Key LLM Metrics to Enhance AI Reliability | Galileo, accessed May 14, 2026, [https://galileo.ai/blog/llm-performance-metrics](https://galileo.ai/blog/llm-performance-metrics)  
-34. FactScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation | Research \- AI at Meta, accessed May 14, 2026, [https://ai.meta.com/research/publications/factscore-fine-grained-atomic-evaluation-of-factual-precision-in-long-form-text-generation/](https://ai.meta.com/research/publications/factscore-fine-grained-atomic-evaluation-of-factual-precision-in-long-form-text-generation/)  
-35. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2023.emnlp-main.741/](https://aclanthology.org/2023.emnlp-main.741/)  
-36. FActScore: Metric for Factual Precision in LLMs \- Emergent Mind, accessed May 14, 2026, [https://www.emergentmind.com/topics/factscore](https://www.emergentmind.com/topics/factscore)  
+34. FactScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation | Research - AI at Meta, accessed May 14, 2026, [https://ai.meta.com/research/publications/factscore-fine-grained-atomic-evaluation-of-factual-precision-in-long-form-text-generation/](https://ai.meta.com/research/publications/factscore-fine-grained-atomic-evaluation-of-factual-precision-in-long-form-text-generation/)  
+35. FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2023.emnlp-main.741/](https://aclanthology.org/2023.emnlp-main.741/)  
+36. FActScore: Metric for Factual Precision in LLMs - Emergent Mind, accessed May 14, 2026, [https://www.emergentmind.com/topics/factscore](https://www.emergentmind.com/topics/factscore)  
 37. ALCE | Notion, accessed May 14, 2026, [https://openrag.notion.site/ALCE-6917fd66148f43bca3cec6982071887e](https://openrag.notion.site/ALCE-6917fd66148f43bca3cec6982071887e)  
-38. \[2305.14627\] ALCE: An Automatic Benchmark for Large Language Model Generations with Citations \- ar5iv, accessed May 14, 2026, [https://ar5iv.labs.arxiv.org/html/2305.14627](https://ar5iv.labs.arxiv.org/html/2305.14627)  
-39. Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2024.inlg-main.35.pdf](https://aclanthology.org/2024.inlg-main.35.pdf)  
-40. Human-in-the-Loop: A 2026 Guide to AI Oversight That Actually Works \- Strata Identity, accessed May 14, 2026, [https://www.strata.io/blog/agentic-identity/practicing-the-human-in-the-loop/](https://www.strata.io/blog/agentic-identity/practicing-the-human-in-the-loop/)  
-41. HITL vs. HOTL: Enterprise AI Oversight Implementation Guide 2026 \- Synvestable, accessed May 14, 2026, [https://www.synvestable.com/human-in-the-loop.html](https://www.synvestable.com/human-in-the-loop.html)  
-42. Human-in-the-loop AI in CX explained \- Parloa, accessed May 14, 2026, [https://www.parloa.com/knowledge-hub/human-in-the-loop-ai/](https://www.parloa.com/knowledge-hub/human-in-the-loop-ai/)  
-43. Will the Future of Agentic AI rely on Knowledge Graphs? \- Artefact, accessed May 14, 2026, [https://www.artefact.com/blog/will-the-future-of-agentic-ai-rely-on-knowledge-graphs/](https://www.artefact.com/blog/will-the-future-of-agentic-ai-rely-on-knowledge-graphs/)  
-44. VoltAgent/awesome-ai-agent-papers \- GitHub, accessed May 14, 2026, [https://github.com/VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers)  
-45. Centaur Evaluations \- Stanford Digital Economy Lab, accessed May 14, 2026, [https://digitaleconomy.stanford.edu/project/ai-centaur-benchmarks/](https://digitaleconomy.stanford.edu/project/ai-centaur-benchmarks/)
+38. [2305.14627] ALCE: An Automatic Benchmark for Large Language Model Generations with Citations - ar5iv, accessed May 14, 2026, [https://ar5iv.labs.arxiv.org/html/2305.14627](https://ar5iv.labs.arxiv.org/html/2305.14627)  
+39. Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/2024.inlg-main.35.pdf](https://aclanthology.org/2024.inlg-main.35.pdf)  
+40. Human-in-the-Loop: A 2026 Guide to AI Oversight That Actually Works - Strata Identity, accessed May 14, 2026, [https://www.strata.io/blog/agentic-identity/practicing-the-human-in-the-loop/](https://www.strata.io/blog/agentic-identity/practicing-the-human-in-the-loop/)  
+41. HITL vs. HOTL: Enterprise AI Oversight Implementation Guide 2026 - Synvestable, accessed May 14, 2026, [https://www.synvestable.com/human-in-the-loop.html](https://www.synvestable.com/human-in-the-loop.html)  
+42. Human-in-the-loop AI in CX explained - Parloa, accessed May 14, 2026, [https://www.parloa.com/knowledge-hub/human-in-the-loop-ai/](https://www.parloa.com/knowledge-hub/human-in-the-loop-ai/)  
+43. Will the Future of Agentic AI rely on Knowledge Graphs? - Artefact, accessed May 14, 2026, [https://www.artefact.com/blog/will-the-future-of-agentic-ai-rely-on-knowledge-graphs/](https://www.artefact.com/blog/will-the-future-of-agentic-ai-rely-on-knowledge-graphs/)  
+44. VoltAgent/awesome-ai-agent-papers - GitHub, accessed May 14, 2026, [https://github.com/VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers)  
+45. Centaur Evaluations - Stanford Digital Economy Lab, accessed May 14, 2026, [https://digitaleconomy.stanford.edu/project/ai-centaur-benchmarks/](https://digitaleconomy.stanford.edu/project/ai-centaur-benchmarks/)
 
 ---

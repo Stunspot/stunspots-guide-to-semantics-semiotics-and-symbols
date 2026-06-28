@@ -97,7 +97,7 @@ The Peircean model is essential for RAG because it accounts for the Object (grou
 
 | Feature | Saussurean Model (Dyadic) | Peircean Model (Triadic) | SSI Synthesis Recommendation |
 | :---- | :---- | :---- | :---- |
-| **Structure** | Signifier \+ Signified. 2 | Representamen \+ Object \+ Interpretant. 1 | Use Triadic for grounding/RAG; Dyadic for lexicons. |
+| **Structure** | Signifier + Signified. 2 | Representamen + Object + Interpretant. 1 | Use Triadic for grounding/RAG; Dyadic for lexicons. |
 | **Meaning** | Differential (this vs. that). 12 | Relational (this for that). 2 | Combine for comprehensive semantic mapping. |
 | **Referent** | Brackets/Excludes the referent. 4 | Includes the object as central. 2 | Peircean Object is the "ground truth" target. |
 | **Process** | Static (Synchronic). 12 | Dynamic (Semiosis). 2 | Conversation is modeled as Peircean semiosis. |
@@ -107,21 +107,21 @@ The Peircean model is essential for RAG because it accounts for the Object (grou
 
 A critical diagnostic capability for SSI is the ability to classify the relationship between a sign and its object.
 
-### **1\. Icons: Signification by Resemblance**
+### **1. Icons: Signification by Resemblance**
 
 An icon represents its object through shared qualities or likeness. 1
 
 * In AI/UI: A folder icon resembles a physical folder; a trash can resembles a bin. 28  
 * Failure Mode: Mistaking an icon for the thing itself (e.g., assuming a stylized diagram of an atom is a literal photograph).
 
-### **2\. Indices: Signification by Causal Connection**
+### **2. Indices: Signification by Causal Connection**
 
 An index represents its object through a direct physical or causal link. 2
 
 * In RAG: A citation is an index of the source. A timestamp is an index of a creation event. A hyperlink is an index of a remote resource. 8  
 * Failure Mode: A "false index" occurs when a citation points to a document that does not contain the claimed information.
 
-### **3\. Symbols: Signification by Convention**
+### **3. Symbols: Signification by Convention**
 
 A symbol represents its object through a socially agreed-upon rule or habit. 1
 
@@ -182,14 +182,14 @@ The assistant must distinguish between these layers. For example, in branding, a
 
 The assistant must apply domain-specific semiotic rules to maintain accuracy.
 
-### **1\. Legal and Regulatory Systems**
+### **1. Legal and Regulatory Systems**
 
 Law is a system of "multi-layered signification" where rules (symbols) infer deep social values (myths). 33
 
 * Example: A "No Stealing" rule denotes a prohibition but connotes the "sanctity of property". 33  
 * AI Duty: Recognize that legal signs are often "autopoietic"—self-referring systems that define their own reality. 33
 
-### **2\. Human-Computer Interaction (UI)**
+### **2. Human-Computer Interaction (UI)**
 
 UI elements are signs that provide affordances (possibilities for action) and signifiers (cues for that action). 28
 
@@ -199,21 +199,21 @@ UI elements are signs that provide affordances (possibilities for action) and si
   * Semantic level: A carrier of the "message delivery" meaning.  
   * Pragmatic level: An instrument of communication. 41
 
-### **3\. Scientific and Technical Diagrams**
+### **3. Scientific and Technical Diagrams**
 
 Scientific diagrams are iconic models of the territory.
 
 * Example: A graph is an icon of numerical trends.  
 * AI Duty: Distinguish between the diagram (icon) and the data it represents (referent) to prevent "map/territory collapse."
 
-### **4\. Digital Artifacts: Emojis and Memes**
+### **4. Digital Artifacts: Emojis and Memes**
 
 Emojis and memes are polysemic signs—their meaning is highly dependent on context and the receiver’s interpretive framework. 26
 
 * Emojis: Act as "affective anchors" that help decode the emotional valence of a text. 26  
 * Memes: Cultural "genes" that spread through imitation; they are "hybrid signs" combining image (icon), text (symbol), and cultural reference (index). 34
 
-### **5\. RAG Infrastructure**
+### **5. RAG Infrastructure**
 
 In RAG, metadata acts as "signs about signs". 13
 
@@ -282,24 +282,24 @@ To enable future retrieval and operational use, this report provides structured 
 
 | Field | Purpose | AI Benefit |
 | :---- | :---- | :---- |
-| sign\_vehicle\_type | Identify form (text, image, audio). | Select correct processing model. |
-| primary\_semiotic\_mode | Icon, Index, or Symbol. | Determine if truth is by likeness, connection, or rule. |
-| code\_system\_tag | e.g., legal\_US, medical\_ICD10. | Use appropriate translation logic. |
-| interpretive\_community | Target audience of the source. | Align connotation and register. |
-| indexical\_coordinates | Page, line, or timestamp. | Enable verifiable citations. 8 |
-| connotation\_warnings | Flag loaded sign-vehicles. | Avoid ideological bias. |
-| semiosis\_step | Index in the conversation loop. | Track recursive drift. |
+| sign_vehicle_type | Identify form (text, image, audio). | Select correct processing model. |
+| primary_semiotic_mode | Icon, Index, or Symbol. | Determine if truth is by likeness, connection, or rule. |
+| code_system_tag | e.g., legal_US, medical_ICD10. | Use appropriate translation logic. |
+| interpretive_community | Target audience of the source. | Align connotation and register. |
+| indexical_coordinates | Page, line, or timestamp. | Enable verifiable citations. 8 |
+| connotation_warnings | Flag loaded sign-vehicles. | Avoid ideological bias. |
+| semiosis_step | Index in the conversation loop. | Track recursive drift. |
 
 ### **Retrieval Tags and Chunking Guidance**
 
 For ingestion into a vector database, this report should be chunked with the following headings:
 
-* \#saussure-dyadic-model: For queries on structural difference and signifier/signified.  
-* \#peirce-triadic-model: For queries on grounding, objects, and recursive semiosis.  
-* \#icon-index-symbol-taxonomy: For diagnostic classification tasks.  
-* \#semiotic-failure-diagnostics: For error handling and hallucination detection.  
-* \#code-system-stabilization: For multi-domain translation and genre recognition.  
-* \#rag-indexical-integrity: For citation precision and metadata standards.
+* #saussure-dyadic-model: For queries on structural difference and signifier/signified.  
+* #peirce-triadic-model: For queries on grounding, objects, and recursive semiosis.  
+* #icon-index-symbol-taxonomy: For diagnostic classification tasks.  
+* #semiotic-failure-diagnostics: For error handling and hallucination detection.  
+* #code-system-stabilization: For multi-domain translation and genre recognition.  
+* #rag-indexical-integrity: For citation precision and metadata standards.
 
 ## **Boundary Discipline: Ownership and Deepening**
 
@@ -349,52 +349,52 @@ This report contributes the essential semiotic ontology and operational machiner
 
 #### **Works cited**
 
-1. How does Charles Sanders Peirce's triadic model of the sign differ from Saussure's dyadic one? What new dimensions does it introduce to meaning-making? \- Atlas, accessed May 14, 2026, [https://www.atlas.org/solution/80256bd8-a87e-4435-99fe-5c1779b4e5c5/how-does-charles-sanders-peirces-triadic-model-of-the-sign-differ-from-saussures-dyadic-one-what-new-dimensions-does-it-introduce-to-meaning-making](https://www.atlas.org/solution/80256bd8-a87e-4435-99fe-5c1779b4e5c5/how-does-charles-sanders-peirces-triadic-model-of-the-sign-differ-from-saussures-dyadic-one-what-new-dimensions-does-it-introduce-to-meaning-making)  
-2. Sign (semiotics) \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Sign\_(semiotics)](https://en.wikipedia.org/wiki/Sign_\(semiotics\))  
-3. Charles Morris's Semiotics Explained | PDF \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/969538701/Charles-William-Morris](https://www.scribd.com/document/969538701/Charles-William-Morris)  
-4. Semiotics for Beginners: Signs \- cs.Princeton, accessed May 14, 2026, [https://www.cs.princeton.edu/\~chazelle/courses/BIB/semio2.htm](https://www.cs.princeton.edu/~chazelle/courses/BIB/semio2.htm)  
-5. Saussurean Semiotics, accessed May 14, 2026, [https://cseweb.ucsd.edu/\~ddahlstr/cse271/saussure.php](https://cseweb.ucsd.edu/~ddahlstr/cse271/saussure.php)  
+1. How does Charles Sanders Peirce's triadic model of the sign differ from Saussure's dyadic one? What new dimensions does it introduce to meaning-making? - Atlas, accessed May 14, 2026, [https://www.atlas.org/solution/80256bd8-a87e-4435-99fe-5c1779b4e5c5/how-does-charles-sanders-peirces-triadic-model-of-the-sign-differ-from-saussures-dyadic-one-what-new-dimensions-does-it-introduce-to-meaning-making](https://www.atlas.org/solution/80256bd8-a87e-4435-99fe-5c1779b4e5c5/how-does-charles-sanders-peirces-triadic-model-of-the-sign-differ-from-saussures-dyadic-one-what-new-dimensions-does-it-introduce-to-meaning-making)  
+2. Sign (semiotics) - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Sign_(semiotics)](https://en.wikipedia.org/wiki/Sign_(semiotics))  
+3. Charles Morris's Semiotics Explained | PDF - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/969538701/Charles-William-Morris](https://www.scribd.com/document/969538701/Charles-William-Morris)  
+4. Semiotics for Beginners: Signs - cs.Princeton, accessed May 14, 2026, [https://www.cs.princeton.edu/~chazelle/courses/BIB/semio2.htm](https://www.cs.princeton.edu/~chazelle/courses/BIB/semio2.htm)  
+5. Saussurean Semiotics, accessed May 14, 2026, [https://cseweb.ucsd.edu/~ddahlstr/cse271/saussure.php](https://cseweb.ucsd.edu/~ddahlstr/cse271/saussure.php)  
 6. Umberto Eco and the Semiotics – Literary Theory and Criticism, accessed May 14, 2026, [https://literariness.org/2016/12/02/umberto-eco-and-the-semiotics/](https://literariness.org/2016/12/02/umberto-eco-and-the-semiotics/)  
-7. UMBERTO ECO \- marywood university | school of architecture, accessed May 14, 2026, [https://marywoodarchtheory.files.wordpress.com/2013/10/function-and-the-sign-the-semiotics-of-arch\_u-eco.pdf](https://marywoodarchtheory.files.wordpress.com/2013/10/function-and-the-sign-the-semiotics-of-arch_u-eco.pdf)  
+7. UMBERTO ECO - marywood university | school of architecture, accessed May 14, 2026, [https://marywoodarchtheory.files.wordpress.com/2013/10/function-and-the-sign-the-semiotics-of-arch_u-eco.pdf](https://marywoodarchtheory.files.wordpress.com/2013/10/function-and-the-sign-the-semiotics-of-arch_u-eco.pdf)  
 8. Index-RAG: Citation-first approach to RAG | by Praneeth Vadlapati ..., accessed May 14, 2026, [https://medium.com/@praneeth.v/index-rag-citation-first-approach-to-rag-0e948b9e12c1](https://medium.com/@praneeth.v/index-rag-citation-first-approach-to-rag-0e948b9e12c1)  
 9. Jakobson's Linguistic Model of Communication: Beyond the ..., accessed May 14, 2026, [https://journalism.university/fundamentals-of-development-and-communication/jakobsons-linguistic-model-communication-analysis/](https://journalism.university/fundamentals-of-development-and-communication/jakobsons-linguistic-model-communication-analysis/)  
-10. Semiotics according to Umberto Eco: Signs, Meaning and Culture \- Allensbach Hochschule, accessed May 14, 2026, [https://www.allensbach-hochschule.de/en/semiotics-according-to-umberto-eco-signs-meaning-and-culture/](https://www.allensbach-hochschule.de/en/semiotics-according-to-umberto-eco-signs-meaning-and-culture/)  
+10. Semiotics according to Umberto Eco: Signs, Meaning and Culture - Allensbach Hochschule, accessed May 14, 2026, [https://www.allensbach-hochschule.de/en/semiotics-according-to-umberto-eco-signs-meaning-and-culture/](https://www.allensbach-hochschule.de/en/semiotics-according-to-umberto-eco-signs-meaning-and-culture/)  
 11. Jakobson's Functions of Language | Lucidchart Blog, accessed May 14, 2026, [https://www.lucidchart.com/blog/jakobsons-functions-of-language](https://www.lucidchart.com/blog/jakobsons-functions-of-language)  
-12. The Fulfillment of Meaning: Peirce vs. Derrida | by The Dangerous Maybe \- Medium, accessed May 14, 2026, [https://thedangerousmaybe.medium.com/the-fulfillment-of-meaning-peirce-vs-derrida-c6fc4801da13](https://thedangerousmaybe.medium.com/the-fulfillment-of-meaning-peirce-vs-derrida-c6fc4801da13)  
+12. The Fulfillment of Meaning: Peirce vs. Derrida | by The Dangerous Maybe - Medium, accessed May 14, 2026, [https://thedangerousmaybe.medium.com/the-fulfillment-of-meaning-peirce-vs-derrida-c6fc4801da13](https://thedangerousmaybe.medium.com/the-fulfillment-of-meaning-peirce-vs-derrida-c6fc4801da13)  
 13. Retrieval augmented generation (RAG) and indexes in Microsoft Foundry, accessed May 14, 2026, [https://learn.microsoft.com/en-us/azure/foundry/concepts/retrieval-augmented-generation](https://learn.microsoft.com/en-us/azure/foundry/concepts/retrieval-augmented-generation)  
 14. How AI Systems Decide What to Cite: The Technical Mechanics of LLM Content Retrieval, accessed May 14, 2026, [https://discoveredlabs.com/blog/how-ai-systems-decide-what-to-cite-the-technical-mechanics-of-llm-content-retrieval](https://discoveredlabs.com/blog/how-ai-systems-decide-what-to-cite-the-technical-mechanics-of-llm-content-retrieval)  
-15. The sense of the interface: Applying semiotics to HCI research \- e-Repositori UPF, accessed May 14, 2026, [https://repositori.upf.edu/bitstreams/705c1497-8248-413a-bd32-f45e1286df8a/download](https://repositori.upf.edu/bitstreams/705c1497-8248-413a-bd32-f45e1286df8a/download)  
+15. The sense of the interface: Applying semiotics to HCI research - e-Repositori UPF, accessed May 14, 2026, [https://repositori.upf.edu/bitstreams/705c1497-8248-413a-bd32-f45e1286df8a/download](https://repositori.upf.edu/bitstreams/705c1497-8248-413a-bd32-f45e1286df8a/download)  
 16. Biosemiotics, accessed May 14, 2026, [https://www.cspeirce.com/menu/library/aboutcsp/brier/biosemiotics.doc](https://www.cspeirce.com/menu/library/aboutcsp/brier/biosemiotics.doc)  
-17. Introduction \- CDN, accessed May 14, 2026, [https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/1148/files/2015/10/Introduction-to-Semantics-vs.-Pragmatics-25oqjtk.pdf](https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/1148/files/2015/10/Introduction-to-Semantics-vs.-Pragmatics-25oqjtk.pdf)  
+17. Introduction - CDN, accessed May 14, 2026, [https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/1148/files/2015/10/Introduction-to-Semantics-vs.-Pragmatics-25oqjtk.pdf](https://bpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/d/1148/files/2015/10/Introduction-to-Semantics-vs.-Pragmatics-25oqjtk.pdf)  
 18. Morris « Research Pragmatism Cybrary, accessed May 14, 2026, [http://www.pragmatism.org/research/morris.htm](http://www.pragmatism.org/research/morris.htm)  
-19. Jakobson's Six Functions of Language | PDF \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/829563994/Roman-Jakobsons-Functions-of-Language](https://www.scribd.com/document/829563994/Roman-Jakobsons-Functions-of-Language)  
-20. Roman Jakobson : The Functions of Language / Signo \- Applied Semiotics Theories, accessed May 14, 2026, [https://www.signosemio.com/pages/jakobson/functions-of-language.php](https://www.signosemio.com/pages/jakobson/functions-of-language.php)  
-21. Jakobson's functions of language \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Jakobson%27s\_functions\_of\_language](https://en.wikipedia.org/wiki/Jakobson%27s_functions_of_language)  
-22. A Study of the Yori Lotman's Semiosphere Cultural Theory and Its Application in the Field of Analysis of Relations between Religion and Cinema, accessed May 14, 2026, [http://www.jsfc.ir/article\_57085\_en.html](http://www.jsfc.ir/article_57085_en.html)  
-23. On the semiosphere \- CEEOL \- Article Detail, accessed May 14, 2026, [https://www.ceeol.com/search/article-detail?id=14996](https://www.ceeol.com/search/article-detail?id=14996)  
-24. Yuri Lotman, from The Semiosphere \- FTP Directory Listing, accessed May 14, 2026, [https://ftp.columbia.edu/itc/architecture/ockman/pdfs/Lotman.pdf](https://ftp.columbia.edu/itc/architecture/ockman/pdfs/Lotman.pdf)  
+19. Jakobson's Six Functions of Language | PDF - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/829563994/Roman-Jakobsons-Functions-of-Language](https://www.scribd.com/document/829563994/Roman-Jakobsons-Functions-of-Language)  
+20. Roman Jakobson : The Functions of Language / Signo - Applied Semiotics Theories, accessed May 14, 2026, [https://www.signosemio.com/pages/jakobson/functions-of-language.php](https://www.signosemio.com/pages/jakobson/functions-of-language.php)  
+21. Jakobson's functions of language - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Jakobson%27s_functions_of_language](https://en.wikipedia.org/wiki/Jakobson%27s_functions_of_language)  
+22. A Study of the Yori Lotman's Semiosphere Cultural Theory and Its Application in the Field of Analysis of Relations between Religion and Cinema, accessed May 14, 2026, [http://www.jsfc.ir/article_57085_en.html](http://www.jsfc.ir/article_57085_en.html)  
+23. On the semiosphere - CEEOL - Article Detail, accessed May 14, 2026, [https://www.ceeol.com/search/article-detail?id=14996](https://www.ceeol.com/search/article-detail?id=14996)  
+24. Yuri Lotman, from The Semiosphere - FTP Directory Listing, accessed May 14, 2026, [https://ftp.columbia.edu/itc/architecture/ockman/pdfs/Lotman.pdf](https://ftp.columbia.edu/itc/architecture/ockman/pdfs/Lotman.pdf)  
 25. A, THEORY OF SEMIOTICS | Ragged University, accessed May 14, 2026, [https://raggeduniversity.co.uk/wp-content/uploads/2025/01/A-Theory-of-Semiotics-Umberto-Eco-1979.pdf](https://raggeduniversity.co.uk/wp-content/uploads/2025/01/A-Theory-of-Semiotics-Umberto-Eco-1979.pdf)  
-26. Deconstructing WhatsApp Emojis and Emotions through Semiotic Principles' Prisms \- MSI Publishers, accessed May 14, 2026, [https://msipublishers.com/wp-content/uploads/2025/10/MSIJALJ1792025-GS.pdf](https://msipublishers.com/wp-content/uploads/2025/10/MSIJALJ1792025-GS.pdf)  
-27. Introduction to the Semiotics of Emoji and Digital Stickers \- media/rep, accessed May 14, 2026, [https://mediarep.org/server/api/core/bitstreams/a995e749-9239-46c8-9b2a-29518fa06301/content](https://mediarep.org/server/api/core/bitstreams/a995e749-9239-46c8-9b2a-29518fa06301/content)  
+26. Deconstructing WhatsApp Emojis and Emotions through Semiotic Principles' Prisms - MSI Publishers, accessed May 14, 2026, [https://msipublishers.com/wp-content/uploads/2025/10/MSIJALJ1792025-GS.pdf](https://msipublishers.com/wp-content/uploads/2025/10/MSIJALJ1792025-GS.pdf)  
+27. Introduction to the Semiotics of Emoji and Digital Stickers - media/rep, accessed May 14, 2026, [https://mediarep.org/server/api/core/bitstreams/a995e749-9239-46c8-9b2a-29518fa06301/content](https://mediarep.org/server/api/core/bitstreams/a995e749-9239-46c8-9b2a-29518fa06301/content)  
 28. Cognition and Behavior | Basic Theory of UI Design: Affordance and Signifier, accessed May 14, 2026, [https://www.cosmicengine.co.jp/en/Knowledge/Basic-theory-of-UI-design/](https://www.cosmicengine.co.jp/en/Knowledge/Basic-theory-of-UI-design/)  
-29. What Are Affordances in Design? 2026 Guide & UI Examples \- ParallelHQ, accessed May 14, 2026, [https://www.parallelhq.com/blog/what-are-affordances-in-design](https://www.parallelhq.com/blog/what-are-affordances-in-design)  
-30. Umberto Eco's Semiotics: Theory, Methodology and Poetics \- Cambridge Scholars Publishing, accessed May 14, 2026, [https://www.cambridgescholars.com/resources/pdfs/978-1-5275-7746-6-sample.pdf](https://www.cambridgescholars.com/resources/pdfs/978-1-5275-7746-6-sample.pdf)  
-31. Journal of Media and Communication Studies \- reinterpreting some key concepts in barthesâ€™ theory, accessed May 14, 2026, [https://academicjournals.org/journal/JMCS/article-full-text/ABC767050719](https://academicjournals.org/journal/JMCS/article-full-text/ABC767050719)  
-32. Connotation and Denotation \- Literary Theory and Criticism, accessed May 14, 2026, [https://literariness.org/2016/03/18/connotation-and-denotation/](https://literariness.org/2016/03/18/connotation-and-denotation/)  
-33. Roland Barthes: Myth \- Critical Legal Thinking, accessed May 14, 2026, [https://criticallegalthinking.com/2020/06/12/roland-barthes-myth/](https://criticallegalthinking.com/2020/06/12/roland-barthes-myth/)  
-34. Deconstructing Internet Memes through Semiotic Analysis: Unveiling Myths and Ideologies in Visual and Verbal Signs \- Jurnal Arbitrer, accessed May 14, 2026, [https://arbitrer.fib.unand.ac.id/index.php/arbitrer/article/download/385/212/1430](https://arbitrer.fib.unand.ac.id/index.php/arbitrer/article/download/385/212/1430)  
+29. What Are Affordances in Design? 2026 Guide & UI Examples - ParallelHQ, accessed May 14, 2026, [https://www.parallelhq.com/blog/what-are-affordances-in-design](https://www.parallelhq.com/blog/what-are-affordances-in-design)  
+30. Umberto Eco's Semiotics: Theory, Methodology and Poetics - Cambridge Scholars Publishing, accessed May 14, 2026, [https://www.cambridgescholars.com/resources/pdfs/978-1-5275-7746-6-sample.pdf](https://www.cambridgescholars.com/resources/pdfs/978-1-5275-7746-6-sample.pdf)  
+31. Journal of Media and Communication Studies - reinterpreting some key concepts in barthesâ€™ theory, accessed May 14, 2026, [https://academicjournals.org/journal/JMCS/article-full-text/ABC767050719](https://academicjournals.org/journal/JMCS/article-full-text/ABC767050719)  
+32. Connotation and Denotation - Literary Theory and Criticism, accessed May 14, 2026, [https://literariness.org/2016/03/18/connotation-and-denotation/](https://literariness.org/2016/03/18/connotation-and-denotation/)  
+33. Roland Barthes: Myth - Critical Legal Thinking, accessed May 14, 2026, [https://criticallegalthinking.com/2020/06/12/roland-barthes-myth/](https://criticallegalthinking.com/2020/06/12/roland-barthes-myth/)  
+34. Deconstructing Internet Memes through Semiotic Analysis: Unveiling Myths and Ideologies in Visual and Verbal Signs - Jurnal Arbitrer, accessed May 14, 2026, [https://arbitrer.fib.unand.ac.id/index.php/arbitrer/article/download/385/212/1430](https://arbitrer.fib.unand.ac.id/index.php/arbitrer/article/download/385/212/1430)  
 35. An Analysis of Logo's as Found in Social Media Application: a Semiotics Study, accessed May 14, 2026, [https://lpppipublishing.com/index.php/ijessm/article/download/537/431/1537](https://lpppipublishing.com/index.php/ijessm/article/download/537/431/1537)  
-36. Definitions of Semiotic Terms, accessed May 14, 2026, [https://www.uvm.edu/\~tstreete/semiotics\_and\_ads/terminology.html](https://www.uvm.edu/~tstreete/semiotics_and_ads/terminology.html)  
+36. Definitions of Semiotic Terms, accessed May 14, 2026, [https://www.uvm.edu/~tstreete/semiotics_and_ads/terminology.html](https://www.uvm.edu/~tstreete/semiotics_and_ads/terminology.html)  
 37. Semiotics for Beginners: Denotation, Connotation and Myth, accessed May 14, 2026, [https://bgsp.edu/app/uploads/2014/12/Semiotics-for-Beginners.pdf](https://bgsp.edu/app/uploads/2014/12/Semiotics-for-Beginners.pdf)  
-38. Roland Barthes' Concept of Mythologies \- Literary Theory and Criticism, accessed May 14, 2026, [https://literariness.org/2016/03/21/roland-barthes-concept-of-mythologies/](https://literariness.org/2016/03/21/roland-barthes-concept-of-mythologies/)  
-39. ROLAND BARTHES' DENOTATION, CONNOTATION, AND MYTH IN THE CHANGE OF FOUR STARBUCKS LOGOS: A STUDY OF SEMIOTICS TERM PAPER RIFA \- repository, accessed May 14, 2026, [http://repository.unsada.ac.id/550/7/References.pdf](http://repository.unsada.ac.id/550/7/References.pdf)  
-40. Semiotics for Branding – How to Tell a Story \- KPU WordPress, accessed May 14, 2026, [https://wordpress.kpu.ca/depd3530/2023/11/19/semiotics-for-branding-how-to-tell-a-story/](https://wordpress.kpu.ca/depd3530/2023/11/19/semiotics-for-branding-how-to-tell-a-story/)  
-41. (PDF) The Semiotics of User Interfaces \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/226728579\_The\_Semiotics\_of\_User\_Interfaces](https://www.researchgate.net/publication/226728579_The_Semiotics_of_User_Interfaces)  
+38. Roland Barthes' Concept of Mythologies - Literary Theory and Criticism, accessed May 14, 2026, [https://literariness.org/2016/03/21/roland-barthes-concept-of-mythologies/](https://literariness.org/2016/03/21/roland-barthes-concept-of-mythologies/)  
+39. ROLAND BARTHES' DENOTATION, CONNOTATION, AND MYTH IN THE CHANGE OF FOUR STARBUCKS LOGOS: A STUDY OF SEMIOTICS TERM PAPER RIFA - repository, accessed May 14, 2026, [http://repository.unsada.ac.id/550/7/References.pdf](http://repository.unsada.ac.id/550/7/References.pdf)  
+40. Semiotics for Branding – How to Tell a Story - KPU WordPress, accessed May 14, 2026, [https://wordpress.kpu.ca/depd3530/2023/11/19/semiotics-for-branding-how-to-tell-a-story/](https://wordpress.kpu.ca/depd3530/2023/11/19/semiotics-for-branding-how-to-tell-a-story/)  
+41. (PDF) The Semiotics of User Interfaces - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/226728579_The_Semiotics_of_User_Interfaces](https://www.researchgate.net/publication/226728579_The_Semiotics_of_User_Interfaces)  
 42. SEMIOTIC ANALYSIS OF MEMES ON IMGUR APP, accessed May 14, 2026, [https://repositori.buddhidharma.ac.id/2583/1/COVER-BAB%20III.pdf](https://repositori.buddhidharma.ac.id/2583/1/COVER-BAB%20III.pdf)  
-43. Understanding Where LLMs Go Wrong and Why It Matters \- Threat.Digital, accessed May 14, 2026, [https://blog.threat.digital/how-llms-get-things-wrong/](https://blog.threat.digital/how-llms-get-things-wrong/)  
+43. Understanding Where LLMs Go Wrong and Why It Matters - Threat.Digital, accessed May 14, 2026, [https://blog.threat.digital/how-llms-get-things-wrong/](https://blog.threat.digital/how-llms-get-things-wrong/)  
 44. Researchers discover a shortcoming that makes LLMs less reliable, accessed May 14, 2026, [https://computing.mit.edu/news/researchers-discover-a-shortcoming-that-makes-llms-less-reliable/](https://computing.mit.edu/news/researchers-discover-a-shortcoming-that-makes-llms-less-reliable/)  
-45. Thomas Sebeok And The Biosemiotic Legacy, accessed May 14, 2026, [https://creditosocial2023.patos.pb.gov.br/Resources/7rTGM9/4OK086/thomas-sebeok-and-the\_\_biosemiotic-legacy.pdf](https://creditosocial2023.patos.pb.gov.br/Resources/7rTGM9/4OK086/thomas-sebeok-and-the__biosemiotic-legacy.pdf)  
-46. How to Debug LLM Failures: A Comprehensive Guide for AI Engineers \- DEV Community, accessed May 14, 2026, [https://dev.to/kuldeep\_paul/how-to-debug-llm-failures-a-comprehensive-guide-for-ai-engineers-3bej](https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-comprehensive-guide-for-ai-engineers-3bej)  
-47. Understanding Information and Its Role as a Tool: From Data to ..., accessed May 14, 2026, [https://www.worldscientific.com/doi/pdf/10.1142/9789811294921\_0002?download=true](https://www.worldscientific.com/doi/pdf/10.1142/9789811294921_0002?download=true)
+45. Thomas Sebeok And The Biosemiotic Legacy, accessed May 14, 2026, [https://creditosocial2023.patos.pb.gov.br/Resources/7rTGM9/4OK086/thomas-sebeok-and-the__biosemiotic-legacy.pdf](https://creditosocial2023.patos.pb.gov.br/Resources/7rTGM9/4OK086/thomas-sebeok-and-the__biosemiotic-legacy.pdf)  
+46. How to Debug LLM Failures: A Comprehensive Guide for AI Engineers - DEV Community, accessed May 14, 2026, [https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-comprehensive-guide-for-ai-engineers-3bej](https://dev.to/kuldeep_paul/how-to-debug-llm-failures-a-comprehensive-guide-for-ai-engineers-3bej)  
+47. Understanding Information and Its Role as a Tool: From Data to ..., accessed May 14, 2026, [https://www.worldscientific.com/doi/pdf/10.1142/9789811294921_0002?download=true](https://www.worldscientific.com/doi/pdf/10.1142/9789811294921_0002?download=true)
 
 ---

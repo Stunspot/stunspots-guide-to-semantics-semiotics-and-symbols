@@ -36,7 +36,7 @@ While dictionaries often attempt to draw clear lines—using separate entries fo
 
 Cognitive linguistics models polysemy as a radial category system centered on a prototype sense.10 For the lexeme *bosh* (head), the physical organ serves as the central node, while "leader" or "top" function as peripheral nodes linked by metonymic or metaphorical mappings.10 This radial structure allows the language to adapt to new situations without losing its core coherence.10
 
-Systematic metonymy provides a highly predictable driver for polysemy.11 These patterns allow an intelligence to anticipate sense extensions across different domains. For instance, the **Building \<-\> Organization** pattern seen in *school* or *university* allows the system to navigate sentences like "The university changed its policy" (Organization) versus "The university is made of brick" (Building).11 Similar patterns—such as **Author \<-\> Works** ("I'm reading Jane Austen") or **Animal \<-\> Meat** ("The chicken was delicious")—must be modeled as systematic constraints that narrow the search space during sense disambiguation.11
+Systematic metonymy provides a highly predictable driver for polysemy.11 These patterns allow an intelligence to anticipate sense extensions across different domains. For instance, the **Building <-> Organization** pattern seen in *school* or *university* allows the system to navigate sentences like "The university changed its policy" (Organization) versus "The university is made of brick" (Building).11 Similar patterns—such as **Author <-> Works** ("I'm reading Jane Austen") or **Animal <-> Meat** ("The chicken was delicious")—must be modeled as systematic constraints that narrow the search space during sense disambiguation.11
 
 ## **Historical Semantic Drift: Meaning as Temporal Weather**
 
@@ -46,11 +46,11 @@ Meanings are not fixed attachments; they are historically situated and subject t
 
 | Mechanism | Direction of Shift | Historical Example | Modern/Digital Example |
 | :---- | :---- | :---- | :---- |
-| **Broadening** | Specific \-\> General | *Holiday* (Holy day) 21 | *Cookie* (Pastry \-\> Browser data) 21 |
-| **Narrowing** | General \-\> Specific | *Meat* (Any food) 18 | *Spam* (Canned meat \-\> Junk mail) 21 |
-| **Amelioration** | Neutral/Neg \-\> Positive | *Knight* (Servant) 14 | *Awesome* (Awe-inducing) 20 |
-| **Pejoration** | Neutral/Pos \-\> Negative | *Silly* (Blessed) 21 | *Spam* (Food \-\> Annoyance) 21 |
-| **Bleaching** | Contentful \-\> Abstract | *Arrive* (Reach shore) 18 | *Literally* (Literal \-\> Intensifier) 21 |
+| **Broadening** | Specific -> General | *Holiday* (Holy day) 21 | *Cookie* (Pastry -> Browser data) 21 |
+| **Narrowing** | General -> Specific | *Meat* (Any food) 18 | *Spam* (Canned meat -> Junk mail) 21 |
+| **Amelioration** | Neutral/Neg -> Positive | *Knight* (Servant) 14 | *Awesome* (Awe-inducing) 20 |
+| **Pejoration** | Neutral/Pos -> Negative | *Silly* (Blessed) 21 | *Spam* (Food -> Annoyance) 21 |
+| **Bleaching** | Contentful -> Abstract | *Arrive* (Reach shore) 18 | *Literally* (Literal -> Intensifier) 21 |
 
 Broadening, or generalization, allows a term like *arrive* (originally restricted to reaching a shore) to encompass any destination or mode of travel.18 Conversely, narrowing restricts a term like *deer* (originally "any animal") to a specific family of mammals.18 The instability layer must track these shifts to avoid retrieval decoy errors, where an system might interpret an archaic source through a modern broadened sense.18
 
@@ -121,7 +121,7 @@ A reclaimed term is highly sensitive to the speaker's position and the audience'
 | Mechanism of Reclamation | Linguistic Effect | Social Function |
 | :---- | :---- | :---- |
 | **Self-Labeling** | Group applies term to itself 33 | Reduces external negative perception 33 |
-| **Polarity Reversal** | Negative \-\> Positive evaluation 33 | Foster camaraderie and pride 35 |
+| **Polarity Reversal** | Negative -> Positive evaluation 33 | Foster camaraderie and pride 35 |
 | **Epistemic Challenge** | Break link to stereotype 33 | Challenge social power imbalances 35 |
 | **Weapons Control** | Neutralize derogatory force 33 | Remove tool from bigot's arsenal 33 |
 
@@ -183,8 +183,8 @@ In advanced prompt engineering, polysemy is transformed into a high-bandwidth co
 
 New frameworks treat prompts as analogs to programming constructs, formalizing their logic through mathematical primitives.40
 
-* **Condition (If-Else):** P(Input) \= A\_True if C(Input) \= True, otherwise A\_False. This allows for logical branching based on semantic triggers.40  
-* **Loop (For-Loop):** P(S) \= Union from i=1 to n of F(s\_i). This enables the repetitive processing of semantic sets.40  
+* **Condition (If-Else):** P(Input) = A_True if C(Input) = True, otherwise A_False. This allows for logical branching based on semantic triggers.40  
+* **Loop (For-Loop):** P(S) = Union from i=1 to n of F(s_i). This enables the repetitive processing of semantic sets.40  
 * **Function:** Prompts are treated as modular, atomic tasks that can be chained to form complex semantic networks.40
 
 ### **The Polysemic Prompt Lever Record**
@@ -193,25 +193,25 @@ A disciplined promptcraft artifact requires a record that tracks how polysemic t
 
 | Token | Active Senses Activated | Intended Resonance | Desired Dimensions | Bleed Risk |
 | :---- | :---- | :---- | :---- | :---- |
-| **Grounded** | Epistemic warrant \+ Electrical safety \+ Embodied reality | Reliability and stability | Truth-tracking \+ Physicality | Narrow literalism |
-| **Alignment** | Value safety \+ Typographical layout \+ Postural integrity | Coherent goal-direction | Moral \+ Aesthetic \+ Physical | Conflating safety with agreement |
-| **Architecture** | System design \+ Structural load \+ Aesthetic form | Systematic coherence | Technical \+ Visual \+ Strategic | Physical rigidity over-implied |
-| **Memory** | Cognitive retrieval \+ Data storage \+ Shared trauma | Longitudinal coherence | Bio-cognitive \+ Computational \+ Social | Capacity limits ignored |
-| **Interface** | Boundary layer \+ Interaction surface \+ Logic gate | Facilitated interaction | Relational \+ Physical \+ Logical | Dehumanization of nodes |
+| **Grounded** | Epistemic warrant + Electrical safety + Embodied reality | Reliability and stability | Truth-tracking + Physicality | Narrow literalism |
+| **Alignment** | Value safety + Typographical layout + Postural integrity | Coherent goal-direction | Moral + Aesthetic + Physical | Conflating safety with agreement |
+| **Architecture** | System design + Structural load + Aesthetic form | Systematic coherence | Technical + Visual + Strategic | Physical rigidity over-implied |
+| **Memory** | Cognitive retrieval + Data storage + Shared trauma | Longitudinal coherence | Bio-cognitive + Computational + Social | Capacity limits ignored |
+| **Interface** | Boundary layer + Interaction surface + Logic gate | Facilitated interaction | Relational + Physical + Logical | Dehumanization of nodes |
 
 ## **Operational Artifacts for the Instability Layer**
 
 The theory of semantic instability is translated into RAG-ready artifacts that ensure robust interpretation across variable contexts.
 
-### **1\. Sense Inventory Record**
+### **1. Sense Inventory Record**
 
 Used to map the lexical manifold of a token before retrieval or generation.15
 
 * **Token:** *Agent*  
-* **Senses:** \[A1\] Software entity 1; \[A2\] Legal fiduciary 41; \[A3\] Chemical catalyst; \[A4\] Espionage operative; \[A5\] Narrative character.42  
-* **Domain Anchors:** \[A1: Computing\], \[A2: Law\], \[A3: Chemistry\], \[A4: Intelligence\], \[A5: Literature\].
+* **Senses:** [A1] Software entity 1; [A2] Legal fiduciary 41; [A3] Chemical catalyst; [A4] Espionage operative; [A5] Narrative character.42  
+* **Domain Anchors:** [A1: Computing], [A2: Law], [A3: Chemistry], [A4: Intelligence], [A5: Literature].
 
-### **2\. Meaning Drift Record**
+### **2. Meaning Drift Record**
 
 Used to track the temporal index and prevent historical anachronism.20
 
@@ -220,18 +220,18 @@ Used to track the temporal index and prevent historical anachronism.20
 * **Date Range 2:** 2014-2020 (Sense: Awareness of systemic bias; Ameliorative/Neutral; Academic/Activist).  
 * **Date Range 3:** 2021-Present (Sense: Performative/Ideological excess; Pejorative; Political discourse).
 
-### **3\. Euphemism Cycle Tracker**
+### **3. Euphemism Cycle Tracker**
 
 Used to unpack institutional agency and track pejoration.31
 
 * **Concept:** Mass termination of employees.  
 * **Cycle 1:** Fired (Dysphemism).  
 * **Cycle 2:** Laid Off (Orthophemism).  
-* **Cycle 3:** Downsized (Euphemism \- Corporate).  
-* **Cycle 4:** Rightsized / Workforce reduction (Euphemism \- Institutional).  
-* **Cycle 5:** Career transition opportunity (Euphemism \- Softened).
+* **Cycle 3:** Downsized (Euphemism - Corporate).  
+* **Cycle 4:** Rightsized / Workforce reduction (Euphemism - Institutional).  
+* **Cycle 5:** Career transition opportunity (Euphemism - Softened).
 
-### **4\. Reclamation Context Record**
+### **4. Reclamation Context Record**
 
 Used to manage speaker-position-sensitive terms.33
 
@@ -240,7 +240,7 @@ Used to manage speaker-position-sensitive terms.33
 * **Out-Group (Heteronormative):** Potential slur, historically derogatory.33  
 * **Actionable Advice:** Preserve alternative readings; lower confidence if speaker position is unknown; warn about out-group usage risks.
 
-### **5\. Semantic Instability Failure & Repair Table**
+### **5. Semantic Instability Failure & Repair Table**
 
 A diagnostic tool for identifying and correcting interpretive errors.
 
@@ -286,49 +286,49 @@ Report K binds the machinery of Volumes I and II into a living, adaptive manifol
 
 #### **Works cited**
 
-1. (PDF) Strategic Polysemy in AI Discourse: A Philosophical Analysis ..., accessed May 14, 2026, [https://www.researchgate.net/publication/404143609\_Strategic\_Polysemy\_in\_AI\_Discourse\_A\_Philosophical\_Analysis\_of\_Language\_Hype\_and\_Power](https://www.researchgate.net/publication/404143609_Strategic_Polysemy_in_AI_Discourse_A_Philosophical_Analysis_of_Language_Hype_and_Power)  
-2. Do Humans (and Animals) Think in Poetic Language? \- Preprints.org, accessed May 14, 2026, [https://www.preprints.org/manuscript/202511.1166](https://www.preprints.org/manuscript/202511.1166)  
-3. A typology of strategic ambiguity | Download Scientific Diagram \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/figure/A-typology-of-strategic-ambiguity\_tbl1\_390246627](https://www.researchgate.net/figure/A-typology-of-strategic-ambiguity_tbl1_390246627)  
+1. (PDF) Strategic Polysemy in AI Discourse: A Philosophical Analysis ..., accessed May 14, 2026, [https://www.researchgate.net/publication/404143609_Strategic_Polysemy_in_AI_Discourse_A_Philosophical_Analysis_of_Language_Hype_and_Power](https://www.researchgate.net/publication/404143609_Strategic_Polysemy_in_AI_Discourse_A_Philosophical_Analysis_of_Language_Hype_and_Power)  
+2. Do Humans (and Animals) Think in Poetic Language? - Preprints.org, accessed May 14, 2026, [https://www.preprints.org/manuscript/202511.1166](https://www.preprints.org/manuscript/202511.1166)  
+3. A typology of strategic ambiguity | Download Scientific Diagram - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/figure/A-typology-of-strategic-ambiguity_tbl1_390246627](https://www.researchgate.net/figure/A-typology-of-strategic-ambiguity_tbl1_390246627)  
 4. Sperber & Wilson, accessed May 14, 2026, [https://cognitionandculture.net/wp-content/uploads/sperberwilson.pdf](https://cognitionandculture.net/wp-content/uploads/sperberwilson.pdf)  
-5. 7\. Pragmatics \- Stanford University, accessed May 14, 2026, [https://web.stanford.edu/\~cgpotts/papers/potts-pragmatics-oupcompling.pdf](https://web.stanford.edu/~cgpotts/papers/potts-pragmatics-oupcompling.pdf)  
+5. 7. Pragmatics - Stanford University, accessed May 14, 2026, [https://web.stanford.edu/~cgpotts/papers/potts-pragmatics-oupcompling.pdf](https://web.stanford.edu/~cgpotts/papers/potts-pragmatics-oupcompling.pdf)  
 6. Meaning and Relevance | Deirdre Wilson and Dan Sperber, accessed May 14, 2026, [https://retoricaepragmatica.wordpress.com/wp-content/uploads/2019/02/deirdre-wilson-dan-sperber-meaning-and-relevance-2012-cambridge-university-press.pdf](https://retoricaepragmatica.wordpress.com/wp-content/uploads/2019/02/deirdre-wilson-dan-sperber-meaning-and-relevance-2012-cambridge-university-press.pdf)  
-7. Dan Sperber and Deirdre Wilson Nicholas Allott University of Oslo \- UiO, accessed May 14, 2026, [https://www.hf.uio.no/ilos/english/people/aca/nicholea/allott-n.-(2024).-dan-sperber-and-deirdre-wilson.-in-c.-a.-chapelle-(ed.)-the-encyclopedia-of-applied-linguistics--online-(2nd-ed.).-wiley.-https-doi.org10.10029781405198431.wbeal1451.pub2---postprint.pdf](https://www.hf.uio.no/ilos/english/people/aca/nicholea/allott-n.-\(2024\).-dan-sperber-and-deirdre-wilson.-in-c.-a.-chapelle-\(ed.\)-the-encyclopedia-of-applied-linguistics--online-\(2nd-ed.\).-wiley.-https-doi.org10.10029781405198431.wbeal1451.pub2---postprint.pdf)  
-8. Lexical semantics \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Lexical\_semantics](https://en.wikipedia.org/wiki/Lexical_semantics)  
+7. Dan Sperber and Deirdre Wilson Nicholas Allott University of Oslo - UiO, accessed May 14, 2026, [https://www.hf.uio.no/ilos/english/people/aca/nicholea/allott-n.-(2024).-dan-sperber-and-deirdre-wilson.-in-c.-a.-chapelle-(ed.)-the-encyclopedia-of-applied-linguistics--online-(2nd-ed.).-wiley.-https-doi.org10.10029781405198431.wbeal1451.pub2---postprint.pdf](https://www.hf.uio.no/ilos/english/people/aca/nicholea/allott-n.-(2024).-dan-sperber-and-deirdre-wilson.-in-c.-a.-chapelle-(ed.)-the-encyclopedia-of-applied-linguistics--online-(2nd-ed.).-wiley.-https-doi.org10.10029781405198431.wbeal1451.pub2---postprint.pdf)  
+8. Lexical semantics - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Lexical_semantics](https://en.wikipedia.org/wiki/Lexical_semantics)  
 9. Lexical Semantics Homonymy and Polysemy in English Zahraa ..., accessed May 14, 2026, [https://coehuman.uodiyala.edu.iq/uploads/2022/12-20-2022/%D8%B2%D9%87%D8%B1%D8%A7%D8%A1%20%D8%AD%D8%B3%D9%86%20%D9%88%20%D9%81%D8%A7%D8%B7%D9%85%D8%A9%20%D8%A8%D8%B4%D8%A7%D8%B1.pdf](https://coehuman.uodiyala.edu.iq/uploads/2022/12-20-2022/%D8%B2%D9%87%D8%B1%D8%A7%D8%A1%20%D8%AD%D8%B3%D9%86%20%D9%88%20%D9%81%D8%A7%D8%B7%D9%85%D8%A9%20%D8%A8%D8%B4%D8%A7%D8%B1.pdf)  
-10. THE COMPARATIVE ANALYSIS OF THE CONCEPTS OF POLYSEMY AND HOMONYMY \- Science-Research, accessed May 14, 2026, [https://science-research.org.uz/index.php/UJAMR/article/download/732/1041/1455](https://science-research.org.uz/index.php/UJAMR/article/download/732/1041/1455)  
-11. 19 LEXICAL SEMANTICS \- Stanford University, accessed May 14, 2026, [https://web.stanford.edu/class/linguist1/Rdgs/JM19.pdf](https://web.stanford.edu/class/linguist1/Rdgs/JM19.pdf)  
-12. Understanding Lexical and Sense Relations | PDF \- Scribd, accessed May 14, 2026, [https://www.scribd.com/document/773282805/BS-4th-semantics-Sense-Relations-and-Lexical-Relations-by-Qurratulayn-Khan](https://www.scribd.com/document/773282805/BS-4th-semantics-Sense-Relations-and-Lexical-Relations-by-Qurratulayn-Khan)  
-13. Lexical Relations \- Intro to Semantics and Pragmatics \- Fiveable, accessed May 14, 2026, [https://fiveable.me/lists/lexical-relations](https://fiveable.me/lists/lexical-relations)  
-14. (PDF) Analyzing semantic shifts in English and German by exploring historical influences and societal dynamics \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/381722204\_Analyzing\_semantic\_shifts\_in\_English\_and\_German\_by\_exploring\_historical\_influences\_and\_societal\_dynamics](https://www.researchgate.net/publication/381722204_Analyzing_semantic_shifts_in_English_and_German_by_exploring_historical_influences_and_societal_dynamics)  
-15. A Hypothesis-Driven Framework for Detecting ... \- ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/anthology-files/pdf/clicit/2025.clicit-1.19.pdf](https://aclanthology.org/anthology-files/pdf/clicit/2025.clicit-1.19.pdf)  
-16. (PDF) Distinguishing Between Polysemy and Homonymy \- Academia.edu, accessed May 14, 2026, [https://www.academia.edu/97284630/Distinguishing\_Between\_Polysemy\_and\_Homonymy](https://www.academia.edu/97284630/Distinguishing_Between_Polysemy_and_Homonymy)  
-17. Vagueness as Impossibility \- Texas Law Review, accessed May 14, 2026, [https://texaslawreview.org/vagueness-as-impossibility/](https://texaslawreview.org/vagueness-as-impossibility/)  
-18. 14.6 Semantic change – Essentials of Linguistics, 2nd edition \- eCampusOntario Pressbooks, accessed May 14, 2026, [https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/14-6-semantic-change/](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/14-6-semantic-change/)  
-19. 9430 PDFs | Review articles in POLYSEMY \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/topic/Polysemy/publications](https://www.researchgate.net/topic/Polysemy/publications)  
-20. Semantic change \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Semantic\_change](https://en.wikipedia.org/wiki/Semantic_change)  
+10. THE COMPARATIVE ANALYSIS OF THE CONCEPTS OF POLYSEMY AND HOMONYMY - Science-Research, accessed May 14, 2026, [https://science-research.org.uz/index.php/UJAMR/article/download/732/1041/1455](https://science-research.org.uz/index.php/UJAMR/article/download/732/1041/1455)  
+11. 19 LEXICAL SEMANTICS - Stanford University, accessed May 14, 2026, [https://web.stanford.edu/class/linguist1/Rdgs/JM19.pdf](https://web.stanford.edu/class/linguist1/Rdgs/JM19.pdf)  
+12. Understanding Lexical and Sense Relations | PDF - Scribd, accessed May 14, 2026, [https://www.scribd.com/document/773282805/BS-4th-semantics-Sense-Relations-and-Lexical-Relations-by-Qurratulayn-Khan](https://www.scribd.com/document/773282805/BS-4th-semantics-Sense-Relations-and-Lexical-Relations-by-Qurratulayn-Khan)  
+13. Lexical Relations - Intro to Semantics and Pragmatics - Fiveable, accessed May 14, 2026, [https://fiveable.me/lists/lexical-relations](https://fiveable.me/lists/lexical-relations)  
+14. (PDF) Analyzing semantic shifts in English and German by exploring historical influences and societal dynamics - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/381722204_Analyzing_semantic_shifts_in_English_and_German_by_exploring_historical_influences_and_societal_dynamics](https://www.researchgate.net/publication/381722204_Analyzing_semantic_shifts_in_English_and_German_by_exploring_historical_influences_and_societal_dynamics)  
+15. A Hypothesis-Driven Framework for Detecting ... - ACL Anthology, accessed May 14, 2026, [https://aclanthology.org/anthology-files/pdf/clicit/2025.clicit-1.19.pdf](https://aclanthology.org/anthology-files/pdf/clicit/2025.clicit-1.19.pdf)  
+16. (PDF) Distinguishing Between Polysemy and Homonymy - Academia.edu, accessed May 14, 2026, [https://www.academia.edu/97284630/Distinguishing_Between_Polysemy_and_Homonymy](https://www.academia.edu/97284630/Distinguishing_Between_Polysemy_and_Homonymy)  
+17. Vagueness as Impossibility - Texas Law Review, accessed May 14, 2026, [https://texaslawreview.org/vagueness-as-impossibility/](https://texaslawreview.org/vagueness-as-impossibility/)  
+18. 14.6 Semantic change – Essentials of Linguistics, 2nd edition - eCampusOntario Pressbooks, accessed May 14, 2026, [https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/14-6-semantic-change/](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/14-6-semantic-change/)  
+19. 9430 PDFs | Review articles in POLYSEMY - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/topic/Polysemy/publications](https://www.researchgate.net/topic/Polysemy/publications)  
+20. Semantic change - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Semantic_change](https://en.wikipedia.org/wiki/Semantic_change)  
 21. SEMANTIC CHANGES IN ENGLISH WORDS: HISTORICAL AND MODERN PERSPECTIVES, accessed May 14, 2026, [https://usajournals.org/index.php/6/article/download/755/828/1593](https://usajournals.org/index.php/6/article/download/755/828/1593)  
 22. Is Word Sense Disambiguation Dead in the LLM Era?, accessed May 14, 2026, [https://ojs.aaai.org/index.php/AAAI/article/view/41331/45292](https://ojs.aaai.org/index.php/AAAI/article/view/41331/45292)  
-23. Semantic change \- Elizabeth Traugott, accessed May 14, 2026, [https://traugott.people.stanford.edu/sites/g/files/sbiybj28616/files/media/file/traugott2017a.pdf](https://traugott.people.stanford.edu/sites/g/files/sbiybj28616/files/media/file/traugott2017a.pdf)  
-24. Pragmatics \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Pragmatics](https://en.wikipedia.org/wiki/Pragmatics)  
-25. PRAGMATICS IN LINGUISTICS: AN EXPLORATION OF CONTEXTUAL MEANING | Modern Science and Research \- inLibrary, accessed May 14, 2026, [https://inlibrary.uz/index.php/science-research/article/view/87295](https://inlibrary.uz/index.php/science-research/article/view/87295)  
+23. Semantic change - Elizabeth Traugott, accessed May 14, 2026, [https://traugott.people.stanford.edu/sites/g/files/sbiybj28616/files/media/file/traugott2017a.pdf](https://traugott.people.stanford.edu/sites/g/files/sbiybj28616/files/media/file/traugott2017a.pdf)  
+24. Pragmatics - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Pragmatics](https://en.wikipedia.org/wiki/Pragmatics)  
+25. PRAGMATICS IN LINGUISTICS: AN EXPLORATION OF CONTEXTUAL MEANING | Modern Science and Research - inLibrary, accessed May 14, 2026, [https://inlibrary.uz/index.php/science-research/article/view/87295](https://inlibrary.uz/index.php/science-research/article/view/87295)  
 26. Key Terms in Pragmatics | uogbooks, accessed May 14, 2026, [https://uogbooks.files.wordpress.com/2014/10/key-terms-in-pragmatics-by-nicholas-allott.pdf](https://uogbooks.files.wordpress.com/2014/10/key-terms-in-pragmatics-by-nicholas-allott.pdf)  
 27. Pragmatics | PragmaLingu, accessed May 14, 2026, [https://www.pragmalingu.de/docs/guides/pragmatics/](https://www.pragmalingu.de/docs/guides/pragmatics/)  
-28. Relevance theory \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Relevance\_theory](https://en.wikipedia.org/wiki/Relevance_theory)  
-29. Pragmatics | Dan Sperber, accessed May 14, 2026, [https://www.dan.sperber.fr/wp-content/uploads/1981\_wilson\_pragmatics.pdf](https://www.dan.sperber.fr/wp-content/uploads/1981_wilson_pragmatics.pdf)  
-30. Euphemism Treadmill (Deaf Studies Topics) \- Lifeprint, accessed May 14, 2026, [https://www.lifeprint.com/asl101/topics/euphemism-treadmill.htm](https://www.lifeprint.com/asl101/topics/euphemism-treadmill.htm)  
-31. Euphemism Treadmill \- Steven Pinker, accessed May 14, 2026, [https://stevenpinker.com/files/pinker/files/1994\_04\_03\_newyorktimes.pdf](https://stevenpinker.com/files/pinker/files/1994_04_03_newyorktimes.pdf)  
-32. Euphemism \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Euphemism](https://en.wikipedia.org/wiki/Euphemism)  
-33. Reclamation and the Epistemic Objectionability of Slurs \- Journal of ..., accessed May 14, 2026, [https://jesp.org/index.php/jesp/article/view/4092/588](https://jesp.org/index.php/jesp/article/view/4092/588)  
+28. Relevance theory - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Relevance_theory](https://en.wikipedia.org/wiki/Relevance_theory)  
+29. Pragmatics | Dan Sperber, accessed May 14, 2026, [https://www.dan.sperber.fr/wp-content/uploads/1981_wilson_pragmatics.pdf](https://www.dan.sperber.fr/wp-content/uploads/1981_wilson_pragmatics.pdf)  
+30. Euphemism Treadmill (Deaf Studies Topics) - Lifeprint, accessed May 14, 2026, [https://www.lifeprint.com/asl101/topics/euphemism-treadmill.htm](https://www.lifeprint.com/asl101/topics/euphemism-treadmill.htm)  
+31. Euphemism Treadmill - Steven Pinker, accessed May 14, 2026, [https://stevenpinker.com/files/pinker/files/1994_04_03_newyorktimes.pdf](https://stevenpinker.com/files/pinker/files/1994_04_03_newyorktimes.pdf)  
+32. Euphemism - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Euphemism](https://en.wikipedia.org/wiki/Euphemism)  
+33. Reclamation and the Epistemic Objectionability of Slurs - Journal of ..., accessed May 14, 2026, [https://jesp.org/index.php/jesp/article/view/4092/588](https://jesp.org/index.php/jesp/article/view/4092/588)  
 34. From derogation to reclamation: How does language change? | Magazine issue 5/2021, accessed May 14, 2026, [https://www.in-mind.org/article/from-derogation-to-reclamation-how-does-language-change](https://www.in-mind.org/article/from-derogation-to-reclamation-how-does-language-change)  
-35. (PDF) Slur reclamation, irony, and resilience \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/386381130\_Slur\_reclamation\_irony\_and\_resilience](https://www.researchgate.net/publication/386381130_Slur_reclamation_irony_and_resilience)  
-36. TTLF Working Papers \- Stanford Law School, accessed May 14, 2026, [https://law.stanford.edu/wp-content/uploads/2026/04/TTLF-WP-149-Alaskarova.pdf](https://law.stanford.edu/wp-content/uploads/2026/04/TTLF-WP-149-Alaskarova.pdf)  
-37. Materiality Tunnel Vision: Legal and Governance Perspectives \- wbcsd, accessed May 14, 2026, [https://www.wbcsd.org/news/materiality-tunnel-vision-legal-and-governance-perspectives/](https://www.wbcsd.org/news/materiality-tunnel-vision-legal-and-governance-perspectives/)  
+35. (PDF) Slur reclamation, irony, and resilience - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/386381130_Slur_reclamation_irony_and_resilience](https://www.researchgate.net/publication/386381130_Slur_reclamation_irony_and_resilience)  
+36. TTLF Working Papers - Stanford Law School, accessed May 14, 2026, [https://law.stanford.edu/wp-content/uploads/2026/04/TTLF-WP-149-Alaskarova.pdf](https://law.stanford.edu/wp-content/uploads/2026/04/TTLF-WP-149-Alaskarova.pdf)  
+37. Materiality Tunnel Vision: Legal and Governance Perspectives - wbcsd, accessed May 14, 2026, [https://www.wbcsd.org/news/materiality-tunnel-vision-legal-and-governance-perspectives/](https://www.wbcsd.org/news/materiality-tunnel-vision-legal-and-governance-perspectives/)  
 38. Unsupervised Word Sense Disambiguation Using Transformer's Attention Mechanism, accessed May 14, 2026, [https://www.mdpi.com/2504-4990/7/1/10](https://www.mdpi.com/2504-4990/7/1/10)  
 39. Advanced Prompt Engineering: Techniques to Unlock the Full Power of AI | by Jan Kisters | Mar, 2026 | Medium, accessed May 14, 2026, [https://medium.com/@jan230590/advanced-prompt-engineering-techniques-to-unlock-the-full-power-of-ai-e327e2a43229](https://medium.com/@jan230590/advanced-prompt-engineering-techniques-to-unlock-the-full-power-of-ai-e327e2a43229)  
-40. (PDF) Semantic AI Framework for Prompt Engineering \- ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/389692528\_Semantic\_AI\_Framework\_for\_Prompt\_Engineering](https://www.researchgate.net/publication/389692528_Semantic_AI_Framework_for_Prompt_Engineering)  
+40. (PDF) Semantic AI Framework for Prompt Engineering - ResearchGate, accessed May 14, 2026, [https://www.researchgate.net/publication/389692528_Semantic_AI_Framework_for_Prompt_Engineering](https://www.researchgate.net/publication/389692528_Semantic_AI_Framework_for_Prompt_Engineering)  
 41. The euphemism treadmill | Hassans, accessed May 14, 2026, [https://www.gibraltarlaw.com/insights/post/102g9kp/the-euphemism-treadmill/](https://www.gibraltarlaw.com/insights/post/102g9kp/the-euphemism-treadmill/)  
-42. Subjectivity and Epistemicity Corpus, discourse, and literary approaches to stance \- Språk- och litteraturcentrum, accessed May 14, 2026, [https://www.sol.lu.se/fileadmin/\_migrated/content\_uploads/Subjectivity\_and\_Epistemicity\_conference\_abstract.pdf](https://www.sol.lu.se/fileadmin/_migrated/content_uploads/Subjectivity_and_Epistemicity_conference_abstract.pdf)  
-43. Large Language Models: A Structured Taxonomy and Review of Challenges, Limitations, Solutions, and Future Directions \- MDPI, accessed May 14, 2026, [https://www.mdpi.com/2076-3417/15/14/8103](https://www.mdpi.com/2076-3417/15/14/8103)
+42. Subjectivity and Epistemicity Corpus, discourse, and literary approaches to stance - Språk- och litteraturcentrum, accessed May 14, 2026, [https://www.sol.lu.se/fileadmin/_migrated/content_uploads/Subjectivity_and_Epistemicity_conference_abstract.pdf](https://www.sol.lu.se/fileadmin/_migrated/content_uploads/Subjectivity_and_Epistemicity_conference_abstract.pdf)  
+43. Large Language Models: A Structured Taxonomy and Review of Challenges, Limitations, Solutions, and Future Directions - MDPI, accessed May 14, 2026, [https://www.mdpi.com/2076-3417/15/14/8103](https://www.mdpi.com/2076-3417/15/14/8103)
 
 ---
 
@@ -436,7 +436,7 @@ Meaning adaptation under cultural constraint is the process of localization. It 
 
 ### **Wierzbicka and Natural Semantic Metalanguage (NSM)**
 
-Anna Wierzbicka developed the Natural Semantic Metalanguage (NSM) to avoid "conceptual artefacts" of Anglo-centric linguistics. The NSM identifies \~65 "semantic primes"—universal concepts like I, YOU, THINK, KNOW, WANT, GOOD, BAD, DO, HAPPEN—that are found in every language. By articulating "cultural scripts" using these primes, we can describe culture-specific norms from an "emic" (insider) perspective without using biased descriptors. For instance, the script for "naked" imperatives in Polish can be explained to an Anglo audience as "I want you to do this; I say it because I know you want to do it," whereas in Anglo culture, the script would involve "Maybe you will do this if I ask you nicely; I don't want to tell you what to do".
+Anna Wierzbicka developed the Natural Semantic Metalanguage (NSM) to avoid "conceptual artefacts" of Anglo-centric linguistics. The NSM identifies ~65 "semantic primes"—universal concepts like I, YOU, THINK, KNOW, WANT, GOOD, BAD, DO, HAPPEN—that are found in every language. By articulating "cultural scripts" using these primes, we can describe culture-specific norms from an "emic" (insider) perspective without using biased descriptors. For instance, the script for "naked" imperatives in Polish can be explained to an Anglo audience as "I want you to do this; I say it because I know you want to do it," whereas in Anglo culture, the script would involve "Maybe you will do this if I ask you nicely; I don't want to tell you what to do".
 
 ### **Pragmatic Force and Interactional Norms**
 
@@ -473,7 +473,7 @@ In RAG systems, meaning transfer is a retrieval problem before it is a generatio
 
 To operationalize Report L, the following artifacts are defined as diagnostic and generative templates for semantic intelligence systems.
 
-### **1\. Translation Equivalence Record**
+### **1. Translation Equivalence Record**
 
 Identifies the mapping strategy and names the untranslatable residue.
 
@@ -485,7 +485,7 @@ Identifies the mapping strategy and names the untranslatable residue.
 * **Untranslatable Residue:** "Consideration" entails a specific historical doctrine of exchange that is not present in the French legal system.  
 * **Risk:** Literal translation as "considération" (respect/regard) would invalidate the contract.
 
-### **2\. Domain Transfer Record**
+### **2. Domain Transfer Record**
 
 Converts expertise-compressed meaning for different stakeholders.
 
@@ -496,18 +496,18 @@ Converts expertise-compressed meaning for different stakeholders.
 * **Target Expression:** "You are having a heart attack. Your blood test shows a chemical that the heart releases when it is injured. We need to act quickly to open your arteries."  
 * **Warrant Check:** Preserve the sense of "acute" (emergency) without the jargon "troponin".
 
-### **3\. Stakeholder Vocabulary Crosswalk**
+### **3. Stakeholder Vocabulary Crosswalk**
 
 Prevents category collision by mapping overlapping institutional terms.
 
 | Stakeholder | Term | Category Definition | SSI Governance Term |
 | :---- | :---- | :---- | :---- |
-| **Legal** | **Client** | Party with contractual rights | Account\_Holder |
-| **Product** | **User** | Interaction actor in software | System\_Actor |
-| **Support** | **Member** | Individual with active subscription | Service\_Beneficiary |
-| **Medical** | **Patient** | Recipient of clinical care | Care\_Recipient |
+| **Legal** | **Client** | Party with contractual rights | Account_Holder |
+| **Product** | **User** | Interaction actor in software | System_Actor |
+| **Support** | **Member** | Individual with active subscription | Service_Beneficiary |
+| **Medical** | **Patient** | Recipient of clinical care | Care_Recipient |
 
-### **4\. Localization Risk Record**
+### **4. Localization Risk Record**
 
 Flags signs that do not travel safely across semiotic borders.
 
@@ -517,7 +517,7 @@ Flags signs that do not travel safely across semiotic borders.
 * **Risk:** Perceived as a vulgar, obscene gesture (Report J/Report I inheritance).  
 * **Repair Move:** Replace with a generic "Checkmark" or "Text Label".
 
-### **5\. Untranslatable Residue Ledger**
+### **5. Untranslatable Residue Ledger**
 
 Documents the "unmarked loss" for high-stakes contexts.
 
@@ -527,7 +527,7 @@ Documents the "unmarked loss" for high-stakes contexts.
 * **Residue:** "Coziness" captures physical comfort but loses the German sense of social solidarity and spiritual peace.  
 * **Status:** Explanatory gloss required for cultural or literary transfer.
 
-### **6\. False-Friend Alert**
+### **6. False-Friend Alert**
 
 Flags structural similarities that hide semantic divergence.
 
@@ -536,7 +536,7 @@ Flags structural similarities that hide semantic divergence.
 * **Alert:** "Actually" means in fact; "Actuellement" means at the moment.  
 * **Risk:** Temporal mismatch in event reporting.
 
-### **7\. Cultural Pragmatics Profile**
+### **7. Cultural Pragmatics Profile**
 
 Profiles interactional force for AI dialogue generation.
 
@@ -546,7 +546,7 @@ Profiles interactional force for AI dialogue generation.
 * **Taboo:** Direct disagreement in group settings (wa).  
 * **Repair:** Phrase disagreement as a "maybe" or "difficult" question.
 
-### **8\. Symbolic Transfer Check**
+### **8. Symbolic Transfer Check**
 
 Analyzes color and icon symbolism from Reports I and J.
 
@@ -555,18 +555,18 @@ Analyzes color and icon symbolism from Reports I and J.
 * **Target Logic (CN):** Luck / Prosperity / Celebration  
 * **Constraint:** Do not use red for "negative" financial alerts in Chinese markets without context.
 
-### **9\. Interoperability Mapping Record**
+### **9. Interoperability Mapping Record**
 
 Aligns disparate data schemas while preserving semantic relationships.
 
-* **Source Schema:** Field "Patient\_Name"  
-* **Target Schema:** Field "Legal\_Name"  
+* **Source Schema:** Field "Patient_Name"  
+* **Target Schema:** Field "Legal_Name"  
 * **Relationship Predicate:** skos:exactMatch  
 * **Source Schema:** Field "Status"  
-* **Target Schema:** Field "Clinical\_State"  
+* **Target Schema:** Field "Clinical_State"  
 * **Relationship Predicate:** skos:closeMatch (Warning: partial mapping).
 
-### **10\. Cross-Lingual Retrieval Check**
+### **10. Cross-Lingual Retrieval Check**
 
 Diagnostic for RAG pipelines.
 
@@ -575,7 +575,7 @@ Diagnostic for RAG pipelines.
 * **Result (Naive):** Retrieves documents about "treatment" (medical).  
 * **Repair Move:** Consult mandatory statistical glossary before embedding; boost "definitional" chunks.
 
-### **11\. Transfer Failure/Repair Table**
+### **11. Transfer Failure/Repair Table**
 
 Summary of common logistical errors and their SSI interventions.
 
@@ -615,7 +615,7 @@ To demonstrate the operational value of Report L, we examine three cases of naiv
 
 **Source:** KFC's slogan "Finger Lickin' Good."
 
-**Naive Interpretation:** (Translated into Mandarin) "Eat your fingers off\!".
+**Naive Interpretation:** (Translated into Mandarin) "Eat your fingers off!".
 
 **Effect:** The brand is perceived as threatening or cannibalistic rather than delicious.
 
@@ -648,10 +648,10 @@ This logistical discipline ensures that semantic intelligence remains interopera
 
 #### **Works cited**
 
-1. SPECIALIZED TRANSLATION WITHIN SKOPOS THEORY \- sc@upt.ro, accessed May 14, 2026, [https://www.sc.upt.ro/attachments/article/944/03\_04\_LAMBRACHE%20RADU.pdf](https://www.sc.upt.ro/attachments/article/944/03_04_LAMBRACHE%20RADU.pdf)  
-2. TRANSLATION THEORY AND PRACTICE: WITH THE EXAMPLE OF IDIOMS \- Western European Studies, accessed May 14, 2026, [https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816](https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816)  
+1. SPECIALIZED TRANSLATION WITHIN SKOPOS THEORY - sc@upt.ro, accessed May 14, 2026, [https://www.sc.upt.ro/attachments/article/944/03_04_LAMBRACHE%20RADU.pdf](https://www.sc.upt.ro/attachments/article/944/03_04_LAMBRACHE%20RADU.pdf)  
+2. TRANSLATION THEORY AND PRACTICE: WITH THE EXAMPLE OF IDIOMS - Western European Studies, accessed May 14, 2026, [https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816](https://westerneuropeanstudies.com/index.php/2/article/download/460/287/816)  
 3. Critical Trajectories in Translation Studies | by Riaz Laghari | Medium, accessed May 14, 2026, [https://medium.com/@riazleghari/critical-trajectories-in-translation-studies-37d5c219ea00](https://medium.com/@riazleghari/critical-trajectories-in-translation-studies-37d5c219ea00)  
-4. Translation studies \- Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Translation\_studies](https://en.wikipedia.org/wiki/Translation_studies)  
+4. Translation studies - Wikipedia, accessed May 14, 2026, [https://en.wikipedia.org/wiki/Translation_studies](https://en.wikipedia.org/wiki/Translation_studies)  
 5. Exploring Translation Theories, accessed May 14, 2026, [https://parhamti.com/wp-content/uploads/2023/08/Exploring-Translation-Theories-2nd-ed.pdf](https://parhamti.com/wp-content/uploads/2023/08/Exploring-Translation-Theories-2nd-ed.pdf)
 
 ---
