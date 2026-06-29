@@ -10,6 +10,10 @@ authors:
 version: "1.0"
 date-released: "2026-06-27"
 license: "CC-BY-NC-SA-4.0"
+doi: "10.5281/zenodo.21039269"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21039269"
 url: "https://stunspot.github.io/stunspots-guide-to-semantics-semiotics-and-symbols/"
 repository-code: "https://github.com/Stunspot/stunspots-guide-to-semantics-semiotics-and-symbols"
 abstract: "A model-facing Semantic-Semiotic Intelligence canon for representation, reference, signs, meaning, symbols, interpretation, grounding, semantic pathology, and assistant governance."

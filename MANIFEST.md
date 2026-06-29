@@ -7,6 +7,11 @@ Source directory: Local build source directory omitted from public release. Sour
 
 `COPY_CONTEXT.md` is not present in this public repository. Public positioning is reconstructed from the manifest, repository structure, sampled report text, and generated documentation.
 
+## Citation and Archive
+
+**DOI:** https://doi.org/10.5281/zenodo.21039269  
+**Zenodo Record:** https://zenodo.org/records/21039269
+
 ## Canon Identity
 
 - Title: Stunspot's Guide to Semantics, Semiotics, and Symbols

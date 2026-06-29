@@ -12,6 +12,7 @@
 ![Compiled packs](https://img.shields.io/badge/compiled_packs-4-blueviolet)
 ![Omnibus](https://img.shields.io/badge/omnibus-1-informational)
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039269.svg)](https://doi.org/10.5281/zenodo.21039269)
 
 *Stunspot's Guide to Semantics, Semiotics, and Symbols* is a Markdown-native knowledge canon by Sam “stunspot” Walker / Collaborative Dynamics.
 
