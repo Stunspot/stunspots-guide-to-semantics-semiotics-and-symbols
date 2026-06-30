@@ -29,6 +29,10 @@ Use it as RAG substrate.
 Use it as project knowledge.  
 Use it as doctrine for assistants that need to reason about language, symbols, meaning, source claims, interpretation, and semantic failure without collapsing everything into vibes. Very stylish vibes, yes, but still vibes.
 
+Part of the Stunspot’s Guide to… Advanced Knowledge Base Library
+Browse the full library: 
+[Gateway Repo](https://github.com/Stunspot/stunspots-guides) · [stunspot.com](stunspot.com/#guides)
+
 ---
 
 ## Start Here
