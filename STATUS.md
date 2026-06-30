@@ -9,7 +9,7 @@
 - Source reports: 14
 - Compiled packs: 4
 - Omnibus files: 1
-- License: CC BY-NC-SA 4.0
+- License: Creative Commons Attribution 4.0 International
 - Author attribution: Sam “stunspot” Walker / Collaborative Dynamics
 
 ## Maturity
