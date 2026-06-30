@@ -11,7 +11,7 @@
 ![Source reports](https://img.shields.io/badge/source_reports-14-blue)
 ![Compiled packs](https://img.shields.io/badge/compiled_packs-4-blueviolet)
 ![Omnibus](https://img.shields.io/badge/omnibus-1-informational)
-![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-darkgrey)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039269.svg)](https://doi.org/10.5281/zenodo.21039269)
 
 *Stunspot's Guide to Semantics, Semiotics, and Symbols* is a Markdown-native knowledge canon by Sam “stunspot” Walker / Collaborative Dynamics.
@@ -162,7 +162,7 @@ Read the sequence in order: **A → B → C → D → E**, then jump to **K**, *
 
 Citation metadata is provided in [`CITATION.cff`](./CITATION.cff).
 
-Unless otherwise stated, this repository is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (**CC BY-NC-SA 4.0**). Commercial use requires prior written permission from Sam “stunspot” Walker / Collaborative Dynamics.
+Unless otherwise stated, this repository is licensed under **Creative Commons Attribution 4.0 International** (**CC BY 4.0**). Commercial use is allowed with attribution; do not imply endorsement by Sam “stunspot” Walker / Collaborative Dynamics.
 
 These materials are provided as-is for educational, research, design, and reference use. Verify high-impact claims before relying on them.
 
